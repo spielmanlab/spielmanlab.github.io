@@ -1,0 +1,30 @@
+/*************************************************
+ *  A custom theme for Hugo Academic
+ *  Set `custom_css = ["mychanges.css"] in `config.toml`.
+ *  Then save this file as `/static/css/mychanges.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+ /*************************************************
+ *  Fonts (note: update link @ themes/hugo-academic/layouts/partials)
+ **************************************************/
+
+.card .card-image {
+display: block;
+margin: 0 auto;
+position: "relative";
+max-width: 250px;
+}
+
+
+.article-container {
+  max-width: 1200px;
+ // padding: 0 20px 0 20px;
+ // margin: 0 auto 0 auto;
+}
+
+
+small,
+.small {
+  font-size: 18px;
+}
