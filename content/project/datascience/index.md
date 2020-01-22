@@ -31,7 +31,7 @@ editable= false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 This website contains all materials used in BIOL 01301 Spring 2020 at Rowan University with Dr. Spielman. This course meets Monday 12:30-1:45 in SCI 239, Wednesday 12:30-1:45 in SCI 226, and Thursday 11-1:45 in SCI 239. 
 
-**All grading and assignment submissions (unless otherwise stated) will be hosted on [Blackboard](https://rowan.blackboard.com/), but course materials will be posted on this site.**
+**All grading and assignment submissions (unless otherwise stated) will be hosted on [Blackboard](https://rowan.blackboard.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 space.**
 
 <br>
 
@@ -47,7 +47,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
  
 + **You are expected to bring your laptop to every class.** If you do not have a laptop or tablet with external keyboard/mouse, one will be provided for you.
 
-+ Join the class RStudio Cloud Space [here](https://rstudio.cloud/spaces/44379/join?access_code=W5xszVLeEv3YK05165JOaapp5N6cLuzuoWqwj30a) 
++ **Join the class RStudio Cloud BIOL01301 Space [here](https://rstudio.cloud/spaces/44379/join?access_code=W5xszVLeEv3YK05165JOaapp5N6cLuzuoWqwj30a)** 
 
 <br>
 
