@@ -1,0 +1,22 @@
+#Bb PackageInfo Property File
+#Wed Nov 28 14:46:13 EST 2018
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/local/blackboard/jdk/lib/tools.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar\:/usr/local/blackboard/apps/tomcat/newrelic/newrelic.jar
+cx.config.course.id=S_201840_40767_BIOL_01104
+java.vendor=Oracle Corporation
+os.name=Linux
+os.arch=amd64
+java.home=/usr/local/blackboard/jdk/jre
+db.product.name=Oracle
+cx.package.info.version=6.0
+os.version=2.6.32-696.23.1.el6.x86_64
+cx.config.full.value=CxConfig{operation\=EXPORT, courseid\=S_201840_40767_BIOL_01104, package\=/usr/local/blackboard/apps/tomcat/temp/plugins/bb-assessment/fc0ec7b6-1a90-4360-8056-ddf318d2c9d0/Test_ExportFile_S_201840_40767_BIOL_01104_Cospeciation and Phylogenetics Online Assessment.zip, logger\=CxLogger{logs\=[Log{name\=/usr/local/blackboard/apps/tomcat/temp/plugins/bb-assessment/fc0ec7b6-1a90-4360-8056-ddf318d2c9d0/Test_ExportFile_S_201840_40767_BIOL_01104_Cospeciation and Phylogenetics Online Assessment.log, verbosity\=default}, Log{name\=STDOUT, verbosity\=default}], logHooks\=[]}, resource_type_inclusions\=[], area_inclusions\=[ALIGNMENTS, RUBRIC], area_exclusions\=[ALL], object_inclusions\={ASSESSMENT\=[_1556015_1]}, object_exclusions\={}, features\={ArchiveUserPasswords\=false, CreateOrg\=false, AlternateAssessmentCsLinks\=false, ImportCourseStructure\=false, Bb5LinkToBrokenImageFix\=true}, strHostName\=null, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[], primaryNode\=null, nodes\=[], title\=null, packageVersion\=null, archiveCSItems\=true, archiveECSItems\=false, archiveOnlyReferencedPpg\=true, commonCartridge\=false, createChildFolder\=false, csDir\=, excludedCsFolderIds\=null, homeDir\=, includeGradeHistoryInArchive\=false, isExportPackage\=false, logDetailRubricInfo\=false, taskId\=null, useDefaultLog\=true}
+cx.config.package.name=/usr/local/blackboard/apps/tomcat/temp/plugins/bb-assessment/fc0ec7b6-1a90-4360-8056-ddf318d2c9d0/Test_ExportFile_S_201840_40767_BIOL_01104_Cospeciation and Phylogenetics Online Assessment.zip
+db.product.version=Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production\nWith the Partitioning, OLAP, Advanced Analytics and Real Application Testing options
+db.driver.name=Oracle JDBC driver
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:EXPORT
+java.version=1.8.0_144
+cx.config.package.identifier=9c22251abdbb4802ad3894b764b368c0
+db.driver.version=12.1.0.2.0
+java.default.locale=en_US
+app.release.number=3200.0.5-rel.6+3dd6b56
+cx.config.logs=[Log{name\=/usr/local/blackboard/apps/tomcat/temp/plugins/bb-assessment/fc0ec7b6-1a90-4360-8056-ddf318d2c9d0/Test_ExportFile_S_201840_40767_BIOL_01104_Cospeciation and Phylogenetics Online Assessment.log, verbosity\=default}, Log{name\=STDOUT, verbosity\=default}]

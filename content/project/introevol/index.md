@@ -60,12 +60,12 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 | <div style="width:50px">No.</div>  | Day/Date |<div style="width:225px">Topic and Slides</div>   |<div style="width:250px">In-class materials</div> |Readings/Assignments DUE  | Notes 
 -----------------------------------|----------|--------------------------------------------------|--------------------------------------------------|--------------------------|-------
 1  | W 1/22  | Introduction Day | None | None | None 
-2  | F 1/24  | [Scientific Method: Hypotheses and Predictions](slides/slides_scientific_inquiry.pdf)| [Hypotheses and Predictions Worksheet](worksheets/hyp_exp_worksheet.pdf) [(Solutions)](worksheets/hyp_exp_worksheet_solutions.pdf)|  Read Chapter 1 of textbook | None 
+2  | F 1/24  | [Scientific Method: Hypotheses and Predictions](slides/slides_scientific_inquiry.pdf)| [Hypotheses and Predictions Worksheet](worksheets/hyp_exp_worksheet.pdf) <!--[(Solutions)](worksheets/solutions/hyp_exp_worksheet_solutions.pdf)-->|  Read Chapter 1 of textbook | None 
 3  | M 1/27  | Scientific Method: Experimental design | [Continue Friday's worksheet](worksheets/hyp_exp_worksheet.pdf) | None | *Last day of regular course add/drop period*
-4  | W 1/29  | Scientific Method: Interpreting experimental results  | [Experimental Results Worksheet](worksheets/exp_results_worksheet.pdf) [(Solutions)](worksheets/exp_results_worksheet_solutions.pdf) | None | None
+4  | W 1/29  | Scientific Method: Interpreting experimental results  | [Experimental Results Worksheet](worksheets/exp_results_worksheet.pdf) <!--[(Solutions)](worksheets/solutions/exp_results_worksheet_solutions.pdf)--> | None | None
 5  | F 1/31  | Lab: Scientific Method (Termites)   | None | Submit _both_ CITI Lab Safety Training Certificates to Blackboard |Bring lab coat and lab goggles to class, and wear close-toed shoes.
 6  | M 2/3   | [Scientific Method: Representing Data I](slides/slides_data.pdf)  |  [Quantitative Data Visualization Website](https://sjspielman.shinyapps.io/plot-iris) |Read box on pages 37-38 of textbook, "A Closer Look: Correlation" | *Last day of late course add/drop period*
-7  | W 2/5   |  Scientific Method: Representing Data II | [Data Visualization Worksheet](worksheets/dataviz_worksheet.pdf) [(Solutions)](worksheets/dataviz_worksheet_solutions.pdf) | None | *End of late course add/drop period*
+7  | W 2/5   |  Scientific Method: Representing Data II | [Data Visualization Worksheet](worksheets/dataviz_worksheet.pdf) <!--[(Solutions)](worksheets/dataviz_worksheet_solutions.pdf)--> | None | *End of late course add/drop period*
 8  | F 2/7   | Lab: Scientific Measurements (Stickleback)  | 1. [Stickleback Lab Instructions](assignments/stickleback_lab.pdf) <br>  2. Class Google Sheet <br>  3. [Plotting website (optional but HIGHLY recommended)](https://sjspielman.shinyapps.io/plotstickleback) | Scientific Method (Termite) Lab assignment due on Blackboard | Bring lab coat and lab goggles to class, and wear close-toed shoes. 
 9  | M 2/10  | Introduction to genetics and biological variation | None | None | Deadline to provide Exam 1 accommodations and/or athletic schedules <!-- introduce mutation here -->
 10 | W 2/12  | [Evolution by Natural Selection: Variation and heritability I](slides/slides_introevol_natsel.pdf) | None |  Read Chapter 2 and Chapter 3 sections 3.1, 3.2, 3.3, 3.4| None
@@ -86,19 +86,19 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 24 | M 3/23 | Evolutionary forces in action II  | Continue previous worksheet | None |  Bring laptop to class
 25 | W 3/25 | _Overflow Day_ | None | None | None
 26 | F 3/27 | Exam 2 Review Session  | None | evolfoRces Assignment Due on Blackboard  | Bring laptop to class
-**27** | **M 3/29** | **Exam 2** | **None** | **None** | **Exam covers classes 14-26. Bring calculator to exam.**
-28 | W 4/1  | Speciation I |||
-29 | F 4/3  | Speciation II and Introduction to Phylogenetics|||
+**27** | **M 3/30** | **Exam 2** | **None** | **None** | **Exam covers classes 14-26. Bring calculator to exam.**
+28 | W 4/1  | Speciation I | None | Read Sections 6.1, 6.2, 6.3, 6.4, and 6.5 of textbook (skip content about phylogenetics/evolutionary trees)   | None
+29 | F 4/3  | Speciation II and Introduction to Phylogenetics|  [Worksheet](worksheets/treethinking_worksheet.pdf) | Read the following resources:  <br> 1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf) <br> 2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees) <br>  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | TBD | None
 30 | M 4/6  | Phylogenetics II|||
 31 | W 4/8  | Phylogenetics III|||
-32 | F 4/10 | Phylogenetics Activity|||
+32 | F 4/10 | Phylogenetics Activity | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) <br> 3. [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | None | Bring laptop to class
 33 | M 4/13 | Biogeography|||
 34 | W 4/15 | Phylogenetics of Speciation|||
 35 | F 4/17 | Other Applications of Phylogenetics|||
 **36** | **M 4/20** | **Exam 3** | **None** | **None** | **Exam covers classes 28-35.**
 37 | W 4/22 | History of Life on Earth I |||
 38 | F 4/24 | History of Life on Earth II |||
-39 | M 4/27 | Human Origins and Evolution |||
+39 | M 4/27 | Human Origins and Evolution |Optional readings:  <br> 1. [Fantastic blog-posted from world-renowned human geneticist Ewan Birney on "Race, Genetics, and Pseudoscience"](http://ewanbirney.com/2019/10/race-genetics-and-pseudoscience-an-explainer.html) <br> 2. [NY Times article on one of the most recently discovered ancient human fossils](https://www.nytimes.com/2019/04/10/science/homo-luzonensis-philippines-evolution.html)  <br> 3. [First discovery of Neanderthal-Denisovan hybrid](https://www.nature.com/articles/d41586-018-06004-0) <br> 4. [Article about *Homo eretus*](https://www.sciencenews.org/article/homo-erectus-last-known-appearance-roughly-117000-years-ago)||
 40 | W 4/29 | *OPTIONAL* Final Exam Review Session ||| 
 
 

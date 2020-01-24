@@ -47,7 +47,9 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
  
 + **You are expected to bring your laptop to every class.** If you do not have a laptop or tablet with external keyboard/mouse, one will be provided for you.
 
+<!--
 + **Join the class RStudio Cloud BIOL01301 Space [here](https://rstudio.cloud/spaces/44379/join?access_code=W5xszVLeEv3YK05165JOaapp5N6cLuzuoWqwj30a)** 
+-->
 
 <br>
 
