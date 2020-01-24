@@ -1,3 +1,4 @@
 ## ASSUMES ROWAN IS MOUNTED
+MOUNTED=$1
 hugo
-cp -r public/courses/* /Volumes/spielman-1/public.www/courses/
+cp -r public/courses/* /Volumes/$MOUNTED/public.www/courses/
