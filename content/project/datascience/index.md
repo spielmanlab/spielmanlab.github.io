@@ -59,6 +59,9 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 + [Data Visualization: A practical Introduction](https://socviz.co/) by Kieran Healy
 + [`tidyverse` homepage, official documentation, and cheatsheets](https://www.tidyverse.org/)
++ [STAT545 Resources (**EXCELLENT** background)](https://stat545.com/)
++ [Introduction to Data Science e-book](https://rafalab.github.io/dsbook/)
++ [RStudio Resources (all levels of videos/tutorials)](https://resources.rstudio.com/)
 + [Calling Bullshit Course Website](https://callingbullshit.org/) by Carl Bergstrom and Jevin West
 
 <br>
@@ -71,29 +74,29 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 | No. | Day/Date |<div style="width:250px">Topic and materials</div> | Background Reading         | Assignment DUE
 ------|----------|--------------------------------------------------|-----------------------------|--------------------
 1     | W 1/22   | Introduction/Syllabus Day | None | None
-2     | R 1/23   | [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/01-introduction-base-R.html)| None | None
+2     | R 1/23   | [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/01-introduction-base-R.html)| None | None
 3     | M 1/27   | [Types of data and visualizations, I](./slides/slides_introdata.pdf)  | Two blog posts on types of data: <br> 1. [Towards Data Science](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) <br> 2. [Scary Scientist](http://scaryscientist.blogspot.com/2015/02/classification-of-data-types.html)   | None
 4     | W 1/29   | Types of data and visualizations, II | 1. Read chapters 5, 6, 7, and 10 from "Fundamentals of Data Visualization" <br> 2. [Blog post on comparing plot types](https://rpubs.com/crazyhottommy/sina-plot)
-5     | R 1/30   | [Introduction to `ggplot2`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/02-introduction-ggplot2.html) <br><br> [R script template](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/02-introduction-ggplot2-script-template.R)  | None |
+5     | R 1/30   | [Introduction to `ggplot2`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/02-introduction-ggplot2.html) <br><br> [R script template](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/02-introduction-ggplot2-script-template.R)  | None |
 6     | M 2/3    | Communicating with (in)effective visualizations | Watch ["Lecture 6: Data Visualization" Videos](https://callingbullshit.org/videos.html) | [Evaluating Data Visualization Assignment](./assignments/viz_critique_assignment.pdf)
-7     | W 2/5    | [Introduction to RMarkdown](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/03-introduction-rmarkdown.html) | None | None
-8     | R 2/6    | [More practice with `ggplot2`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/04-more-ggplot2.html) | Read chapter 21 from "Fundamentals of Data Visualization" | `Introduction to ggplot2` assignment due on Blackboard as an R script.
-9     | M 2/10   | [Manipulating data with `dplyr` I] | Look over [`dplyr` vignette](https://dplyr.tidyverse.org/articles/dplyr.html) | None
-10    | W 2/12   | Manipulating data with `dplyr` II | None | None
-11    | R 2/13   | [Data manipulation and visualization] <!-- CO2 dataset? --> | None | `More practice with ggplot2` assignment due on Blackboard as an Rmd file.
-12    | M 2/17   | Manipulating data with `dplyr` III
-13    | W 2/19   | Best-practices, debugging, and other hot topics
-14    | R 2/20   | [Debugging code]
-15    | M 2/24   | Introduction to Tidy data principles | Read [Tidy Data Paper](https://vita.had.co.nz/papers/tidy-data.pdf) | `Data manipulation and visualization` assignment due on Blackboard as an Rmd file.
+7     | W 2/5    | [Introduction to RMarkdown](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/03-introduction-rmarkdown.html) | None | None
+8     | R 2/6    | [More practice with `ggplot2`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/04-more-ggplot2.html) | Read chapter 21 from "Fundamentals of Data Visualization" | `Introduction to ggplot2` assignment due on Blackboard as an R script.
+9     | M 2/10   | Reading, writing, and creating datasets | None | None
+10    | W 2/12   | Manipulating data with `dplyr` I | Background resources: <br> 1. [`dplyr` vignette](https://dplyr.tidyverse.org/articles/dplyr.html) <br> 2. [`dplyr` Intro from STAT545](https://stat545.com/dplyr-intro.html) <br> 3. [GET MORE PRACTICE HERE!](https://rgup.gitlab.io/research_cycle/04_dplyr.html) | None
+11    | R 2/13   | [Data manipulation and visualization] | None | `More practice with ggplot2` assignment due on Blackboard as an Rmarkdown file (NOT the knitted HTML and/or PDF!!)
+12    | M 2/17   | Manipulating data with `dplyr` II | Background resources <br> 1. [`dplyr` two-table vignette](https://dplyr.tidyverse.org/articles/two-table.html) <br> 2. [Ch 14-15 from STAT545](https://stat545.com/multiple-tibbles.html) <br> 3. [GET MORE PRACTICE HERE](https://rgup.gitlab.io/research_cycle/05_joins.html)| None
+13    | W 2/19   | Best-practices and debugging | TBD | None
+14    | R 2/20   | [Debugging code] | None | `Data manipulation and visualization` assignment due on Blackboard as an Rmd file.
+15    | M 2/24   | Introduction to Tidy data principles | Read [Tidy Data Paper](https://vita.had.co.nz/papers/tidy-data.pdf) | None
 16    | W 2/26   | Tidying data with `tidyr` | Look over [`tidyr` vignette](https://tidyr.tidyverse.org/articles/tidy-data.html)
 17    | R 2/27   | [From untidy to tidy: Tidying, manipulating, and visualizing] | None | `Debugging` assignment due on Blackboard
 18    | M 3/2    | Introduction to Version Control with GitHub
 19    | W 3/4    | Practice with GitHub
 20    | R 3/5    | [Conducting reproducible analyses] | None | `From untidy to tidy` assignment due on Blackboard
-21    | M 3/9    | Writing functions in R | None | None
-22    | W 3/11   | Using and building packages in R | None | None
-23    | R 3/12   | [Making an R package] | None | **Midterm Project due on Blackboard at noon**
---    | M 3/16 - F 3/20 | **SPRING BREAK!** | None |  None  
+21    | M 3/9    | Regular expressions | 1. [`stringr` vignette](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) <br> 2. [Regular expressions with `stringr`](https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html) | None
+22    | W 3/11   | Working with strings/regex with `stringr` | None | None
+23    | R 3/12   | Midterm project "study hall" | None | None
+--    | M 3/16 - F 3/20 | **SPRING BREAK!** | None |  **Midterm Project due by SUNDAY 3/15 at 11:59 pm as PULL REQUEST**  
 24    | M 3/23  | Introduction to hypothesis tests and modeling
 25    | W 3/25  | Permutation and randomization testing
 26    | R 3/26  | [Analyzing data with permutation tests]
