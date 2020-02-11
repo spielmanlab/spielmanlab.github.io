@@ -28,7 +28,7 @@ The histograms below show the **distribution of oleic acid percentages** for oli
     + Roughly symmetric or asymmetric?
       + \textcolor{red}{All are asymmetric}
     + Are there any outliers?
-      + \textcolor{red}{Northern Italy has an outlier around 84, and it looks like Southern Italy _might_ have some outliers at the right tail around 81.}
+      + \textcolor{red}{Northern Italy has an outlier around 84, and it looks like Southern Italy \emph{might} have some outliers at the right tail around 81.}
 
 
 2. What is (roughly) the minimum, maximum, and mode for each distribution?
@@ -67,7 +67,7 @@ The histograms below show the **distribution of oleic acid percentages** for oli
 
 <br><br><br>
 
-```{r, fig.height=3, fig.width=6}
+```{r, fig.height=2, fig.width=5}
 ggplot(olive, aes(x  = oleic)) + geom_histogram(aes(fill = region), color="black", binwidth = 0.5) + facet_grid(~region) + xlab("Oleic Acid Percentage") + ylab("Count")
 ```
 
@@ -114,7 +114,7 @@ The barplot below shows the _number of olives_ collected from each region. Rough
 ggplot(olive, aes(x = region)) + geom_bar(aes(fill=region), color="black") + scale_y_continuous(expand=c(0,0))
 ```
 
-\textcolor{red}{Mode is Southern Italy.}
+\textcolor{red}{Mode is Southern Italy. Roughly, 150 from Northern Italy, 100 from Sardinia, 310 from Southern Italy.}
 
 # Scatterplots, Part 1
 
