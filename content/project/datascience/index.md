@@ -47,6 +47,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
  
 + **You are expected to bring your laptop to every class.** If you do not have a laptop or tablet with external keyboard/mouse, one will be provided for you.
 
++ [**#TidyTuesday Extra Credit Instructions**](./tidytuesday_instructions.pdf)
+
 <!--
 + **Join the class RStudio Cloud BIOL01301 Space [here](https://rstudio.cloud/spaces/44379/join?access_code=W5xszVLeEv3YK05165JOaapp5N6cLuzuoWqwj30a)** 
 -->
@@ -83,10 +85,10 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 8     | R 2/6    | [More practice with `ggplot2`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/04-more-ggplot2.html) | Read chapter 21 from "Fundamentals of Data Visualization" | `Introduction to ggplot2` assignment due on Blackboard as an R script.
 9     | M 2/10   | Reading, writing, and creating datasets | None | None
 10    | W 2/12   | Manipulating data with `dplyr` I | Background resources: <br> 1. [`dplyr` vignette](https://dplyr.tidyverse.org/articles/dplyr.html) <br> 2. [`dplyr` Intro from STAT545](https://stat545.com/dplyr-intro.html) <br> 3. [GET MORE PRACTICE HERE!](https://rgup.gitlab.io/research_cycle/04_dplyr.html) | None
-11    | R 2/13   | [Data manipulation and visualization] | None | `More practice with ggplot2` assignment due on Blackboard as an Rmarkdown file (NOT the knitted HTML and/or PDF!!)
+11    | R 2/13   | [Data manipulation with `dplyr`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/05-introduction-dplyr.html) | None | `More practice with ggplot2` assignment due on Blackboard as an Rmarkdown file (NOT the knitted HTML and/or PDF!!)
 12    | M 2/17   | Manipulating data with `dplyr` II | Background resources <br> 1. [`dplyr` two-table vignette](https://dplyr.tidyverse.org/articles/two-table.html) <br> 2. [Ch 14-15 from STAT545](https://stat545.com/multiple-tibbles.html) <br> 3. [GET MORE PRACTICE HERE](https://rgup.gitlab.io/research_cycle/05_joins.html)| None
 13    | W 2/19   | Best-practices and debugging | TBD | None
-14    | R 2/20   | [Debugging code] | None | `Data manipulation and visualization` assignment due on Blackboard as an Rmd file.
+14    | R 2/20   | [Debugging code] | None | `Data manipulation with dplyr` assignment due on Blackboard as an Rmd file.
 15    | M 2/24   | Introduction to Tidy data principles | Read [Tidy Data Paper](https://vita.had.co.nz/papers/tidy-data.pdf) | None
 16    | W 2/26   | Tidying data with `tidyr` | Look over [`tidyr` vignette](https://tidyr.tidyverse.org/articles/tidy-data.html)
 17    | R 2/27   | [From untidy to tidy: Tidying, manipulating, and visualizing] | None | `Debugging` assignment due on Blackboard
