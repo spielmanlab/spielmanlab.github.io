@@ -86,12 +86,12 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 9     | M 2/10   | Reading, writing, and creating datasets | None | None
 10    | W 2/12   | Manipulating data with `dplyr` I | Background resources: <br> 1. [`dplyr` vignette](https://dplyr.tidyverse.org/articles/dplyr.html) <br> 2. [`dplyr` Intro from STAT545](https://stat545.com/dplyr-intro.html) <br> 3. [GET MORE PRACTICE HERE!](https://rgup.gitlab.io/research_cycle/04_dplyr.html) | None
 11    | R 2/13   | [Data manipulation with `dplyr`](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/05-introduction-dplyr.html) | None | `More practice with ggplot2` assignment due on Blackboard as an Rmarkdown file (NOT the knitted HTML and/or PDF!!)
-12    | M 2/17   | Manipulating data with `dplyr` II | Background resources <br> 1. [`dplyr` two-table vignette](https://dplyr.tidyverse.org/articles/two-table.html) <br> 2. [Ch 14-15 from STAT545](https://stat545.com/multiple-tibbles.html) <br> 3. [GET MORE PRACTICE HERE](https://rgup.gitlab.io/research_cycle/05_joins.html)| None
-13    | W 2/19   | Best-practices and debugging | TBD | None
-14    | R 2/20   | [Debugging code] | None | `Data manipulation with dplyr` assignment due on Blackboard as an Rmd file.
+12    | M 2/17   | [Best practices and other miscellany](https://github.com/sjspielman/datascience_for_biologists/raw/master/slides/slides_statgeom_bestpractices.pdf) | [Watch rstudio::conf 2020 talk on debugging](https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan) with *forthcoming "cheatsheet"* | None
+13    | W 2/19   | Manipulating data with `dplyr` II|  Background resources <br> 1. [`dplyr` two-table vignette](https://dplyr.tidyverse.org/articles/two-table.html) <br> 2. [Ch 14-15 from STAT545](https://stat545.com/multiple-tibbles.html) <br> 3. [GET MORE PRACTICE HERE](https://rgup.gitlab.io/research_cycle/05_joins.html) | None
+14    | R 2/20   | [Data manipulation with `dplyr` II] | None | `Data manipulation with dplyr` assignment due on Blackboard as an Rmd file.
 15    | M 2/24   | Introduction to Tidy data principles | Read [Tidy Data Paper](https://vita.had.co.nz/papers/tidy-data.pdf) | None
 16    | W 2/26   | Tidying data with `tidyr` | Look over [`tidyr` vignette](https://tidyr.tidyverse.org/articles/tidy-data.html)
-17    | R 2/27   | [From untidy to tidy: Tidying, manipulating, and visualizing] | None | `Debugging` assignment due on Blackboard
+17    | R 2/27   | [From untidy to tidy: Tidying, manipulating, and visualizing] | None | `Data manipulation with dplyr II` assignment due on Blackboard
 18    | M 3/2    | Introduction to Version Control with GitHub
 19    | W 3/4    | Practice with GitHub
 20    | R 3/5    | [Conducting reproducible analyses] | None | `From untidy to tidy` assignment due on Blackboard
@@ -105,15 +105,15 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 27    | M 3/29  | Linear modeling I 
 28    | W 4/1   | Linear modeling II
 29    | R 4/2   | [Analyzing data with linear models]
-30    | M 4/6   | Many models and multiple testing corrections
-31    | W 4/8   | Binary classification and logistic regression
+30    | M 4/6   | Binary classification and logistic regression
+31    | W 4/8   | Strategies for model evaluation
 32    | R 4/9   | [Analyzing data with logistic regression]
-33    | M 4/13  | Strategies for model evaluation and selection I
-34    | W 4/15  | Strategies for model evaluation and selection II
-35    | R 4/16  | [Evaluating models]
-36    | M 4/20  | Classification: Approaches to clustering data
-37    | W 4/22  | Classification: Approaches to dimension reduction
-38    | R 4/23  | [Clustering and dimension reduction Lab]
-39    | M 4/27  | Communicating your science
+33    | M 4/13  | Classification: Approaches to clustering data
+34    | W 4/15  | Classification: Approaches to dimension reduction
+35    | R 4/16  | [Clustering and dimension reduction Lab]
+36    | M 4/20  | Communication and reproducibility with R packages
+37    | W 4/22  | Communication with blogposts
+38    | R 4/23  | [Communication with shiny]
+39    | M 4/27  | Grab bag!
 40    | W 4/29  | *Open day to work on final project*
 --    | W 5/6   | **Final project due and "presentations" party**

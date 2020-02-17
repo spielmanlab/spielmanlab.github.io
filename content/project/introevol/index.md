@@ -71,7 +71,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 10 | W 2/12  | [Evolution by Natural Selection: Variation and heritability I](slides/slides_introevol_natsel.pdf) | None |  Read Chapter 2 and Chapter 3 sections 3.1, 3.2, 3.3, 3.4| None
 11 | F 2/14  | Evolution by Natural Selection: Variation and heritability II | [Worksheet](worksheets/ns_herit_worksheet.pdf) | Stickleback Lab assignment due on Blackboard | None
 **12** | **M 2/17**  | **Exam 1** <br> [Practice Exam](practice_exams/practice_midterm1.pdf) <br> [Practice Exam Solutions](practice_exams/practice_midterm1_SOLUTIONS.pdf) | None |  None | Covers classes 1-11 <!-- Can make this exam 1 review -->
-13 | W 2/19  | Exam 1 Regroup | None | None | None                     <!-- Can make this exam 1-->
+13 | W 2/19  | Continue last Wednesday's slides: Evolution and misconceptions!| None | None | None                     
 14 | F 2/21  | EvoDots activity | 1. [EvoDots Download](http://faculty.washington.edu/herronjc/SoftwareFolder/EvoDots.html) <br> 2. [EvoDots Instructions (incl. download instructions)](assignments/evodots_instructions.pdf) <br> 3. [EvoDots Assignment/Worksheet](assignments/evodots_assignment.docx) |  **DOWNLOAD EVODOTS BEFORE CLASS!** | Bring your computer to class
 15 | M 2/24  | Measuring variation populations | TBD <!--**ALLELES AND GENOTYPES WORKSHEET**--> | None | Bring calculator to class         <!-- alleles, p/q -->
 16 | W 2/26  | Measuring selection in populations | [Selection coefficients and fitness worksheet](worksheets/coeff_fitness_worksheet.pdf) [Solutions](worksheets/coeff_fitness_worksheet_solutions.pdf)  | None| Bring calculator to class     <!-- measuring fitness -->
