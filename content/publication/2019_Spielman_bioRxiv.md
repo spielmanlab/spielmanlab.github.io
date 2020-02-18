@@ -1,5 +1,5 @@
 +++
-title = "Model fit does not predict accuracy in single-gene protein phylogenetics"
+title = "[PREPRINT] Relative model fit does not predict accuracy in single-gene protein phylogenetics"
 date = "2019-06-01"
 
 authors = ["**Stephanie J. Spielman**"]

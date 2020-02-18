@@ -1,6 +1,6 @@
 +++
 title = "Computational prediction of the tolerance to amino-acid deletion in green-fluorescent protein"
-date = "2016-01-01"
+date = "2017-01-01"
 
 authors = ["Eleisha L. Jackson", "**Stephanie J. Spielman**", "Claus O. Wilke"]
 
