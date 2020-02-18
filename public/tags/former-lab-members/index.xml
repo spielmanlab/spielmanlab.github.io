@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Former Lab Members | Spielman Lab</title>
+    <link>/tags/former-lab-members.html</link>
+      <atom:link href="/tags/former-lab-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>Former Lab Members</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Former Lab Members</title>
+      <link>/tags/former-lab-members.html</link>
+    </image>
+    
+    <item>
+      <title>Chante Bethell (2018 - 2019)</title>
+      <link>/project/chante-bethell.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/chante-bethell.html</guid>
+      <description>&lt;p&gt;Chante is a former undergraduate research student who graduated in May 2019 with her BSc in Bioinformatics from the department of Molecular and Cellular Biosciences at Rowan University. She is now a Biological Data Analyst at the &lt;a href=&#34;https://www.ccdatalab.org/&#34;&gt;Childhood Cancer Data Lab&lt;/a&gt; in Philadelphia, PA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
