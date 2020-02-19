@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Spielman Lab</title>
+    <link>/publication_types/2.html</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2.html</link>
+    </image>
+    
+    <item>
+      <title>The evolving redox chemistry and bioavailability of vanadium in deep time</title>
+      <link>/publication/2020_mooreetal_geobiology.html</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_mooreetal_geobiology.html</guid>
+      <description>&lt;!-- 
+
+publication = &#34;*Geobiology* In Press.&#34;
+--&gt;
+&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyPhy 2.5 – a customizable platform for evolutionary hypothesis testing using phylogenies</title>
+      <link>/publication/2019_kosakovskyetal_mbe.html</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_kosakovskyetal_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative Evolutionary Rates in Proteins Are Largely Insensitive to the Substitution Model</title>
+      <link>/publication/2018_spielmanpond_mbe.html</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_spielmanpond_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>phyphy: Python package for facilitating the execution and parsing of HyPhy standard analyses</title>
+      <link>/publication/2018_spielman_joss.html</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_spielman_joss.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datamonkey 2.0: A Modern Web Application for Characterizing Selective and Other Evolutionary Processes</title>
+      <link>/publication/2018_weaveretal_mbe.html</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_weaveretal_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring evolutionary rates of proteins in a structural context</title>
+      <link>/publication/2018_sydykovaetal_f1000.html</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_sydykovaetal_f1000.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gain-of-function experiments with bacteriophage lambda uncover residues under diversifying selection in nature</title>
+      <link>/publication/2018_maddamsettietal_evolution.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_maddamsettietal_evolution.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative evolutionary rate inference in HyPhy with LEISR</title>
+      <link>/publication/2018_spielmanpond_peerj.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_spielmanpond_peerj.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational prediction of the tolerance to amino-acid deletion in green-fluorescent protein</title>
+      <link>/publication/2017_jacksonspielmanwilke_plosone.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_jacksonspielmanwilke_plosone.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulation of clathrin-mediated endocytosis by hierarchical allosteric activation of AP2</title>
+      <link>/publication/2017_kadlecovaetal_jcb.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_kadlecovaetal_jcb.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comparison of one-rate and two-rate inference frameworks for site-specific dN/dS estimation</title>
+      <link>/publication/2016_spielmanwanwilke_genetics.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_spielmanwanwilke_genetics.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causes of evolutionary rate variation among protein sites</title>
+      <link>/publication/2016_echavespielmanwilke_nrg.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_echavespielmanwilke_nrg.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extensively Parameterized Mutation–Selection Models Reliably Capture Site-Specific Selective Constraint</title>
+      <link>/publication/2016_spielmanwilke_mbe.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_spielmanwilke_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intermediate divergence levels maximize the strength of structure–sequence correlations in enzymes and viral proteins</title>
+      <link>/publication/2016_jacksonetal_protsci.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_jacksonetal_protsci.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive, structurally-informed alignment and phylogeny of vertebrate biogenic amine receptors</title>
+      <link>/publication/2015_spielmankumarwilke_peerj.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_spielmankumarwilke_peerj.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pyvolve: A Flexible Python Module for Simulating Sequences along Phylogenies</title>
+      <link>/publication/2015_spielmanwilke_plosone.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_spielmanwilke_plosone.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Relationship between dN/dS and Scaled Selection Coefficients</title>
+      <link>/publication/2015_spielmanwilke_mbe.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_spielmanwilke_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak</title>
+      <link>/publication/2015_meyeretal_ve.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_meyeretal_ve.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limited Utility of Residue Masking for Positive-Selection Inference</title>
+      <link>/publication/2014_spielmandawsonwilke2014_mbe.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_spielmandawsonwilke2014_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting evolutionary site variability from structure in viral proteins: buriedness, packing, flexibility, and design</title>
+      <link>/publication/2014_shahmoradietal_jme.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_shahmoradietal_jme.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum Allowed Solvent Accessibilites of Residues in Proteins</title>
+      <link>/publication/2013_tienetal_plosone.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013_tienetal_plosone.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Membrane environment imposes unique selection pressures in transmembrane domains of G-protein coupled receptors</title>
+      <link>/publication/2013_spielmanwilke_jme.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013_spielmanwilke_jme.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
