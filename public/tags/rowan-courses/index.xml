@@ -594,7 +594,7 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
 &lt;tr&gt;
 &lt;td&gt;14&lt;/td&gt;
 &lt;td&gt;R 2/20&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/06-more-wrangling.html&#34;&gt;Data manipulation with &lt;code&gt;dplyr&lt;/code&gt; II&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/06-more-wrangling.html&#34;&gt;Data manipulation with &lt;code&gt;dplyr&lt;/code&gt; II&lt;/a&gt; &lt;br&gt; (correct high tide data)[https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/data/dplyr_lab2/algae_hightide.csv]&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;&lt;code&gt;Data manipulation with dplyr&lt;/code&gt; assignment due on Blackboard as an Rmd file.&lt;/td&gt;
 &lt;/tr&gt;
