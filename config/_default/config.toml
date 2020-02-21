@@ -5,9 +5,6 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 
-publishDir = "docs"
-
-
 
 # Title of your site
 title = "Spielman Lab"
