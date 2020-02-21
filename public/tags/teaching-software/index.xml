@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Software | Spielman Lab</title>
+    <link>/tags/teaching-software.html</link>
+      <atom:link href="/tags/teaching-software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Teaching Software</title>
+      <link>/tags/teaching-software.html</link>
+    </image>
+    
+    <item>
+      <title>evolfoRces</title>
+      <link>/project/evolforces.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/evolforces.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

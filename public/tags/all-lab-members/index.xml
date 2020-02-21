@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All Lab Members | Spielman Lab</title>
+    <link>/tags/all-lab-members.html</link>
+      <atom:link href="/tags/all-lab-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>All Lab Members</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>All Lab Members</title>
+      <link>/tags/all-lab-members.html</link>
+    </image>
+    
+    <item>
+      <title>Chante Bethell (2018 - 2019)</title>
+      <link>/project/chante-bethell.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/chante-bethell.html</guid>
+      <description>&lt;p&gt;Chante is a former undergraduate research student who graduated in May 2019 with her BSc in Bioinformatics from the department of Molecular and Cellular Biosciences at Rowan University. She is now a Biological Data Analyst at the &lt;a href=&#34;https://www.ccdatalab.org/&#34; target=&#34;_blank&#34;&gt;Childhood Cancer Data Lab&lt;/a&gt; in Philadelphia, PA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Francis K. Picone (2019 - Present)</title>
+      <link>/project/frankie-picone.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/frankie-picone.html</guid>
+      <description>&lt;p&gt;Frankie is an undergraduate student majoring in Biology in the department of Biological Sciences at Rowan University. He is researching how different models of protein evolution affect and/or bias estimates of phylogenetic divergence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molly Miraglia (2019 - Present)</title>
+      <link>/project/molly-miraglia.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/molly-miraglia.html</guid>
+      <description>&lt;p&gt;Molly is an undergraduate student majoring in Bioinformatics in the department of Molecular and Cellular Biosciences at Rowan University. She is researching how multiple sequence alignment quality affects relative model selection in phylogenetics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naman Srivastava (2019 - Present)</title>
+      <link>/project/naman-srivastava.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/naman-srivastava.html</guid>
+      <description>&lt;p&gt;Naman is an undergraduate student majoring in Biological Sciences Rowan University. He is researching the deep-time geological dynamics of metals commonly used as protein co-factors and is co-advised by Dr. Eli Moore in Rowan&amp;rsquo;s &lt;a href=&#34;https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html&#34; target=&#34;_blank&#34;&gt;Department of Environmental Sciences&lt;/a&gt; in the School of Earth and Environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
