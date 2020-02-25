@@ -76,7 +76,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 15 | M 2/24  | [Measuring variation populations](slides/slides_intro_popgen.pdf) | [Alleles and variation in populations worksheet](worksheet/alleles_worksheet.pdf) | None | Bring calculator to class    
 16 | W 2/26  | Measuring selection in populations (Same slides as Monday) | [Selection coefficients and fitness worksheet](worksheet/selectionfitness_worksheet.pdf) | None| Bring calculator to class
 17 | F 2/28  | Modes of natural selection and [sexual selection](slides/slides_sexualselection.pdf) <br> Assignment for next friday forthcoming | None |  1. Read Chapter 3.5, and Chapter 4 sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.7 (not 4.6) <br> 2. EvoDots Assignment due on Blackboard  | None
-18 | M 3/2   | Natural selection in action | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
+18 | M 3/2   | Natural selection in action | 1. [On-campus application link](http://10.33.168.74:3838/my-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
 19 | W 3/4   | Other evolutionary forces | None |  TBD  | None
 20 | F 3/6   | Hardy Weinberg Equilibrium  | None |  Concepts in Natural Selection Assignment due **WITHIN BLACKBOARD** | Bring calculator to class 
 21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class
@@ -91,7 +91,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 29 | F 4/3  | Phylogenetics II |  Character mapping worksheet | None | None
 30 | M 4/6  | Phylogenetics II |                              |       |
 31 | W 4/8  | Phylogenetics III|                              |       |
-32 | F 4/10 | Phylogenetics Activity | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) <br> 3. [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | None | Bring laptop to class
+32 | F 4/10 | Phylogenetics Activity | 1. [On-campus application link](http://10.33.168.74:3838/my-apps/biol01104_phylo_lab/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) <br> 3. [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | None | Bring laptop to class
 33 | M 4/13 | Biogeography|||
 34 | W 4/15 | Phylogenetics of Speciation|||
 35 | F 4/17 | Other Applications of Phylogenetics|||
