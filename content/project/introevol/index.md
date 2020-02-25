@@ -81,7 +81,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 20 | F 3/6   | Hardy Weinberg Equilibrium  | None |  Concepts in Selection Assignment due **WITHIN BLACKBOARD by 10 am** | Bring calculator to class 
 21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class <br> [**Population genetics assignment due next Friday in class**](assignments/popgen_assignment.pdf)
 22 | W 3/11  | Evolutionary forces in action II | TBD | None | Bring computer to class
-23 | F 3/13  | Overflow day | None | None | Population genetics assignment due **In class on paper**
+23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** | None
 -- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
 24 | M 3/23 | Exam 2 Review Session  | None | None |  None
 **25** | **W 3/25** | **Exam 2** | **None** | **None** | **Exam covers classes 14-24. Bring calculator to exam.**
