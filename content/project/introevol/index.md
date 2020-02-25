@@ -76,21 +76,21 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 15 | M 2/24  | [Measuring variation populations](slides/slides_intro_popgen.pdf) | [Alleles and variation in populations worksheet](worksheet/alleles_worksheet.pdf) | None | Bring calculator to class    
 16 | W 2/26  | Measuring selection in populations (Same slides as Monday) | [Selection coefficients and fitness worksheet](worksheet/selectionfitness_worksheet.pdf) | None| Bring calculator to class
 17 | F 2/28  | Modes of natural selection and [sexual selection](slides/slides_sexualselection.pdf) <br> Assignment for next friday forthcoming | None |  1. Read Chapter 3.5, and Chapter 4 sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.7 (not 4.6) <br> 2. EvoDots Assignment due on Blackboard  | None
-18 | M 3/2   | Natural selection in action | TBD | None | None
-19 | W 3/4   | Selection redux | [Sexual selection and natural selection worksheet](worksheets/selection_worksheet.pdf) [Solutions](worksheets/selection_worksheet_solutions.pdf) | 
-20 | F 3/6   | [Beyond natural selection: Mutation, Drift, and Migration I](slides/slides_otherforces.pdf)  | None |  Selection Assignment due on Blackboard | None
-21 | M 3/9   | Hardy Weinberg Equilibrium I | TBD | None | Bring calculator to class 
-22 | W 3/11  | Hardy Weinberg Equilibrium II | Continue Monday's worksheet | None | Bring calculator to class
-23 | F 3/13  | Evolutionary forces in action I | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. [In-class evolfoRces worksheet](./worksheets/evolforces_inclass.pdf) | None | Bring laptop to class
+18 | M 3/2   | Natural selection in action | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
+19 | W 3/4   | Other evolutionary forces | None |  TBD  | None
+20 | F 3/6   | Hardy Weinberg Equilibrium  | None |  Concepts in Natural Selection Assignment due **WITHIN BLACKBOARD** | Bring calculator to class 
+21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class
+22 | W 3/11  | Evolutionary forces in action II | TBD | None | Bring computer to class
+23 | F 3/13  | Overflow day | None | None | Population genetics assignment due **In class on paper**
 -- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
-24 | M 3/23 | Evolutionary forces in action II  | Continue previous worksheet | None |  Bring laptop to class
-25 | W 3/25 | _Overflow Day_ | None | None | None
-26 | F 3/27 | Exam 2 Review Session  | None | evolfoRces Assignment Due on Blackboard  | Bring laptop to class
-**27** | **M 3/30** | **Exam 2** | **None** | **None** | **Exam covers classes 14-26. Bring calculator to exam.**
-28 | W 4/1  | Speciation I | None | Read Sections 6.1, 6.2, 6.3, 6.4, and 6.5 of textbook (skip content about phylogenetics/evolutionary trees)   | None
-29 | F 4/3  | Speciation II and Introduction to Phylogenetics|  [Worksheet](worksheets/treethinking_worksheet.pdf) | Read the following resources:  <br> 1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf) <br> 2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees) <br>  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | TBD | None
-30 | M 4/6  | Phylogenetics II|||
-31 | W 4/8  | Phylogenetics III|||
+24 | M 3/23 | Exam 2 Review Session  | None | None |  None
+**25** | **W 3/25** | **Exam 2** | **None** | **None** | **Exam covers classes 14-24. Bring calculator to exam.**
+26 | F 3/27 | Speciation I | None | Read Sections 6.1, 6.2, 6.3, 6.4, and 6.5 of textbook (skip content about phylogenetics/evolutionary trees)   | None
+27 | M 3/30 | Speciation II | None | None | None
+28 | W 4/1  | Intruduction to Phylogenetics |  [Worksheet](worksheets/treethinking_worksheet.pdf) | Read the following resources:  <br> 1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf) <br> 2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees) <br>  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | TBD | None
+29 | F 4/3  | Phylogenetics II |  Character mapping worksheet | None | None
+30 | M 4/6  | Phylogenetics II |                              |       |
+31 | W 4/8  | Phylogenetics III|                              |       |
 32 | F 4/10 | Phylogenetics Activity | 1. [On-campus application link](http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) <br> 3. [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | None | Bring laptop to class
 33 | M 4/13 | Biogeography|||
 34 | W 4/15 | Phylogenetics of Speciation|||
