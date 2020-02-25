@@ -72,6 +72,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 > Materials are subject to change up until the day of class based on student progress. Any change in deadlines will only be to _postpone_.
 
+**Link to midterm project: [https://github.com/sjspielman/datascience_midterm/](https://github.com/sjspielman/datascience_midterm/)**
+
 
 | No. | Day/Date |<div style="width:250px">Topic and materials</div> | Background Reading         | Assignment DUE
 ------|----------|--------------------------------------------------|-----------------------------|--------------------
