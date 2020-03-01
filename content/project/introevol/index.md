@@ -76,10 +76,10 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 15 | M 2/24  | [Measuring variation populations](slides/slides_intro_popgen.pdf) | [Alleles and variation in populations worksheet](worksheet/alleles_worksheet.pdf) | None | Bring calculator to class    
 16 | W 2/26  | Measuring selection in populations (Same slides as Monday) | [Selection coefficients and fitness worksheet](worksheet/selectionfitness_worksheet.pdf) | None| Bring calculator to class
 17 | F 2/28  | Modes of natural selection and [sexual selection](slides/slides_sexualselection.pdf) | None |  [Evolutionary concepts (specifically "microevolution")](https://www.nature.com/scitable/definition/evolution-78/)  <br> 1. Read Chapter 3.5, and Chapter 4 sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.7 (not 4.6) <br> 2. EvoDots Assignment due on Blackboard  | **Concepts in Selection Assignment due next Friday is WITHIN BLACKBOARD**
-18 | M 3/2   | Natural selection in action | 1. [On-campus application link](http://10.33.168.74:3838/my-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
-19 | W 3/4   | Other evolutionary forces | None |  TBD  | None
-20 | F 3/6   | Hardy Weinberg Equilibrium  | None |  Concepts in Selection Assignment due **WITHIN BLACKBOARD by 10 am** | Bring calculator to class 
-21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class <br> [**Population genetics assignment due next Friday in class**](assignments/popgen_assignment.pdf)
+18 | M 3/2   | Natural selection in action | [Inclass-worksheet](worksheets/evolforces_selection.pdf) <br> 1. [On-campus application link](http://10.33.168.74:3838/my-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
+19 | W 3/4   | Other evolutionary forces | None |  See "evolutionary concepts" readings from last Friday!!  | None
+20 | F 3/6   | Hardy Weinberg Equilibrium <br> [**Population genetics assignment due next Friday in class**](assignments/popgen_assignment.pdf) | [HWE Worksheet](worksheets/hwe_worksheet.pdf) |  Concepts in Selection Assignment due **WITHIN BLACKBOARD by 10 am** | Bring calculator to class 
+21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class 
 22 | W 3/11  | Evolutionary forces in action II | TBD | None | Bring computer to class
 23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** | None
 -- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
