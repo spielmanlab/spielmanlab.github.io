@@ -79,9 +79,9 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 18 | M 3/2   | Natural selection in action | [Inclass-worksheet](worksheets/evolforces_selection.pdf) <br> 1. [On-campus application link](http://10.33.168.74:3838/my-apps/evolfoRces/inst/evolfoRces/) <br> 2. [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/) <br> 3. evolfoRces natural selection worksheet | None | Bring computer to class
 19 | W 3/4   | [Other evolutionary forces](slides/slides_popgen2.pdf) | None |  See "evolutionary concepts" readings from last Friday!!  | None
 20 | F 3/6   | Hardy Weinberg Equilibrium <br> [**Population genetics assignment due next Friday in class**](assignments/popgen_assignment.pdf) | [HWE Worksheet](worksheets/hwe_worksheet.pdf) |  [READ THIS!!](https://www.khanacademy.org/science/biology/her/heredity-and-genetics/a/hardy-weinberg-mechanisms-of-evolution) <br> Concepts in Selection Assignment due **WITHIN BLACKBOARD by 10 am** | Bring calculator to class 
-21 | M 3/9   | Evolutionary forces in action I | TBD | None | Bring computer to class 
-22 | W 3/11  | Evolutionary forces in action II | TBD | None | Bring computer to class
-23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** | None
+21 | M 3/9   | [Evolutionary forces in action I](worksheets/evolforces_otherforces.pdf) | Lesson link is worksheet | None | Bring computer to class 
+22 | W 3/11  | Evolutionary forces in action II (same worksheet) | Lesson link from Monday is worksheet | None | Bring computer to class
+23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** OR **submitted to Blackboard APPROPRIATELY** | None
 -- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
 24 | M 3/23 | Exam 2 Review Session  | None | None |  None
 **25** | **W 3/25** | **Exam 2** | **None** | **None** | **Exam covers classes 14-24. Bring calculator to exam.**
