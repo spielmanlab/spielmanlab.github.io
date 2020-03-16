@@ -29,30 +29,74 @@ editable= false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 +++
 
-This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at Rowan University with Dr. Spielman. This course meets Monday/Wednesday 11-12:15 and Friday 11:00 am-1:45 pm in Science Hall 239.
+**THIS WEBSITE IS IN THE PROCESS OF BEING UPDATED FOR REMOTE INSTRUCTION UNDER COVID-19.**
 
-**All grading and assignments (unless otherwise stated) will be hosted on [Blackboard](https://rowan.blackboard.com/), but in-class materials and scheduling will be posted on this site.**
-
+This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at Rowan University with Dr. Spielman. This course now meets ~remotely~, but used to meet Monday/Wednesday 11-12:15 and Friday 11:00 am-1:45 pm in Science Hall 239.
 
 ## Key documents and links
 
-+ [**Download the course syllabus**](./logistics/Spring2020_Spielman_Syllabus_Evolution.pdf). This document contains all course policies. *When in doubt, check here first*.
-
++ [**Download this ANNOUNCEMENT AND GENERAL INFO document**](logistics/introevol_postcovid.pdf)
++ [**Join the class google calendar**](https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X3VwdTZ2Y3BqOWc4bTlra3ZkczhjaGE2bHNrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
++ [**Join the class Slack workspace**](https://join.slack.com/t/intro-evolution/shared_invite/zt-cnpdin7o-cevlNjvGbuBjAC5JYY5DWQ)
++ [**Download the UDPATED course syllabus**](./logistics/Spring2020_Spielman_Syllabus_Evolution_COVID.pdf). 
 + [**Download the regrade form**](./logistics/regrade_policy.docx). This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.
 
-+ [**Link to required CITI Laboratory Safety Training Instructions**](https://research.rowan.edu/officeofresearch/compliance/cititraining/index.html). You must complete "General Biological Laboratory Research" and "General Laboratory Safety Training." If you already have an up-to-date certificate, don't retake the trainings, and don't do other trainings you don't need!
+<br>
 
-+ **Student Visiting Hours** will be held *Wednesday and Thursday in Science Hall 201D from 2:30 - 4 pm*. You do not need to make an appointment. To speak with me one-on-one with a guarantee of privacy, please set up an appointment with me via [email](mailto:spielman@rowan.edu). 
-    
-+ **Assigments** are always due **one hour before class at 10 am, unless otherwise stated**. Assignments submitted within an hour of classtime will be deducted a 10% late penalty. _Late assignments will not be accepted without prior permission, which you can obtain by contacting me!_. Note that the lowest assignment grade will be DROPPED at the end of the semester.
+## Post-Spring Break Class Schedule and Materials
 
-+ The Final Exam will be on Monday May 4th 10:15-12:15 PM in SCI 239 (our classroom)
- 
+> Note: Assignments designated "embedded in Blackboard" can be reached under Blackboard --> Content. Rest assured they are NOT tests!
+>
+> Materials are subject to change up until the Monday of the given week. Below is a ROUGH OUTLINE of what we'll be doing.
 
 
-<br><br>
+#### Week of 3/30/20
++ Lecture videos and associated materials
+    + Evolutionary Forces wrap-up live demo: Video
+    + Speciation: Video and slides
++ Assignments
+    + "Evolutionary Forces wrap-up" due Thursday 4/2/20 at 11:59 pm
+    + "Concepts in Speciation" due Sunday 4/5/20 at 11:59 pm    
+<br>
 
-## Class Schedule and Materials
+#### Week of 4/6/20
++ Lecture videos and associated materials  
+    + Phylogenetics I: Video, slides, and worksheet (with solutions on final pages of PDF!)
+    + Phylogenetics II: Video and slides
++ Assignments
+    + "Reading and interpreting phylogenies" due Thursday 4/9/20 at 11:59 pm 
+    + "Mapping evolutionary change to phylogenies" due Sunday 4/12/20 at 11:59 pm  
+<br>
+
+#### Week of 4/13/20
++ Lecture videos and associated materials  
+    + Phylogenetics Lab: Video and materials
+    + Biogeography: Video and slides
++ Assignments
+    + "Phylogenetics Lab Assignment" due Thursday 4/16/20 at 11:59 pm 
+    + "Concepts in Biogeography" due Sunday 4/19/20 at 11:59 pm  
+<br>
+
+#### Week of 4/20/20
++ Lecture videos and associated materials   
+    + Pathogen evolution and phylodynamics: Video and materials
+    + Origins of life: Video and slides
++ Assignments
+    + "Concepts in Natural Selection" (embedded as Blackboard "quiz") due Thursday 4/23/20 at 11:59 pm 
+    + "Pathogen evolution assignment" due Sunday 4/26/20 at 11:59 pm  
+<br>
+
+#### Week of 4/28/20
++ Lecture videos and associated materials 
+    + Major Evolutionary Transitions and the fossil record: Video and slides
+    + Human origins and evolution: Video and slides
++ Assignments
+    + "Final assignment" (counts DOUBLE!!) due Tuesday 5/12/20 at 11:59 pm. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
+
+
+<br>
+
+## Pre-Spring Break Class Schedule and Materials
 
 > Materials are subject to change up until the day of class based on student progress. Note that many slides will pertain to several days of class. In-class worksheets are NOT graded.
 
@@ -81,6 +125,11 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 20 | F 3/6   | Hardy Weinberg Equilibrium <br> [**Population genetics assignment due next Friday in class**](assignments/popgen_assignment.pdf) | [HWE Worksheet](worksheets/hwe_worksheet.pdf) |  [READ THIS!!](https://www.khanacademy.org/science/biology/her/heredity-and-genetics/a/hardy-weinberg-mechanisms-of-evolution) <br> Concepts in Selection Assignment due **WITHIN BLACKBOARD by 10 am** | Bring calculator to class 
 21 | M 3/9   | [Evolutionary forces in action I](worksheets/evolforces_otherforces.pdf) | Lesson link is worksheet | None | Bring computer to class 
 22 | W 3/11  | Evolutionary forces in action II (same worksheet) | Lesson link from Monday is worksheet | None | Bring computer to class
+
+**END OF IN-PERSON INSTRUCTION**
+
+
+<!--
 23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** OR **submitted to Blackboard APPROPRIATELY** | None
 -- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
 24 | M 3/23 | Exam 2 Review Session  | None | None |  None
@@ -102,9 +151,6 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 40 | W 4/29 | *OPTIONAL* Final Exam Review Session ||| 
 
 
-
-
-<!--
 
 
 No. | Day/Date | <div style="width:200px">Topic and Slides</div>  | <div style="width:300px">In-class materials </div>  | <div style="width:250px">Readings/Assignments DUE</div>  | Notes 
@@ -131,7 +177,7 @@ No. | Day/Date | <div style="width:200px">Topic and Slides</div>  | <div style="
 20 | F 3/6   | [Beyond natural selection: Mutation, Drift, and Migration I](slides/slides_otherforces.pdf)  | None |  Selection Assignment due on Blackboard | None
 21 | M 3/9   | Hardy Weinberg Equilibrium I | [Worksheet] 
 22 | W 3/11  | Hardy Weinberg Equilibrium II | Continue Monday's worksheet | None | None
-23 | F 3/13  | Evolutionary forces in action I | [On-campus application link](http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/)  [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/)  [In-class evolfoRces worksheet](./worksheets/evolforces_inclass.pdf) | None | Bring laptop to class
+23 | F 3/13  | Evolutionary forces in action I |  [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/)  [In-class evolfoRces worksheet](./worksheets/evolforces_inclass.pdf) | None | Bring laptop to class
 `-`| M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
 24 | M 3/23 | Evolutionary forces in action II  | Continue previous worksheet | None |  Bring laptop to class
 25 | W 3/25 | _Overflow Day_ | None | Same worksheet continued  Submit "Fitness, selection, and HWE Problem Set" on PAPER at start of class (11am). | Bring laptop to class
@@ -142,7 +188,7 @@ Exam 2 Regroups  | None |  None | None
 [Phylogenetics I](slides/slides_phylogenetics.pdf)      | Read the following resources:  1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf)  2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | [Assignment due 11/20/19 on Blackboard (you have 2 weeks!)](assignments/species_phylo_assignment.docx)  [Worksheet](worksheets/treethinking_worksheet.pdf) | None
 Phylogenetics II      | None | [Worksheet](worksheets/charmapping_worksheet.pdf) [Solutions](worksheets/charmapping_worksheet_solutions.pdf) | None
 Phylogenetics III     | None| [Worksheet](worksheets/monoparapoly_worksheet.pdf)  [Solutions](worksheets/monoparapoly_worksheet_solutions.pdf)| None
-Phylogenetics Activity     | [On-campus application link](http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/)  [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) | [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | Bring laptop to class
+Phylogenetics Activity     | [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) | [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | Bring laptop to class
 *No class today (BUT!!)*      | None | **You must complete an online (Blackboard) assignment anytime during TODAY. The assignment will be available from 12:01 am - 11:59 pm today ONLY.** | None
 [The phylogenetics of speciation](slides/slides_phylomore.pdf) | Read Section 6.6  | [Worksheet](worksheets/phylo_applied_worksheet.pdf) | None
 [Biogeography](slides/slides_biogeography.pdf)      | Speciation/Phylogenetics assignment due to Blackboard by 11:00 am | [Worksheet](worksheets/biogeo_worksheet.pdf) | None
