@@ -29,7 +29,7 @@ editable= false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 +++
 
-This website contains all materials used in BIOL 01301 Spring 2020 at Rowan University with Dr. Spielman. This course meets Monday 12:30-1:45 in SCI 239, Wednesday 12:30-1:45 in SCI 226, and Thursday 11-1:45 in SCI 239. 
+This website contains all materials used in BIOL 01301 Spring 2020 at Rowan University with Dr. Spielman. This course now meets remotely, but used to meet Monday 12:30-1:45 in SCI 239, Wednesday 12:30-1:45 in SCI 226, and Thursday 11-1:45 in SCI 239. 
 
 **All grading and assignment submissions (unless otherwise stated) will be hosted on [Blackboard](https://rowan.blackboard.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 space.**
 
@@ -37,17 +37,13 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 ## Key documents and links
 
-+ [**Download the course syllabus**](./Spring2020_Spielman_Syllabus_DataScience.pdf). This document contains all course policies. *When in doubt, check here first*.
-
-+ [**Download the regrade form**](./regrade_policy.docx). This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.
-
-+ **Student Visiting Hours** will be held *Wednesday and Thursday in Science Hall 201D from 2:30 - 4 pm*. You do not need to make an appointment. To speak with me one-on-one with a guarantee of privacy, please set up an appointment with me via [email](mailto:spielman@rowan.edu). 
-    
-+ **Assigments** are always due **one hour before class at 10 am, unless otherwise stated** (most assignments are due on lab days). If you submit your assignment within an hour of class, you will automatically be deducted 10%.  _Late assignments will not be accepted without prior permission, which you can get by contacting me as needed!!_
- 
-+ **You are expected to bring your laptop to every class.** If you do not have a laptop or tablet with external keyboard/mouse, one will be provided for you.
-
-+ [**#TidyTuesday Extra Credit Instructions**](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/tidytuesday_instructions.pdf)
++ [Download this ANNOUNCEMENT AND GENERAL INFO document](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/datascience_postcovid.pdf)
++ [Add the class google calendar](https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X20yaWZ1YTUyaXAxcnNtNDAyNmc4ZHNldmI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+    + [Instructions for using google calendar for appointments](../introevol/logistics/google_calendar_instructions.pdf)
++ [Join the class Slack workspace](https://join.slack.com/t/datasci-4-biologists/shared_invite/zt-cja6k48h-Eo2vQjroUrT5sah2i7Di2A)
++ [Download the UPDATED course syllabus](./Spring2020_Spielman_Syllabus_DataScience_COVID.pdf).
++ [Download the regrade form](./regrade_policy.docx). 
++ [#TidyTuesday Extra Credit Instructions](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/tidytuesday_instructions.pdf)
 
 <br>
 
@@ -62,9 +58,59 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + [RStudio Resources (all levels of videos/tutorials)](https://resources.rstudio.com/)
 + [Calling Bullshit Course Website](https://callingbullshit.org/) by Carl Bergstrom and Jevin West
 
+
+<br> 
+
+## Post-Spring Break Class Schedule and Materials
+
+> Materials are subject to change up until the Monday of the given week. Below is a ROUGH OUTLINE of what we'll be doing.
+
+
+**UPDATED DEADLINES**:
++ `tidyr` assignment due **Sunday March 29th 11:59 pm on Blackboard**
++ `Midterm Project` due as Pull Request **Friday March 27th at 11:59 pm**
+    + 10% deduction deadline will be **Sunday March 29th 11:59 pm on Blackboard**
 <br>
 
-## Class Schedule and Materials
+#### Week of 3/30/20
++ Lecture videos and associated materials
+    + Hypothesis testing and permutation tests
++ Assignment due Sunday 4/5/20 at 11:59 pm    
+<br>
+
+#### Week of 4/6/20
++ Lecture videos and associated materials  
+    + Linear modeling
++ Assignment due Sunday 4/12/20 at 11:59 pm  
+<br>
+
+#### Week of 4/13/20
++ Lecture videos and associated materials  
+    + Binary classification with logistic regression
+    + Model evaluation
++ Assignment due Sunday 4/19/20 at 11:59 pm  
+<br>
+
+#### Week of 4/20/20
++ Lecture videos and associated materials  
+    + Clustering and dimension reduction
++ Assignment due Sunday 4/26/20 at 11:59 pm  
+<br>
+
+#### Week of 4/28/20
++ Lecture videos and associated materials
+    + Writing R functions and some ~light programming~???
+    + Writing R packages ??
+    + Return to regular expressions ??
+    + WHAT DO YOU WANT TO LEARN GUYS ?? Tell me in Slack `#requested-topics`
++ Assignments
+    + "Final assignment" (counts as DOUBLE assignment!!) due Tuesday 5/12/20 at 11:59 pm. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
+
+
+
+<br>
+
+## Pre-Spring Break Class Schedule and Materials
 
 > Materials are subject to change up until the day of class based on student progress. Any change in deadlines will only be to _postpone_.
 
@@ -94,6 +140,10 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 19    | W 3/4    | Introduction to UNIX   | [Cheatsheet](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/unix_cheatsheet.html) <br> [Exercises](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/unix_exerices.html) | None
 20    | R 3/5    | [Conducting a reproducible analyses with `git`/github](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/github_exercise.html) | [Cheatsheet](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/github_cheatsheet.html)  | None
 21    | M 3/9    | [Working with strings with `stringr`](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_stringr.pdf) | 1. [`stringr` reference](https://stringr.tidyverse.org/reference/index.html) <br> 2.[`stringr` vignette](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)   | None
+
+**END OF IN-PERSON INSTRUCTION**
+
+<!--
 22    | W 3/11   | Regular expressions | [Regular expressions with `stringr`](https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html) | None
 23    | R 3/12   | Midterm project "study hall" | None | None
 --    | M 3/16 - F 3/20 | **SPRING BREAK!** | None |  **Midterm Project due by SUNDAY 3/15 at 11:59 pm as PULL REQUEST for full credit** <br> **Due by Wednesday 3/18 at 11:59 pm as PULL REQUEST for 10% deduction** <br> **Or, due never for no credit. Not recommended.**  
@@ -115,3 +165,4 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 39    | M 4/27  | Grab bag!
 40    | W 4/29  | *Open day to work on final project*
 --    | W 5/6   | **Final project due and "presentations" party**
+-->
