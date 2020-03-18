@@ -15,7 +15,7 @@ geometry: margin=1in
 
 \vspace{1cm}
 
-1. Navigate to [https://calendar.google.com/calendar/](https://calendar.google.com/calendar/). Please ensure you have already added the class calendar to your account (see course website for link to join). On the left of the page where 
+1. Navigate to [https://calendar.google.com/calendar/](https://calendar.google.com/calendar/). Please ensure you have already added the class calendar to your account (see course website for link to join). 
 
 \vspace{0.5cm}
 
