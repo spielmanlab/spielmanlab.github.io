@@ -37,7 +37,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 + [**Download this ANNOUNCEMENT AND GENERAL INFO document**](logistics/introevol_postcovid.pdf)
 + [**Join the class google calendar**](https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X3VwdTZ2Y3BqOWc4bTlra3ZkczhjaGE2bHNrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-    + [Instructions for using google calendar for appointments](logistics/google_calendar_instructions.pdf)
+    + [Instructions for using Google Calendar for appointments](logistics/google_calendar_instructions.pdf)
+    + [Instructions for integrating Google Calendar with Slack](logistics/slack_google_instructions.pdf)
 + [**Join the class Slack workspace**](https://join.slack.com/t/intro-evolution/shared_invite/zt-cnpdin7o-cevlNjvGbuBjAC5JYY5DWQ)
 + [**Download the UDPATED course syllabus**](./logistics/Spring2020_Spielman_Syllabus_Evolution_COVID.pdf). 
 + [**Download the regrade form**](./logistics/regrade_policy.docx). This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.

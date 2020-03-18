@@ -40,6 +40,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + [Download this ANNOUNCEMENT AND GENERAL INFO document](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/datascience_postcovid.pdf)
 + [Add the class google calendar](https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X20yaWZ1YTUyaXAxcnNtNDAyNmc4ZHNldmI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
     + [Instructions for using google calendar for appointments](../introevol/logistics/google_calendar_instructions.pdf)
+    + [Instructions for integrating Google Calendar with Slack](../introevol/logistics/slack_google_instructions.pdf)
+
 + [Join the class Slack workspace](https://join.slack.com/t/datasci-4-biologists/shared_invite/zt-cja6k48h-Eo2vQjroUrT5sah2i7Di2A)
 + [Download the UPDATED course syllabus](./Spring2020_Spielman_Syllabus_DataScience_COVID.pdf).
 + [Download the regrade form](./regrade_policy.docx). 
