@@ -57,7 +57,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + Evolutionary Forces wrap-up live demo: Video
     + Speciation: Video and slides
 + Assignments
-    + "Evolutionary Forces wrap-up" due Thursday 4/2/20 at 11:59 pm
+    + ["Evolutionary Forces wrap-up"](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
     + "Concepts in Speciation" due Sunday 4/5/20 at 11:59 pm    
 <br>
 
