@@ -55,27 +55,27 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 #### Week of 3/30/20
 + Lecture videos and associated materials
     + Evolutionary Forces wrap-up live demo: Video
-    + Speciation: Video and slides
+    + Phylogenetics I: Video, slides, and worksheet (with solutions on final pages of PDF!)
 + Assignments
-    + ["Evolutionary Forces wrap-up"](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
-    + "Concepts in Speciation" due Sunday 4/5/20 at 11:59 pm    
+    + [Evolutionary Forces Wrap-Up](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
+    + "Reading and interpreting phylogenies" due Sunday 4/5/20 at 11:59 pm
 <br>
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Phylogenetics I: Video, slides, and worksheet (with solutions on final pages of PDF!)
     + Phylogenetics II: Video and slides
+    + Phylogenetics Lab: Video and materials
 + Assignments
-    + "Reading and interpreting phylogenies" due Thursday 4/9/20 at 11:59 pm 
-    + "Mapping evolutionary change to phylogenies" due Sunday 4/12/20 at 11:59 pm  
+    + "Mapping evolutionary change to phylogenies" due Thursday 4/9/20 at 11:59 pm 
+    + "Phylogenetics Lab Assignment" due Sunday 4/12/20 at 11:59 pm  
 <br>
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
-    + Phylogenetics Lab: Video and materials
+    + Speciation: Video and slides
     + Biogeography: Video and slides
 + Assignments
-    + "Phylogenetics Lab Assignment" due Thursday 4/16/20 at 11:59 pm 
+    + "Concepts in Speciation" due Thursday 4/16/20 at 11:59 pm          
     + "Concepts in Biogeography" due Sunday 4/19/20 at 11:59 pm  
 <br>
 
