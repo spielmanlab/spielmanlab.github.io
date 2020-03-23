@@ -70,26 +70,28 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 **UPDATED DEADLINES**:
 + `tidyr` assignment due **Sunday March 29th 11:59 pm on Blackboard**
-+ `Midterm Project` due as Pull Request **Friday March 27th at 11:59 pm**
-    + 10% deduction deadline will be **Sunday March 29th 11:59 pm on Blackboard**
++ `Midterm Project` due as Pull Request **Sunday March 29th at 11:59 pm**
+    + 10% deduction deadline will be **Wednesday April 1st 11:59 pm**
 <br>
 
 #### Week of 3/30/20
 + Lecture videos and associated materials
-    + Hypothesis testing and permutation tests
+    + Hypothesis testing (conceptually)
+    + Linear modeling, Part 1
 + Assignment due Sunday 4/5/20 at 11:59 pm    
 <br>
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Linear modeling
+    + Linear modeling, Part 2
+    + Model evaluation, Part 1
 + Assignment due Sunday 4/12/20 at 11:59 pm  
 <br>
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
     + Binary classification with logistic regression
-    + Model evaluation
+    + Model evaluation, Part 2
 + Assignment due Sunday 4/19/20 at 11:59 pm  
 <br>
 
