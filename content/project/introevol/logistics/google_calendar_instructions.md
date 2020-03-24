@@ -41,6 +41,10 @@ geometry: margin=1in
 
 5. If you would like to meet with me but those times do not work, OR you want a meeting >30 min long, please DM me on Slack and we will coordinate a separate meeting time.
 
+\vspace{0.5cm}
+
+6. 	**When coming to your personal meetings, please start initiating the process to join the meeting a few minutes early. It may take some time to set up. Don't take away from the next person's meeting time.**
+
 
 
 

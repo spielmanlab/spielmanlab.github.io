@@ -47,18 +47,18 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 ## Post-Spring Break Class Schedule and Materials
 
-> Note: Assignments designated "embedded in Blackboard" can be reached under Blackboard --> Content. Rest assured they are NOT tests!
+> Note: Assignments designated "embedded in Blackboard" can be reached under Blackboard --> Content and completed within Blackboard. Rest assured they are NOT tests!
 >
 > Materials are subject to change up until the Monday of the given week. Below is a ROUGH OUTLINE of what we'll be doing.
 
 
 #### Week of 3/30/20
 + Lecture videos and associated materials
-    + Evolutionary Forces wrap-up live demo: Video
+    + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/nXc54j0rT2I)
     + Phylogenetics I: Video, slides, and worksheet (with solutions on final pages of PDF!)
 + Assignments
     + [Evolutionary Forces Wrap-Up](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
-    + "Reading and interpreting phylogenies" due Sunday 4/5/20 at 11:59 pm
+    + "Reading and interpreting phylogenies" (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm
 <br>
 
 #### Week of 4/6/20
