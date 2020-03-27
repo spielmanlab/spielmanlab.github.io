@@ -55,16 +55,26 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 #### Week of 3/30/20
 + Lecture videos and associated materials
     + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/ES21oMFBQps)
-    + Phylogenetics I: Video, slides, and worksheet (with solutions on final pages of PDF!)
+    + Phylogenetics I: [Video](https://youtu.be/vrVCEbZqR2A), [slides](slides/slides_phylo_remote1.pdf), and [worksheet from video](worksheets/treethinking_worksheet.pdf)
++ Background reading and videos: (*Khan academy materials are REALLY good*)
+    + "Patterns" section from [Understanding Evolution](https://evolution.berkeley.edu/evolibrary/article/evo_03) (relevant for the rest of the semester!)
+    + Khan Academy ["Phylogenetic trees"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)
 + Assignments
     + [Evolutionary Forces Wrap-Up](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
     + "Reading and interpreting phylogenies" (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm
 <br>
 
+
+[Phylogenetics I](slides/slides_phylogenetics.pdf)      | Read the following resources:  1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf)  2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | [Assignment due 11/20/19 on Blackboard (you have 2 weeks!)](assignments/species_phylo_assignment.docx)  [Worksheet](worksheets/treethinking_worksheet.pdf) | None
+
 #### Week of 4/6/20
 + Lecture videos and associated materials  
     + Phylogenetics II: Video and slides
     + Phylogenetics Lab: Video and materials
++ Background reading:
+    + Khan Academy ["Discovering the tree of life"](https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life)
+    + Khan Academy ["Building a phylogenetic tree"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)
+
 + Assignments
     + "Mapping evolutionary change to phylogenies" due Thursday 4/9/20 at 11:59 pm 
     + "Phylogenetics Lab Assignment" due Sunday 4/12/20 at 11:59 pm  
