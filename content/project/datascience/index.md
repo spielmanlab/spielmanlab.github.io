@@ -72,6 +72,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + `tidyr` assignment due **Sunday March 29th 11:59 pm on Blackboard**
 + `Midterm Project` due as Pull Request **Sunday March 29th at 11:59 pm**
     + 10% deduction deadline will be **Wednesday April 1st 11:59 pm**
+    + Additional 5% deduction for any additional late day (i.e. Thursday 4/2 submission by 11:59 pm has 15% deduction, etc.)
 <br>
 
 #### Week of 3/30/20
