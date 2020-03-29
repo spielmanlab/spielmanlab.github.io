@@ -56,9 +56,10 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Lecture videos and associated materials
     + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/ES21oMFBQps)
     + Phylogenetics I: [Video](https://youtu.be/vrVCEbZqR2A), [slides](slides/slides_phylo_remote1.pdf), and [worksheet from video](worksheets/treethinking_worksheet.pdf)
-+ Background reading and videos: (*Khan academy materials are REALLY good*)
-    + "Patterns" section from [Understanding Evolution](https://evolution.berkeley.edu/evolibrary/article/evo_03) (relevant for the rest of the semester!)
++ Background reading and videos:
+    + ["How to read a tree"](https://artic.network/how-to-read-a-tree.html)
     + Khan Academy ["Phylogenetic trees"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)
+    + "Patterns" section from [Understanding Evolution](https://evolution.berkeley.edu/evolibrary/article/evo_03) (relevant for the rest of the semester!)
 + Assignments
     + [Evolutionary Forces Wrap-Up](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
     + "Reading and interpreting phylogenies" (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm
