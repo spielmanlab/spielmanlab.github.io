@@ -56,7 +56,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Lecture videos and associated materials
     + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/ES21oMFBQps)
     + Phylogenetics I: [Video](https://youtu.be/vrVCEbZqR2A), [slides](slides/slides_phylo_remote1.pdf), and [worksheet from video](worksheets/treethinking_worksheet.pdf)
-+ Background reading and videos:
++ Background reading and other videos:
     + ["How to read a tree"](https://artic.network/how-to-read-a-tree.html)
     + Khan Academy ["Phylogenetic trees"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)
     + "Patterns" section from [Understanding Evolution](https://evolution.berkeley.edu/evolibrary/article/evo_03) (relevant for the rest of the semester!)
@@ -65,8 +65,6 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + "Reading and interpreting phylogenies" (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm
 <br>
 
-
-[Phylogenetics I](slides/slides_phylogenetics.pdf)      | Read the following resources:  1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf)  2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | [Assignment due 11/20/19 on Blackboard (you have 2 weeks!)](assignments/species_phylo_assignment.docx)  [Worksheet](worksheets/treethinking_worksheet.pdf) | None
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
