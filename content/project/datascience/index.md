@@ -78,7 +78,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 #### Week of 3/30/20
 + Lecture videos and associated materials
     + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf) and [Video](https://youtu.be/it3GhOEIyBw)
-    + Linear modeling, Part 1
+    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/lm_model_selection.html)
 + Assignment due Sunday 4/5/20 at 11:59 pm    
 <br>
 
