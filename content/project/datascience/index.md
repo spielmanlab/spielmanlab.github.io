@@ -81,7 +81,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
     + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html) and [Video](https://youtu.be/Mlkm9L32NpQ)
 + Assignment due *Thursday 4/9/20 at 11:59 pm* on Blackboard
 	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.Rmd)
-	+ [HTML version](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.html)
+	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/08-intro-regression.html)
 <br>
 
 #### Week of 4/6/20
