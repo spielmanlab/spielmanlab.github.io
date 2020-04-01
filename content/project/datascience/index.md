@@ -79,27 +79,29 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + Lecture videos and associated materials
     + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf) and [Video](https://youtu.be/it3GhOEIyBw)
     + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html) and [Video](https://youtu.be/Mlkm9L32NpQ)
-+ Assignment due *Thursday 4/9/20 at 11:59 pm* 
++ Assignment due *Thursday 4/9/20 at 11:59 pm* on Blackboard
+	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.Rmd)
+	+ [HTML version](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.html)
 <br>
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Linear regression and model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
+    + Linear regression II and concepts in model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
     + Model evaluation, Part 1
-+ Assignment due *Thursday 4/16/20 at 11:59 pm* 
++ Assignment due *Thursday 4/16/20 at 11:59 pm* on Blackboard
 <br>
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
     + Binary classification with logistic regression
     + Model evaluation, Part 2
-+ Assignment due *Thursday 4/23/20 at 11:59 pm* 
++ Assignment due *Thursday 4/23/20 at 11:59 pm* on Blackboard
 <br>
 
 #### Week of 4/20/20
 + Lecture videos and associated materials  
     + Clustering and dimension reduction
-+ Assignment due *Thursday 4/30/20 at 11:59 pm* (there are TWO assignments due on this day!)
++ Assignment due *Thursday 4/30/20 at 11:59 pm* on Blackboard (there are TWO assignments due on this day!)
 <br>
 
 #### Week of 4/27/20
@@ -109,7 +111,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
     + Return to regular expressions ??
     + WHAT DO YOU WANT TO LEARN GUYS ?? Tell me in Slack `#requested-topics`
 + Assignments
-    + "Final assignment proposal" due *Thursday 4/30/20 at 11:59 pm*. (This assignment is not graded on its own, but it counts as 20% of your final assignment grade).
+    + "Final assignment proposal" due *Thursday 4/30/20 at 11:59 pm* on Blackboard. (This assignment is not graded on its own, but it counts as 20% of your final assignment grade).
     + "Final assignment" (counts as DOUBLE assignment!!) due *Tuesday 5/12/20 at 11:59 pm*. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
 
 
