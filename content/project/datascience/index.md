@@ -78,38 +78,39 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 #### Week of 3/30/20
 + Lecture videos and associated materials
     + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf) and [Video](https://youtu.be/it3GhOEIyBw)
-    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/lm_model_selection.html)
-+ Assignment due Sunday 4/5/20 at 11:59 pm    
+    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html)
++ Assignment due *Thursday 4/9/20 at 11:59 pm* 
 <br>
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Linear modeling, Part 2
+    + Linear regression and model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html)
     + Model evaluation, Part 1
-+ Assignment due Sunday 4/12/20 at 11:59 pm  
++ Assignment due *Thursday 4/16/20 at 11:59 pm* 
 <br>
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
     + Binary classification with logistic regression
     + Model evaluation, Part 2
-+ Assignment due Sunday 4/19/20 at 11:59 pm  
++ Assignment due *Thursday 4/23/20 at 11:59 pm* 
 <br>
 
 #### Week of 4/20/20
 + Lecture videos and associated materials  
     + Clustering and dimension reduction
-+ Assignment due Sunday 4/26/20 at 11:59 pm  
++ Assignment due *Thursday 4/30/20 at 11:59 pm* (there are TWO assignments due on this day!)
 <br>
 
-#### Week of 4/28/20
+#### Week of 4/27/20
 + Lecture videos and associated materials
     + Writing R functions and some ~light programming~???
     + Writing R packages ??
     + Return to regular expressions ??
     + WHAT DO YOU WANT TO LEARN GUYS ?? Tell me in Slack `#requested-topics`
 + Assignments
-    + "Final assignment" (counts as DOUBLE assignment!!) due Tuesday 5/12/20 at 11:59 pm. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
+    + "Final assignment proposal" due *Thursday 4/30/20 at 11:59 pm*. (This assignment is not graded on its own, but it counts as 20% of your final assignment grade).
+    + "Final assignment" (counts as DOUBLE assignment!!) due *Tuesday 5/12/20 at 11:59 pm*. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
 
 
 
