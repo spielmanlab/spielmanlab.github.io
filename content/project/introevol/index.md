@@ -51,6 +51,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 
 #### Week of 3/30/20
+
 + Lecture videos and associated materials
     + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/ES21oMFBQps)
     + Phylogenetics I: [Video](https://youtu.be/vrVCEbZqR2A), [slides](slides/slides_phylo_remote1.pdf), and [worksheet from video](worksheets/treethinking_worksheet.pdf)
@@ -61,21 +62,20 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Assignments
     + [Evolutionary Forces Wrap-Up](assignments/evolforces_wrapup.docx) due Thursday 4/2/20 at 11:59 pm
     + "Reading and interpreting phylogenies" (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm
-<br>
 
 
 #### Week of 4/6/20
-+ Lecture videos and associated materials  
-    + Phylogenetics II: [Video](https://youtu.be/l8D4J_i3WFc) and [slides](slides/slides_phylo_remote2.pdf)
-    + Phylogenetics Lab: Video forthcoming (no assignment uses this, but it may help to further clarify and understand phylogenies!) with [website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/)
-+ Background reading **these are REALLY HELPFUL!!! Make sure to read/watch these too!**:
-    + Khan Academy ["Discovering the tree of life"](https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life)
-    + Khan Academy ["Building a phylogenetic tree"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)
 
++ Lecture videos and associated materials  
+  + Phylogenetics II: [Video](https://youtu.be/l8D4J_i3WFc) and [slides](slides/slides_phylo_remote2.pdf)
+  + Phylogenetics Lab: Video forthcoming (no assignment uses this, but it may help to further clarify and understand phylogenies!) with [website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/)
++ Background reading **these are REALLY HELPFUL!!! Make sure to read/watch these too!**:
+  + Khan Academy ["Discovering the tree of life"](https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life)
+  + Khan Academy ["Building a phylogenetic tree"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)
 + Assignments
-    + ["Mapping evolutionary change to phylogenies"](assignments/mapping_assignment.pdf) due Thursday 4/9/20 at 11:59 pm. This document should be done by hand and *LEGIBLY* scanned or photographed to submit to Blackboard.
-    + "Homology and convergent evolution" (embedded in Blackboard) due Sunday 4/12/20 at 11:59 pm  
-<br>
+  + ["Mapping evolutionary change to phylogenies"](assignments/mapping_assignment.pdf) due Thursday 4/9/20 at 11:59 pm. This document should be done by hand and *LEGIBLY* scanned or photographed to submit to Blackboard.
+  + "Homology and convergent evolution" (embedded in Blackboard) due Sunday 4/12/20 at 11:59 pm  
+
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
@@ -84,7 +84,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Assignments
     + "Concepts in Speciation" due Thursday 4/16/20 at 11:59 pm          
     + "Concepts in Biogeography" due Sunday 4/19/20 at 11:59 pm  
-<br>
+
 
 #### Week of 4/20/20
 + Lecture videos and associated materials   
@@ -92,9 +92,9 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + Origins of life: Video and slides
 + Assignments
     + "Concepts in Natural Selection" (embedded as Blackboard "quiz") due Thursday 4/23/20 at 11:59 pm.
-    	+ This assignment is *optional to complete*. It is associated with Rowan core "before/after" assessments, but due to COVID, this university-wide assessment will not be done Spring 2020. If you do this assignment, it will be counted towards your grade. If you do not do this assignment, you will be automatically excempt from it, and it will not count towards your grade at all. *However*, if you choose not to do this assignment, be aware that each other assignment will be worth a bit more towards your overall grade! Therefore, doing this HW is a possible option if you want all your other assignments to count for slightly less.
-	+ "Pathogen evolution assignment" due Sunday 4/26/20 at 11:59 pm  
-<br>
+        + This assignment is *optional to complete*. It is associated with Rowan core "before/after" assessments, but due to COVID, this university-wide assessment will not be done Spring 2020. If you do this assignment, it will be counted towards your grade. If you do not do this assignment, you will be automatically excempt from it, and it will not count towards your grade at all. *However*, if you choose not to do this assignment, be aware that each other assignment will be worth a bit more towards your overall grade! Therefore, doing this HW is a possible option if you want all your other assignments to count for slightly less.
+    + "Pathogen evolution assignment" due Sunday 4/26/20 at 11:59 pm  
+
 
 #### Week of 4/28/20
 + Lecture videos and associated materials 
