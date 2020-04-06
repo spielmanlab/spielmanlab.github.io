@@ -86,7 +86,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Linear regression II and concepts in model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
+    + Linear regression II and concepts in model selection: [Video](https://youtu.be/qeoyBBkqgVs) and [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
+        + See Slack `#general` for some lecture clarifications: [one](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197021002800) and [two](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197682004100)
     + Model evaluation, Part 1
 + Assignment due *Thursday 4/16/20 at 11:59 pm* on Blackboard
 <br>
