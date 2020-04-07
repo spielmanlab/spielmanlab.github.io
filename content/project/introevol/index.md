@@ -68,7 +68,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 + Lecture videos and associated materials  
   + Phylogenetics II: [Video](https://youtu.be/l8D4J_i3WFc) and [slides](slides/slides_phylo_remote2.pdf)
-  + Phylogenetics Lab: Video forthcoming (no assignment uses this, but it may help to further clarify and understand phylogenies!) with [website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/)
+  + Phylogenetics "Lab": [Video](https://youtu.be/yhhQMBrdFa4) with [associated website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) (no assignment *specifically* uses this, this video will help to further clarify and understand phylogenies building and mapping on phylogenies!) 
 + Background reading **these are REALLY HELPFUL!!! Make sure to read/watch these too!**:
   + Khan Academy ["Discovering the tree of life"](https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life)
   + Khan Academy ["Building a phylogenetic tree"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)
@@ -88,11 +88,14 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/20/20
 + Lecture videos and associated materials   
-    + Pathogen evolution and phylodynamics: Video and materials
+    + Pathogen evolution and phylodynamics: Video and materials.
     + Origins of life: Video and slides
+    + IMPORTANT NOTE: **THIS WEDESNDAY**, rather than a live HW session, we will have a LIVE LECTURE(attendance optional, it will still be recorded) to discuss **phylogenetics of COVID**
+
 + Assignments
     + "Concepts in Natural Selection" (embedded as Blackboard "quiz") due Thursday 4/23/20 at 11:59 pm.
         + This assignment is *optional to complete*. It is associated with Rowan core "before/after" assessments, but due to COVID, this university-wide assessment will not be done Spring 2020. If you do this assignment, it will be counted towards your grade. If you do not do this assignment, you will be automatically excempt from it, and it will not count towards your grade at all. *However*, if you choose not to do this assignment, be aware that each other assignment will be worth a bit more towards your overall grade! Therefore, doing this HW is a possible option if you want all your other assignments to count for slightly less.
+        + See note above: Wednesday will not be used for completing this HW, but rather for an additional lecture on COVID.
     + "Pathogen evolution assignment" due Sunday 4/26/20 at 11:59 pm  
 
 
