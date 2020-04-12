@@ -79,8 +79,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
-  + Speciation: Video and slides
-  + Biogeography: Video and slides
+  + Speciation: [Video](https://youtu.be/dV1QdOjh258) and [slides](slides/speciation_remoteversion.pdf)
+  + Biogeography: [Video](https://youtu.be/1GihsO7N2Bg) and [slides](slides/biogeography_remoteversion.pdf)
 + Assignments
   + "Concepts in Speciation" (embedded in Blackboard) due Thursday 4/16/20 at 11:59 pm          
   + "Concepts in Biogeography" (embedded in Blackboard) due Sunday 4/19/20 at 11:59 pm  
