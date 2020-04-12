@@ -79,35 +79,42 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
-    + Speciation: Video and slides
-    + Biogeography: Video and slides
+  + Speciation: Video and slides
+  + Biogeography: Video and slides
 + Assignments
-    + "Concepts in Speciation" due Thursday 4/16/20 at 11:59 pm          
-    + "Concepts in Biogeography" due Sunday 4/19/20 at 11:59 pm  
+  + "Concepts in Speciation" (embedded in Blackboard) due Thursday 4/16/20 at 11:59 pm          
+  + "Concepts in Biogeography" (embedded in Blackboard) due Sunday 4/19/20 at 11:59 pm  
 
 
 #### Week of 4/20/20
 + Lecture videos and associated materials   
-    + Pathogen evolution and phylodynamics: Video and materials.
-    + Origins of life: Video and slides
-    + IMPORTANT NOTE: **THIS WEDESNDAY**, rather than a live HW session, we will have a LIVE LECTURE(attendance optional, it will still be recorded) to discuss **phylogenetics of COVID**
-
-+ Assignments
-    + "Concepts in Natural Selection" (embedded as Blackboard "quiz") due Thursday 4/23/20 at 11:59 pm.
-        + This assignment is *optional to complete*. It is associated with Rowan core "before/after" assessments, but due to COVID, this university-wide assessment will not be done Spring 2020. If you do this assignment, it will be counted towards your grade. If you do not do this assignment, you will be automatically excempt from it, and it will not count towards your grade at all. *However*, if you choose not to do this assignment, be aware that each other assignment will be worth a bit more towards your overall grade! Therefore, doing this HW is a possible option if you want all your other assignments to count for slightly less.
-        + See note above: Wednesday will not be used for completing this HW, but rather for an additional lecture on COVID.
-    + "Pathogen evolution assignment" due Sunday 4/26/20 at 11:59 pm  
+  + Pathogen evolution and phylodynamics: Video and materials.
+  + The second lecture for this week will be *live during WEDNESDAY's class* (attendance optional, it will still be recorded) to discuss **phylogenetics and evolutionary origins of SARS-CoV-2**.
+    + *To ensure a timely class without disruption, you will not be allowed to join the Zoom after 11:05 am!!!!!*
++ Assignments (only 1 this week!!)
+  + "Pathogen evolution assignment" due **Sunday 4/26/20 at 11:59 pm**
 
 
-#### Week of 4/28/20
-+ Lecture videos and associated materials 
-    + Major Evolutionary Transitions and the fossil record: Video and slides
-    + Human origins and evolution: Video and slides
-+ Assignments
-    + "Final assignment" (counts DOUBLE!!) due Tuesday 5/12/20 at 11:59 pm. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
+
+#### Week of 4/28/20 
++ Lecture videos and associated materials
+  + [*Note:* The first two videos are relatively shorter, and are split up for purposes of achieving cohesive, digestible, and less overwhelming content.]
+  + Origin of life and major evolutionary transitions: Video and Slides
+  + The fossil record and macroevolutionary trends: Video and Slides
+  + Human origins and evolution: Video and Slides
++ Assignments (only 1 this week!!)
+  + "Evolutionary transitions and the fossil record assignment" due **Thursday 4/30/20 at 11:59 pm**
 
 
-<br>
+
+#### FINAL ASSIGNMENT due Tuesday 5/12/20 at 11:59 pm (or early 5/5/20 for bonus points)
++ Counts as *double* assignment grade
++ Absolutely NO extensions allowed due to university grading deadlines
++ **For a BONUS of 10%**, submit the assignment week early, Tuesday 5/5/20 at 11:59 pm. 
++ During the final exam time slot (**Monday 5/4/20 from 10:15 am - 12:15 pm**) there will be an office hours session to ask questions about the final assignment. **We will NOT be doing this assignment together as a class like we have been doing, but I will answer any and all of your questions during this session!!** 
+    + To guarantee there will be time to answer your questions, arrive on time!! 
+    
+<br><br><br>
 
 ## Pre-Spring Break Class Schedule and Materials
 
