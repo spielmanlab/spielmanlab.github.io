@@ -117,8 +117,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 ####  [Final Assignment](https://github.com/sjspielman/datascience_final_assignment) (Fork to your github account!)
   + Counts as TWO assignment grades
   + Due *Tuesday 5/12/20 at 11:59 pm as github PR*. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
-  + *__PLEASE__ attend the live Thursday session - we will do about 1/3 of the final assignment TOGETHER!* You don't want to miss this!!!!!
-  + During the normal final exam time, Thursday 5/6/20 from 12:30pm - 2:30pm, there will be an optional ZOOM SESSION (see class calendar) to come ask questions for completing this assignment. **HIGHLY RECOMMENDED.**
+  + Attend the **live Thursday session on 4/29/30 from 11:30 am - 1:45 pm** - we will do about 1/3 of the final assignment TOGETHER! You don't want to miss this!!!!!
+  + During the normal final exam time, **Thursday 5/6/20 from 12:30pm - 2:30pm**, there will be an optional ZOOM SESSION (see class calendar) to come ask questions for completing this assignment. **REALLY REALLY HIGHLY RECOMMENDED.**
 
 
 
