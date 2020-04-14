@@ -98,7 +98,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 #### Week of 4/13/20
 + Lecture videos and associated materials  
     + Binary classification with logistic regression: [Video](https://youtu.be/2zdRt3S2ltc), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic1.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic1.Rmd)
-    + Model evaluation, Part 2
+    + ROC Curves for evaluating logistic regression: Video, [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic2.pdf), [RMD slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic2.Rmd)
 + Assignment due *Thursday 4/23/20 at 11:59 pm* on Blackboard
 <br>
 
