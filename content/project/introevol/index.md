@@ -90,8 +90,13 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Lecture videos and associated materials   
   + Pathogen evolution and phylodynamics: [Video] and [slides](slides/slides_pathogens.pdf).
   + Phylogenetics and evolutionary origins of SARS-CoV-2: Video
-    + 
-+ * To ensure timely classes without disruption, meetings will be LOCKED at 11:10 am. Don't worry they will still be recorded!!
+    + [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
+    + [The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2](https://www.nature.com/articles/s41564-020-0695-z)
+    + [nextstrain.org](https://nextstrain.org/)
+    + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
+        + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
+        + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
++ *To ensure timely classes without disruption, Zoom meetings will be LOCKED no later than 11:10 am, but possibly sooner.* They will still be recorded and posted after class.
   + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
     + The Friday Zoom session focus on this HW
 
