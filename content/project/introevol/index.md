@@ -86,24 +86,25 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
   + "Concepts in Biogeography" (embedded in Blackboard) due Sunday 4/19/20 at 11:59 pm  
 
 
-#### Week of 4/20/20
+#### Week of 4/20/20: All lectures are OPTIONALLY LIVE
 + Lecture videos and associated materials   
-  + Pathogen evolution and phylodynamics: Video and materials.
-  + The second lecture for this week will be *live during WEDNESDAY's class* (attendance optional, it will still be recorded) to discuss **phylogenetics and evolutionary origins of SARS-CoV-2**.
-    + *To ensure a timely class without disruption, you will not be allowed to join the Zoom after 11:05 am!!!!!*
-+ Assignments (only 1 this week!!)
-  + "Pathogen evolution assignment" due **Sunday 4/26/20 at 11:59 pm**
+  + Pathogen evolution and phylodynamics: [Video] and [slides](slides/slides_pathogens.pdf).
+  + Phylogenetics and evolutionary origins of SARS-CoV-2: Video
+    + 
++ * To ensure timely classes without disruption, meetings will be LOCKED at 11:10 am. Don't worry they will still be recorded!!
+  + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
+    + The Friday Zoom session focus on this HW
 
 
 
 #### Week of 4/28/20 
 + Lecture videos and associated materials
-  + [*Note:* The first two videos are relatively shorter, and are split up for purposes of achieving cohesive, digestible, and less overwhelming content.]
+  + **OPTIONALLY LIVE on MONDAY:** Human origins and evolution: Video and Slides
   + Origin of life and major evolutionary transitions: Video and Slides
   + The fossil record and macroevolutionary trends: Video and Slides
-  + Human origins and evolution: Video and Slides
 + Assignments (only 1 this week!!)
   + "Evolutionary transitions and the fossil record assignment" due **Thursday 4/30/20 at 11:59 pm**
+    + The Wednesday Zoom session will focus on this HW
 
 
 
