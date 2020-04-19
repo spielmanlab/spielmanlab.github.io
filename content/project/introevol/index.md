@@ -98,7 +98,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
 + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
-+ The Friday Zoom session focus on this HW
+    + The Friday Zoom session focus on this HW
 
 
 
