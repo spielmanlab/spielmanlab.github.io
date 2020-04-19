@@ -97,6 +97,9 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
+    + [Articles by Ed Yong](https://www.theatlantic.com/author/ed-yong/), science writer at The Atlantic. In my personal opinion, his coverage of coronavirus has been excellent.
+    + ["Bad News Wrapped in Protein: Inside the Coronavirus Genome"](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html), excellent New York Times article that gives a tour of the coronavirus genome. 
+        + NOTE: You will learn that we don't know what most proteins in the genomes do. Well, to be honest, we don't know how most proteins in most species work either! For even the best-studied organisms, we don't know what 20% of its proteins "do".
 + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
     + **The WEDNESDAY Zoom session focuses on this HW**
 
