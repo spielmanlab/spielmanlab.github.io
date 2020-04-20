@@ -111,7 +111,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
   + Origin of life and major evolutionary transitions: Video and Slides
   + The fossil record and macroevolutionary trends: Video and Slides
 + Assignments (only 1 this week!!)
-  + "Evolutionary transitions and the fossil record assignment" due **Thursday 4/30/20 at 11:59 pm**
+  + "The fossil record and evolutionary transitions assignment" (embedded in Blackboard) due **Thursday 4/30/20 at 11:59 pm**
     + The Wednesday Zoom session will focus on this HW
 
 
