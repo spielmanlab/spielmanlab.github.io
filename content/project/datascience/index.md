@@ -107,7 +107,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/20/20
 + Lecture videos and associated materials  
-    + k-means clustering: Video, [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_clustering.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_clustering.Rmd)
+    + k-means clustering: [Video](https://youtu.be/6J20aFY_Cs8), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_clustering.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_clustering.Rmd)
     + Dimension reduction with PCA: Video, PDF slides, Rmd slides
 + Assignment due *Thursday 4/30/20 at 11:59 pm* on Blackboard 
 
