@@ -96,6 +96,9 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
         + This article was widely misinterpreted as evidence that pangolins are the source of SARS-CoV-2. This article does NOT make this conclusion.
     + [nextstrain.org](https://nextstrain.org/)
+        + [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+        + [How to read transmission trees and phylogenies](https://nextstrain.org/help/general/how-to-read-a-tree)
+        + [COVID-19 FAQ](https://nextstrain.org/help/coronavirus/FAQ)
     + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
