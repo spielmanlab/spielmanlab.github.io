@@ -93,6 +93,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
   + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2: Video
     + [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
     + [The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2](https://www.nature.com/articles/s41564-020-0695-z)
+    + [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+        + This article was widely misinterpreted as evidence that pangolins are the source of SARS-CoV-2. This article does NOT make this conclusion.
     + [nextstrain.org](https://nextstrain.org/)
     + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
