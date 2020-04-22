@@ -97,6 +97,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
+    + ["Why Did The World Shut Down for COVID-19 but not Ebola, SARS or Swine Flu?"](https://fivethirtyeight.com/features/why-did-the-world-shut-down-for-covid-19-but-not-ebola-sars-or-swine-flu/). Article from FiveThirtyEight, excellent explanation of COVID-19 context compared to other recent pandemics/epidemics.
     + [Articles by Ed Yong](https://www.theatlantic.com/author/ed-yong/), science writer at The Atlantic. In my personal opinion, his coverage of coronavirus has been excellent.
     + ["Bad News Wrapped in Protein: Inside the Coronavirus Genome"](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html), excellent New York Times article that gives a tour of the coronavirus genome. 
         + NOTE: You will learn that we don't know what the function of most proteins in the genome is. In fact, we don't know how most proteins in most species work either! For even the best-studied organisms, we don't know what as many as 20% of its proteins "do".
