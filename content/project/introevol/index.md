@@ -101,6 +101,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
         + [COVID-19 FAQ](https://nextstrain.org/help/coronavirus/FAQ)
     + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
+        + [Mutations map holds the key to bringing coronavirus under control](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor)
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
     + ["Why Did The World Shut Down for COVID-19 but not Ebola, SARS or Swine Flu?"](https://fivethirtyeight.com/features/why-did-the-world-shut-down-for-covid-19-but-not-ebola-sars-or-swine-flu/). Article from FiveThirtyEight, excellent explanation of COVID-19 context compared to other recent pandemics/epidemics.
     + [Articles by Ed Yong](https://www.theatlantic.com/author/ed-yong/), science writer at The Atlantic. In my personal opinion, his coverage of coronavirus has been excellent.
