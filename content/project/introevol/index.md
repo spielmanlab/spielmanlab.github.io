@@ -126,6 +126,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 
 #### FINAL ASSIGNMENT due Tuesday 5/12/20 at 11:59 pm (or early 5/5/20 for bonus points)
++ [Download here](assignments/final_assignment.pdf)
 + Counts as *double* assignment grade
 + Absolutely NO extensions allowed due to university grading deadlines
 + **For a BONUS of 10%**, submit the assignment week early, Tuesday 5/5/20 at 11:59 pm. 
