@@ -91,22 +91,24 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + Lecture videos and associated materials   
   + **MONDAY:** Pathogen evolution and phylodynamics: [Video](https://youtu.be/kCOFo-1mlJY) and [slides](slides/slides_pathogens.pdf).
   + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2: Video
-    + [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
-    + [The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2](https://www.nature.com/articles/s41564-020-0695-z)
-    + [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+    + ["Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic"](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
+    + ["The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2""](https://www.nature.com/articles/s41564-020-0695-z)
+    + ["The proximal origin of SARS-CoV-2""](https://www.nature.com/articles/s41591-020-0820-9)
         + This article was widely misinterpreted as evidence that pangolins are the source of SARS-CoV-2. This article does NOT make this conclusion.
     + [nextstrain.org](https://nextstrain.org/)
         + [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
         + [How to read transmission trees and phylogenies](https://nextstrain.org/help/general/how-to-read-a-tree)
         + [COVID-19 FAQ](https://nextstrain.org/help/coronavirus/FAQ)
-    + [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
+    + ["We shouldn’t worry when a virus mutates during disease outbreaks""](https://www.nature.com/articles/s41564-020-0690-4)
         + [This NYT article is a VERY BAD TAKE](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html) - NOT ENDORSING THIS ARTICLE!!!!!
-        + [Mutations map holds the key to bringing coronavirus under control](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor)
+        + ["Mutations map holds the key to bringing coronavirus under control""](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor)
         + [Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak](https://academic.oup.com/ve/article/1/1/vev006/2568689)
     + ["Why Did The World Shut Down for COVID-19 but not Ebola, SARS or Swine Flu?"](https://fivethirtyeight.com/features/why-did-the-world-shut-down-for-covid-19-but-not-ebola-sars-or-swine-flu/). Article from FiveThirtyEight, excellent explanation of COVID-19 context compared to other recent pandemics/epidemics.
     + [Articles by Ed Yong](https://www.theatlantic.com/author/ed-yong/), science writer at The Atlantic. In my personal opinion, his coverage of coronavirus has been excellent.
     + ["Bad News Wrapped in Protein: Inside the Coronavirus Genome"](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html), excellent New York Times article that gives a tour of the coronavirus genome. 
         + NOTE: You will learn that we don't know what the function of most proteins in the genome is. In fact, we don't know how most proteins in most species work either! For even the best-studied organisms, we don't know what as many as 20% of its proteins "do".
+    + ["Two Antibody Studies Say Coronavirus Infections Are More Common Than We Think. Scientists Are Mad."](https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-antibody-test-santa-clara-los-angeles-stanford)
+
 + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
     + **The WEDNESDAY Zoom session focuses on this HW**
 
