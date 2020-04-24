@@ -90,7 +90,7 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 + *To ensure timely classes without disruption, Zoom meetings will be LOCKED no later than 11:10 am, but possibly sooner.* They will still be recorded and posted after class.
 + Lecture videos and associated materials   
   + **MONDAY:** Pathogen evolution and phylodynamics: [Video](https://youtu.be/kCOFo-1mlJY) and [slides](slides/slides_pathogens.pdf).
-  + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2: Video and [Slides](slides/slides_sarscov2_evolution.pdf)
+  + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2: [Video](https://youtu.be/TITKkbeKbTM) and [Slides](slides/slides_sarscov2_evolution.pdf)
     + ["Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic"](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
     + ["The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2""](https://www.nature.com/articles/s41564-020-0695-z)
     + ["The proximal origin of SARS-CoV-2""](https://www.nature.com/articles/s41591-020-0820-9)
@@ -108,7 +108,6 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
     + ["Bad News Wrapped in Protein: Inside the Coronavirus Genome"](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html), excellent New York Times article that gives a tour of the coronavirus genome. 
         + NOTE: You will learn that we don't know what the function of most proteins in the genome is. In fact, we don't know how most proteins in most species work either! For even the best-studied organisms, we don't know what as many as 20% of its proteins "do".
     + ["Two Antibody Studies Say Coronavirus Infections Are More Common Than We Think. Scientists Are Mad."](https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-antibody-test-santa-clara-los-angeles-stanford)
-
 + "Pathogen evolution assignment" (embedded in Blackboard) due **Sunday 4/26/20 at 11:59 pm**
     + **The WEDNESDAY Zoom session focuses on this HW**
 
