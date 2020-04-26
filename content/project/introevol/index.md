@@ -115,9 +115,10 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/28/20 
 + Lecture videos and associated materials
-  + **OPTIONALLY LIVE on MONDAY:** Human origins and evolution: Video and Slides
-  + Origin of life and major evolutionary transitions: Video and Slides
-  + The fossil record and macroevolutionary trends: Video and Slides
+  + Origin of life and major evolutionary transitions: [Video](https://youtu.be/WemvU8vmVN8) and [Slides](slides/slides_origins_fossils.pdf)
+  + The fossil record and macroevolutionary trends: [Video](https://youtu.be/rYW1KKslCfk) (slides are the same as above)
+  + **OPTIONALLY LIVE on MONDAY:** Human origins and evolution: Video and [Slides](slides/slides_humanevolution.pdf)
+
 + Assignments (only 1 this week!!)
   + "The fossil record and evolutionary transitions assignment" (embedded in Blackboard) due **Thursday 4/30/20 at 11:59 pm**
     + The Wednesday Zoom session will focus on this HW
