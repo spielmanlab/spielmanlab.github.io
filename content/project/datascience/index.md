@@ -119,7 +119,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 + Lecture videos and associated materials
     + Introduction to Shiny: [Video](https://youtu.be/eFMuO3xeQVk), [Baseline demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app.R), [Fleshed-out demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app_filledin.R)
     + Wednesday will START DOING THE FINAL ASSIGNMENT!! Thursday we will also work on the final assignment!
-        + Wednesday will be recorded, but not Thursday.
+        + [Link to Wednesday Class](https://youtu.be/vN5raH2h8J8). **NOTE:** See the youtube comment for my highly embarrassing code error :)
     + [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/) (this is _really_ good)
 
 <br>
