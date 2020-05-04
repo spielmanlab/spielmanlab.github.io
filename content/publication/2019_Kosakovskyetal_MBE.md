@@ -7,7 +7,7 @@ authors = ["Sergei L. Kosakovsky Pond", "Art F. Y. Poon", "Ryan Velazquez", "Ste
 abstract = "`hyphy` (HYpothesis testing using PHYlogenies) is a scriptable, open-source package for fitting a broad range of evolutionary models to multiple sequence alignments, and for conducting subsequent parameter estimation and hypothesis testing, primarily in the maximum likelihood statistical framework. It has become a popular choice for characterizing various aspects of the evolutionary process: natural selection, evolutionary rates, recombination, and coevolution. The 2.5 release (available from `www.hyphy.org`) includes a completely re-engineered computational core and analysis library that introduces new classes of evolutionary models and statistical tests, delivers substantial performance and stability enhancements, improves usability, streamlines end-to-end analysis workflows, makes it easier to develop custom analyses, and is mostly backwards compatible with previous HyPhy releases."
 publication_types = ["2"]
 
-publication = "*Molecular Biology and Evolution* msz197"
+publication = "*Molecular Biology and Evolution* 37(1): 295-299"
 
 url_publisher = "https://doi.org/10.1093/molbev/msz197"
 
