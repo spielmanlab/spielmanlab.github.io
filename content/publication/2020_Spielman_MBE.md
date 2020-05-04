@@ -1,6 +1,6 @@
 +++
-title = "[PREPRINT] Relative model fit does not predict accuracy in single-gene protein phylogenetics"
-date = "2019-06-01"
+title = "Relative Model Fit Does Not Predict Topological Accuracy in Single-Gene Protein Phylogenetics"
+date = "2020-04-02"
 
 authors = ["**Stephanie J. Spielman**"]
 
