@@ -11,7 +11,7 @@ summary = "Learn about this more-enjoyable-than-LaTeX markup language."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All Resources", "Other Resources"]
+tags = ["All Resources", "Markup languages"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"

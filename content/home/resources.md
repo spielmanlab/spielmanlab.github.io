@@ -53,6 +53,11 @@ subtitle = "Third-party resources for learning fundamental skills in scientific 
     name = "git"
     tag = "git Resources"
 
+    
+  [[content.filter_button]]
+    name = "Markup languages"
+    tag = "Markup languages"
+    
   [[content.filter_button]]
     name = "Other"
     tag = "Other Resources"

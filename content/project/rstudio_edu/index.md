@@ -4,20 +4,19 @@ date = "2017-01-01"
 
 
 # Project title.
-title = "Introduction to LaTeX"
+title = "R for Data Science"
 
 # Project summary to display on homepage.
-summary = "Learn about this powerful markup language with free lessons from Overleaf."
+summary = "Learn R with free resoures from RStudio Education."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All Resources", "Markup languages"]
+tags = ["All Resources", "R Resources", "data-viz", "misc-topics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes"
+external_link = "https://education.rstudio.com/"
 
 # Does the project detail page use math formatting?
 math = false
-
 
 +++

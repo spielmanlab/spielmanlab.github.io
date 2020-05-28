@@ -11,7 +11,7 @@ summary = "Free interactive lessons in R/tidyverse created by RStudio (requires 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All Resources", "r Resources"]
+tags = ["All Resources", "R Resources"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://rstudio.cloud/learn/primers"
