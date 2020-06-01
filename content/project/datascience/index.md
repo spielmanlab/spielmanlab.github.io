@@ -77,8 +77,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 3/30/20
 + Lecture videos and associated materials
-    + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf) and [Video](https://youtu.be/it3GhOEIyBw)
-    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html) and [Video](https://youtu.be/Mlkm9L32NpQ)
+    + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf)
+    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html
 + Assignment due *Thursday 4/9/20 at 11:59 pm* on Blackboard
 	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.Rmd)
 	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/08-intro-regression.html)
@@ -86,9 +86,9 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/6/20
 + Lecture videos and associated materials  
-    + Linear regression II and concepts in model selection: [Video](https://youtu.be/qeoyBBkqgVs) and [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
+    + Linear regression II and concepts in model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
         + See Slack `#general` for some lecture clarifications: [one](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197021002800) and [two](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197682004100)
-    + Introdution to model evaluation: [Video](https://youtu.be/NGkVhZhdvnE) and [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_modelevaluation.pdf)
+    + Introdution to model evaluation: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_modelevaluation.pdf)
 + Assignment due *Thursday 4/16/20 at 11:59 pm* on Blackboard
 	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/09-model-evaluation.Rmd)
 	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/09-model-evaluation.html)
@@ -97,8 +97,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
-    + Binary classification with logistic regression: [Video](https://youtu.be/2zdRt3S2ltc), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic1.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic1.Rmd)
-    + ROC Curves for evaluating logistic regression: [Video](https://youtu.be/NOQabH9Bhbs), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic2.pdf), [RMD slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic2.Rmd) (TYPOS FIXED IN SLIDES!!)
+    + Binary classification with logistic regression: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic1.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic1.Rmd)
+    + ROC Curves for evaluating logistic regression: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic2.pdf), [RMD slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic2.Rmd) (TYPOS FIXED IN SLIDES!!)
 + Assignment due *Thursday 4/23/20 at 11:59 pm* on Blackboard
 	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/10-logistic.Rmd)
 	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/10-logistic.html)
@@ -107,8 +107,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/20/20
 + Lecture videos and associated materials  
-    + k-means clustering: [Video](https://youtu.be/6J20aFY_Cs8), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_clustering.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_clustering.Rmd)
-    + Dimension reduction with PCA: [Video](https://youtu.be/K8RyVLrSpdA), [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_pca.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_pca.Rmd)
+    + k-means clustering: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_clustering.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_clustering.Rmd)
+    + Dimension reduction with PCA: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_pca.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_pca.Rmd)
 + Assignment due *Thursday 4/30/20 at 11:59 pm* on Blackboard 
 	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/11-clustering-pca.Rmd)
 	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/11-clustering-pca.Rmd)
@@ -117,9 +117,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 #### Week of 4/27/20
 + Lecture videos and associated materials
-    + Introduction to Shiny: [Video](https://youtu.be/eFMuO3xeQVk), [Baseline demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app.R), [Fleshed-out demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app_filledin.R)
+    + Introduction to Shiny: [Baseline demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app.R), [Fleshed-out demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app_filledin.R)
     + Wednesday will START DOING THE FINAL ASSIGNMENT!! Thursday we will also work on the final assignment!
-        + [Link to Wednesday Class](https://youtu.be/vN5raH2h8J8). **NOTE:** See the youtube comment for my highly embarrassing code error :)
     + [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/) (this is _really_ good)
 
 <br>

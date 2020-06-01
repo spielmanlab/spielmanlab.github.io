@@ -53,8 +53,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 #### Week of 3/30/20
 
 + Lecture videos and associated materials
-    + Evolutionary Forces wrap-up live demo: [Video](https://youtu.be/ES21oMFBQps)
-    + Phylogenetics I: [Video](https://youtu.be/vrVCEbZqR2A), [slides](slides/slides_phylo_remote1.pdf), and [worksheet from video](worksheets/treethinking_worksheet.pdf)
+    + Evolutionary Forces wrap-up live demo: Video
+    + Phylogenetics I: [slides](slides/slides_phylo_remote1.pdf) and [worksheet from video](worksheets/treethinking_worksheet.pdf)
 + Background reading and other videos:
     + ["How to read a tree"](https://artic.network/how-to-read-a-tree.html)
     + Khan Academy ["Phylogenetic trees"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)
@@ -67,8 +67,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 #### Week of 4/6/20
 
 + Lecture videos and associated materials  
-  + Phylogenetics II: [Video](https://youtu.be/l8D4J_i3WFc) and [slides](slides/slides_phylo_remote2.pdf)
-  + Phylogenetics "Lab": [Video](https://youtu.be/yhhQMBrdFa4) with [associated website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) (no assignment *specifically* uses this, this video will help to further clarify and understand phylogenies building and mapping on phylogenies!) 
+  + Phylogenetics II: [slides](slides/slides_phylo_remote2.pdf)
+  + Phylogenetics "Lab": [associated website](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) (no assignment *specifically* uses this, this video will help to further clarify and understand phylogenies building and mapping on phylogenies!) 
 + Background reading **these are REALLY HELPFUL!!! Make sure to read/watch these too!**:
   + Khan Academy ["Discovering the tree of life"](https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life)
   + Khan Academy ["Building a phylogenetic tree"](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)
@@ -79,8 +79,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/13/20
 + Lecture videos and associated materials  
-  + Speciation: [Video](https://youtu.be/dV1QdOjh258) and [slides](slides/speciation_remoteversion.pdf)
-  + Biogeography: [Video](https://youtu.be/1GihsO7N2Bg) and [slides](slides/biogeography_remoteversion.pdf)
+  + Speciation: [slides](slides/speciation_remoteversion.pdf)
+  + Biogeography: [slides](slides/biogeography_remoteversion.pdf)
 + Assignments
   + "Concepts in Speciation" (embedded in Blackboard) due Thursday 4/16/20 at 11:59 pm          
   + "Concepts in Biogeography" (embedded in Blackboard) due Sunday 4/19/20 at 11:59 pm  
@@ -89,8 +89,8 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 #### Week of 4/20/20: All lectures are OPTIONALLY LIVE
 + *To ensure timely classes without disruption, Zoom meetings will be LOCKED no later than 11:10 am, but possibly sooner.* They will still be recorded and posted after class.
 + Lecture videos and associated materials   
-  + **MONDAY:** Pathogen evolution and phylodynamics: [Video](https://youtu.be/kCOFo-1mlJY) and [slides](slides/slides_pathogens.pdf).
-  + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2: [Video](https://youtu.be/TITKkbeKbTM) and [Slides](slides/slides_sarscov2_evolution.pdf)
+  + **MONDAY:** Pathogen evolution and phylodynamics: [slides](slides/slides_pathogens.pdf).
+  + **FRIDAY:** Phylogenetics and evolutionary origins of SARS-CoV-2:  [Slides](slides/slides_sarscov2_evolution.pdf)
     + ["Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic"](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract)
     + ["The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2""](https://www.nature.com/articles/s41564-020-0695-z)
     + ["The proximal origin of SARS-CoV-2""](https://www.nature.com/articles/s41591-020-0820-9)
@@ -115,9 +115,9 @@ This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at
 
 #### Week of 4/28/20 
 + Lecture videos and associated materials
-  + Origin of life and major evolutionary transitions: [Video](https://youtu.be/WemvU8vmVN8) and [Slides](slides/slides_origins_fossils.pdf)
-  + The fossil record and macroevolutionary trends: [Video](https://youtu.be/rYW1KKslCfk) (slides are the same as above)
-  + **OPTIONALLY LIVE on MONDAY:** Human origins and evolution: [Video](https://youtu.be/9I76rlsl4fg) and [Slides](slides/slides_humanevolution.pdf)
+  + Origin of life and major evolutionary transitions:[Slides](slides/slides_origins_fossils.pdf)
+  + The fossil record and macroevolutionary trends: (slides are the same as above)
+  + **OPTIONALLY LIVE on MONDAY:** Human origins and evolution: [Slides](slides/slides_humanevolution.pdf)
 + Assignments (only 1 this week!!)
   + "The fossil record and evolutionary transitions assignment" (embedded in Blackboard) due **Thursday 4/30/20 at 11:59 pm**
     + The Wednesday Zoom session will focus on this HW
