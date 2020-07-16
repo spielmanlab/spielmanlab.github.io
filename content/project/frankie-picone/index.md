@@ -3,10 +3,10 @@
 date = "2016-10-27"
 
 # Project title.
-title = "Francis K. Picone (2019 - Present)"
+title = "Francis K. Picone (2019 - 2020)"
 
 # Tags: can be used for filtering projects.
-tags = ["All Lab Members", "Current Lab Members"]
+tags = ["All Lab Members", "Former Lab Members"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Frankie is an undergraduate student majoring in Biology in the department of Biological Sciences at Rowan University. He is researching how different models of protein evolution affect and/or bias estimates of phylogenetic divergence.
+Frankie is a former undergraduate research student who graduated in May 2020 with his BS in Biological Sciences from the Department of Biological Sciences, with a minor in Chemistry. 
