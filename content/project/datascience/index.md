@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2019-08-31"
+date = "2020-08-20"
 
 
 # Project title.
 title = "Data Science for Biologists"
 
 # Project summary to display on homepage.
-summary = "Materials for Spring 2020 BIOL01301."
+summary = "Materials for Fall 2020 BIOL01301."
 
 url = "courses/datascience_for_biologists/"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All Courses", "Rowan Courses"]
+tags = ["All Courses", "Current Courses", "Rowan Courses"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -29,21 +29,14 @@ editable= false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 +++
 
-This website contains all materials used in BIOL 01301 Spring 2020 at Rowan University with Dr. Spielman. This course now meets remotely, but used to meet Monday 12:30-1:45 in SCI 239, Wednesday 12:30-1:45 in SCI 226, and Thursday 11-1:45 in SCI 239. 
-
-**All grading and assignment submissions (unless otherwise stated) will be hosted on [Blackboard](https://rowan.blackboard.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 space.**
+This website contains all materials used in BIOL 01301 Fall 2020 at Rowan University with Dr. Spielman. This course meets remotely Monday and Thursday 2-3:15 pm and Wednesday 3:30-6:15 pm. **Zoom links can be found in [Canvas](https://rowan.instructure.com/). All grading and assignment submissions (unless otherwise stated) will be hosted on [Canvas](https://rowan.instructure.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 workspace.**
 
 <br>
 
 ## Key documents and links
 
-+ [Download this ANNOUNCEMENT AND GENERAL INFO document](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/datascience_postcovid.pdf)
-+ [Add the class google calendar](https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X20yaWZ1YTUyaXAxcnNtNDAyNmc4ZHNldmI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-    + [Instructions for using google calendar for appointments](../introevol/logistics/google_calendar_instructions.pdf)
-    + [Instructions for integrating Google Calendar with Slack](../introevol/logistics/slack_google_instructions.pdf)
-
-+ [Join the class Slack workspace](https://join.slack.com/t/datasci-4-biologists/shared_invite/zt-cja6k48h-Eo2vQjroUrT5sah2i7Di2A)
-+ [Download the UPDATED course syllabus](./Spring2020_Spielman_Syllabus_DataScience_COVID.pdf).
++ [Instructions for using google calendar](./logistics/google_calendar_instructions_fall2020_DS.pdf)
++ [Download the course syllabus](./logistics/Fall2020_Spielman_Syllabus_DS.pdf).
 + [Download the regrade form](./regrade_policy.docx). 
 + [#TidyTuesday Extra Credit Instructions](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/tidytuesday_instructions.pdf)
 
@@ -51,6 +44,8 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 ## Online Books and Resources
 
++ [Twitter for R programmers](https://www.t4rstats.com/)
+  + Geared towards programmers but serves as a great general "welcome to the Twitter #rstats community"! 
 + [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by Claus O. Wilke
 + [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 + [Data Visualization: A practical Introduction](https://socviz.co/) by Kieran Healy
@@ -63,87 +58,29 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 
 <br> 
 
-## Post-Spring Break Class Schedule and Materials
+## Class Schedule and Materials
 
-> Materials are subject to change up until the Monday of the given week. Below is a ROUGH OUTLINE of what we'll be doing.
+> Materials are subject to change up until the Monday of the EACH week. Below is a ROUGH OUTLINE of what we'll be doing.
 
 
-**UPDATED DEADLINES**:
-+ `tidyr` assignment due **Sunday March 29th 11:59 pm on Blackboard**
-+ `Midterm Project` due as Pull Request **Sunday March 29th at 11:59 pm**
-    + 10% deduction deadline will be **Wednesday April 1st 11:59 pm**
-    + Additional 5% deduction for any additional late day (i.e. Thursday 4/2 submission by 11:59 pm has 15% deduction, etc.)
-<br>
+| No. | Day/Date |<div style="width:250px">Topic and materials</div> | Link to in-class exercises | Assignments 
+------|----------|--------------------------------------------------|-----------------------------
+1     | W 9/2   | Introduction, logistics, and getting to know each other | None | None
+2     | R 9/3   | More class logistics: RStudio Cloud setup | None |
+3     | W 9/9   | Introduction to R | TBD | **Assigned:** "Introduction to R" due TBD <!--Wednesday 9/16/20 by 11:59 pm to Canvas-->
+4     | R 9/10  | Introduction to R continued | TBD | 
+5     | M 9/14  | Introduction to R continued | None |
+6     | W 9/16  | Introduction to the "grammar of graphics"  | TBD 
+7     | R 9/17  | Grammar of graphics | TBD | **Assigned:** "Grammar of graphics" due TBD <!--Sunday 9/21/20 by 11:59 pm to Canvas-->
+8     | M 9/21  | Introduction to data `ggplot2` | TBD | 
+9     | W 9/23  | Introduction to data `ggplot2` | TBD | 
+10    | R 9/24  | Communicating clearly with figures | TBD |  **Assigned:** "Introduction to `ggplot2`" due TBD <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
 
-#### Week of 3/30/20
-+ Lecture videos and associated materials
-    + Concepts in Hypothesis testing and P-values: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/intro_hyptest_pvalue.pdf)
-    + Introduction to linear regression: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_tutorial.html
-+ Assignment due *Thursday 4/9/20 at 11:59 pm* on Blackboard
-	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/08-intro-regression.Rmd)
-	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/08-intro-regression.html)
-<br>
 
-#### Week of 4/6/20
-+ Lecture videos and associated materials  
-    + Linear regression II and concepts in model selection: [Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/lm_model_selection.html) 
-        + See Slack `#general` for some lecture clarifications: [one](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197021002800) and [two](https://datasci-4-biologists.slack.com/archives/CV6CLQTGQ/p1586197682004100)
-    + Introdution to model evaluation: [Slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_modelevaluation.pdf)
-+ Assignment due *Thursday 4/16/20 at 11:59 pm* on Blackboard
-	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/09-model-evaluation.Rmd)
-	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/09-model-evaluation.html)
-
-<br>
-
-#### Week of 4/13/20
-+ Lecture videos and associated materials  
-    + Binary classification with logistic regression: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic1.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic1.Rmd)
-    + ROC Curves for evaluating logistic regression: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_logistic2.pdf), [RMD slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_logistic2.Rmd) (TYPOS FIXED IN SLIDES!!)
-+ Assignment due *Thursday 4/23/20 at 11:59 pm* on Blackboard
-	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/10-logistic.Rmd)
-	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/10-logistic.html)
-
-<br>
-
-#### Week of 4/20/20
-+ Lecture videos and associated materials  
-    + k-means clustering: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_clustering.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_clustering.Rmd)
-    + Dimension reduction with PCA: [PDF slides](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_pca.pdf), [Rmd slides](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/slides/slides_pca.Rmd)
-+ Assignment due *Thursday 4/30/20 at 11:59 pm* on Blackboard 
-	+ [Rmarkdown file](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/11-clustering-pca.Rmd)
-	+ [HTML version](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/11-clustering-pca.Rmd)
-
-<br>
-
-#### Week of 4/27/20
-+ Lecture videos and associated materials
-    + Introduction to Shiny: [Baseline demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app.R), [Fleshed-out demo app](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/materials/demo_app_filledin.R)
-    + Wednesday will START DOING THE FINAL ASSIGNMENT!! Thursday we will also work on the final assignment!
-    + [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/) (this is _really_ good)
-
-<br>
-
-####  [Final Assignment](https://github.com/sjspielman/datascience_final_assignment) (Fork to your github account!)
-  + Counts as TWO assignment grades (aka if you don't do this, you are still stuck with a 0 grade on an assignment. Get it?)
-  + Due *Tuesday 5/12/20 at 11:59 pm as github PR*. **Absolutely NO extensions are possible for this submission due to University grade deadlines.**
-    + *BONUS DEADLINE!* Submit by Friday 5/8/20 by 11:59 pm as github PR for an *automatic extra 10%!!*
-  + Attend the **live Thursday session on 4/30/30 from 11:30 am - 1:45 pm** - we will do about 1/3 of the final assignment TOGETHER! You don't want to miss this!!!!!
-  + During the normal final exam time, **Thursday 5/6/20 from 12:30pm - 2:30pm**, there will be an optional ZOOM SESSION (see class calendar) to come ask questions for completing this assignment. **REALLY REALLY HIGHLY RECOMMENDED.**
+<!--
 
 
 
-<br>
-
-## Pre-Spring Break Class Schedule and Materials
-
-> Materials are subject to change up until the day of class based on student progress. Any change in deadlines will only be to _postpone_.
-
-**Link to midterm project: [https://github.com/sjspielman/datascience_midterm/](https://github.com/sjspielman/datascience_midterm/)**
-
-
-| No. | Day/Date |<div style="width:250px">Topic and materials</div> | Background Reading         | Assignment DUE
-------|----------|--------------------------------------------------|-----------------------------|--------------------
-1     | W 1/22   | Introduction/Syllabus Day | None | None
 2     | R 1/23   | [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/01-introduction-base-R.html)| None | None
 3     | M 1/27   | [Types of data and visualizations, I](./slides/slides_introdata.pdf)  | Two blog posts on types of data: <br> 1. [Towards Data Science](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) <br> 2. [Scary Scientist](http://scaryscientist.blogspot.com/2015/02/classification-of-data-types.html)   | None
 4     | W 1/29   | Types of data and visualizations, II | 1. Read chapters 5, 6, 7, and 10 from "Fundamentals of Data Visualization" <br> 2. [Blog post on comparing plot types](https://rpubs.com/crazyhottommy/sina-plot)
@@ -165,9 +102,7 @@ This website contains all materials used in BIOL 01301 Spring 2020 at Rowan Univ
 20    | R 3/5    | [Conducting a reproducible analyses with `git`/github](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/github_exercise.html) | [Cheatsheet](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/github_cheatsheet.html)  | None
 21    | M 3/9    | [Working with strings with `stringr`](https://github.com/sjspielman/datascience_for_biologists/blob/master/slides/slides_stringr.pdf) | 1. [`stringr` reference](https://stringr.tidyverse.org/reference/index.html) <br> 2.[`stringr` vignette](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)   | None
 
-**END OF IN-PERSON INSTRUCTION**
 
-<!--
 22    | W 3/11   | Regular expressions | [Regular expressions with `stringr`](https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html) | None
 23    | R 3/12   | Midterm project "study hall" | None | None
 --    | M 3/16 - F 3/20 | **SPRING BREAK!** | None |  **Midterm Project due by SUNDAY 3/15 at 11:59 pm as PULL REQUEST for full credit** <br> **Due by Wednesday 3/18 at 11:59 pm as PULL REQUEST for 10% deduction** <br> **Or, due never for no credit. Not recommended.**  

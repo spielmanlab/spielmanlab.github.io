@@ -10,16 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Biological Sciences
+role: Assistant Professor
 
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Biological Sciences
+  url: "https://csm.rowan.edu/departments/biology/index.html"
 - name: Rowan University
   url: "https://rowan.edu"
 
+
 # Short bio (displayed in user profile at end of posts)
-#bio: Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve. In particular, we are interested in the phylogenetic modeling frameworks used to describe sequence evolution.
+#bio: Welcome to the Spielman Lab! .....
+
+
 
 interests:
 - Models of sequence evolution
@@ -70,4 +75,21 @@ social:
 
 
 ---
-Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve. In particular, we are interested in the phylogenetic modeling frameworks used to describe sequence evolution.
+Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve, with a particular interest in simulation-based studies to study and develop methods in molecular phylogenetics. We also work to develop usable and flexible resources for computational and data science education. Finally, we have an active collaboration with Dr. Eli K. Moore in Rowan University's [Department of Environmental Sciences](https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html) to develop and apply network analysis tools for interrogating geosphere-biosphere interactions in deep time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
