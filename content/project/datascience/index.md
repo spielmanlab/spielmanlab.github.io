@@ -36,8 +36,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 ## Key documents and links
 
 + [Instructions for using google calendar](./logistics/google_calendar_instructions_fall2020_DS.pdf)
-+ [Download the course syllabus](./logistics/Fall2020_Spielman_Syllabus_DS.pdf).
-+ [Download the regrade form](./regrade_policy.docx). 
++ [Download the course syllabus (NOT YET FINALIZED)](./logistics/Fall2020_Spielman_Syllabus_DS.pdf).
 + [#TidyTuesday Extra Credit Instructions](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/tidytuesday_instructions.pdf)
 
 <br>
@@ -46,7 +45,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 
 + [Twitter for R programmers](https://www.t4rstats.com/)
   + Geared towards programmers but serves as a great general "welcome to the Twitter #rstats community"! 
-+ [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by Claus O. Wilke
++ [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by Claus O. Wilke
 + [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 + [Data Visualization: A practical Introduction](https://socviz.co/) by Kieran Healy
 + [`tidyverse` homepage, official documentation, and cheatsheets](https://www.tidyverse.org/)
@@ -60,26 +59,27 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 
 ## Class Schedule and Materials
 
-> Materials are subject to change up until the Monday of the EACH week. Below is a ROUGH OUTLINE of what we'll be doing.
+> Materials are subject to change up until the Monday of the EACH week. Below is a ROUGH OUTLINE of what we'll be doing. 
 
 
-| No. | Day/Date |<div style="width:250px">Topic and materials</div> | Link to in-class exercises | Assignments 
-------|----------|--------------------------------------------------|-----------------------------
-1     | W 9/2   | Introduction, logistics, and getting to know each other | None | None
-2     | R 9/3   | More class logistics: RStudio Cloud setup | None |
-3     | W 9/9   | Introduction to R | TBD | **Assigned:** "Introduction to R" due TBD <!--Wednesday 9/16/20 by 11:59 pm to Canvas-->
-4     | R 9/10  | Introduction to R continued | TBD | 
-5     | M 9/14  | Introduction to R continued | None |
-6     | W 9/16  | Introduction to the "grammar of graphics"  | TBD 
-7     | R 9/17  | Grammar of graphics | TBD | **Assigned:** "Grammar of graphics" due TBD <!--Sunday 9/21/20 by 11:59 pm to Canvas-->
-8     | M 9/21  | Introduction to data `ggplot2` | TBD | 
-9     | W 9/23  | Introduction to data `ggplot2` | TBD | 
-10    | R 9/24  | Communicating clearly with figures | TBD |  **Assigned:** "Introduction to `ggplot2`" due TBD <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
+| No. | Day/Date |<div style="width:250px">Topic</div> | <div style="width:150px">In-class materials</div>  | <div style="width:250px">Recommended Background Reading</div>  | <div style="width:250px">Assignment</div>  
+------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
+1     | W 9/2   | Introduction, logistics, and getting to know each other | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
+2     | R 9/3   | More class logistics: RStudio Cloud setup | None | None | None 
+3     | W 9/9   | Introduction to R | TBD | None | **Assigned:** "Introduction to R" due TBD <!--Wednesday 9/16/20 by 11:59 pm to Canvas-->
+4     | R 9/10  | Introduction to R continued | TBD | None | None
+5     | M 9/14  | Introduction to R continued | None | None | None
+6     | W 9/16  | Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  None 
+7     | R 9/17  | Grammar of graphics | TBD | None | **Assigned:** "Grammar of graphics" due TBD <!--Sunday 9/21/20 by 11:59 pm to Canvas-->
+8     | M 9/21  | Introduction to data `ggplot2` | TBD | None | None
+9     | W 9/23  | Introduction to data `ggplot2` | TBD | None | TBD | None
+10    | R 9/24  | Communicating clearly with figures | TBD | *Part II: Principles of Figure Design* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) <br> and <br> *Part I: Look at Data* from [Data Visualization: A practical Introduction](https://socviz.co/lookatdata.html) | **Assigned:** "Introduction to `ggplot2`" due TBD <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
+
 
 
 <!--
 
-
+This one isn't so bad: https://rstudio.com/resources/webinars/getting-started-with-r-markdown/
 
 2     | R 1/23   | [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/01-introduction-base-R.html)| None | None
 3     | M 1/27   | [Types of data and visualizations, I](./slides/slides_introdata.pdf)  | Two blog posts on types of data: <br> 1. [Towards Data Science](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) <br> 2. [Scary Scientist](http://scaryscientist.blogspot.com/2015/02/classification-of-data-types.html)   | None
