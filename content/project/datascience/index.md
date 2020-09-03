@@ -36,7 +36,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 ## Key documents and links
 
 + [Instructions for using google calendar](./logistics/google_calendar_instructions_fall2020_DS.pdf)
-+ [Download the course syllabus (NOT YET FINALIZED)](./logistics/Fall2020_Spielman_Syllabus_DS.pdf).
++ [Download the course syllabus](./logistics/Fall2020_Spielman_Syllabus_DS.pdf).
 + [#TidyTuesday Extra Credit Instructions](https://github.com/sjspielman/datascience_for_biologists/blob/master/materials/tidytuesday_instructions.pdf)
 
 <br>
@@ -64,8 +64,8 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 
 | No. | Day/Date |<div style="width:250px">Topic</div> | <div style="width:150px">In-class materials</div>  | <div style="width:250px">Recommended Background Reading</div>  | <div style="width:250px">Assignment</div>  
 ------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
-1     | W 9/2   | Introduction, logistics, and getting to know each other | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
-2     | R 9/3   | More class logistics: RStudio Cloud setup | None | None | None 
+1     | W 9/2   | Introduction and logistics | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
+2     | R 9/3   | More class logistics and awkward introductions | None | None | None 
 3     | W 9/9   | Introduction to R | TBD | None | **Assigned:** "Introduction to R" due TBD <!--Wednesday 9/16/20 by 11:59 pm to Canvas-->
 4     | R 9/10  | Introduction to R continued | TBD | None | None
 5     | M 9/14  | Introduction to R continued | None | None | None
