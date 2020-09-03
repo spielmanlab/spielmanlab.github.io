@@ -25,7 +25,7 @@ geometry: margin=1in
 
 2. You will see several types of (virtual!) calendar events:
 	+ **Assignment Due**: Assignment deadlines will be visible in the calendar
-	+ **Data Science Class**: Monday/Thursday 2-3:15 and Wednesday 3:30-6:15 represent our class meeting times and contain links to our Zoom classes. *If Zoom is down that day, please use the back-up WebEx link in Canvas.*
+	+ **Data Science Class**: Monday/Thursday 2-3:15 and Wednesday 3:30-6:15 represent our class meeting times and contain links to our Zoom classes.
 	+ **Data Science Open Office Hours:** On Tuesday from 2-3 pm, there will be virtual open office hours on Zoom. No appointment necessary - just come join to ask questions or code together!
 	+ **Data Science Appointment Office Hours:** On Tuesdays from 3-4:15 pm, there are office hours by-appointment *only* .
 	
