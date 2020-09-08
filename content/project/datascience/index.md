@@ -66,7 +66,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 ------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
 1     | W 9/2   | Introduction and logistics | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
 2     | R 9/3   | More class logistics and awkward introductions | None | None | None 
-3     | W 9/9   | Introduction to R | TBD | None | **Assigned:** ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas
+3     | W 9/9   | Introduction to R | [Interactive Exercises](https://rowanbiosci.shinyapps.io/intro_R/) | None | **Assigned:** ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas
 4     | R 9/10  | Introduction to R continued | TBD | None | None
 5     | M 9/14  | Introduction to R continued | None | None | None
 6     | W 9/16  | Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  Assignment TBD 
