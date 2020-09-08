@@ -66,14 +66,14 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 ------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
 1     | W 9/2   | Introduction and logistics | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
 2     | R 9/3   | More class logistics and awkward introductions | None | None | None 
-3     | W 9/9   | Introduction to R | TBD | None | **Assigned:** "Introduction to R" due TBD <!--Wednesday 9/16/20 by 11:59 pm to Canvas-->
+3     | W 9/9   | Introduction to R | TBD | None | **Assigned:** ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas
 4     | R 9/10  | Introduction to R continued | TBD | None | None
 5     | M 9/14  | Introduction to R continued | None | None | None
-6     | W 9/16  | Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  None 
-7     | R 9/17  | Grammar of graphics | TBD | None | **Assigned:** "Grammar of graphics" due TBD <!--Sunday 9/21/20 by 11:59 pm to Canvas-->
+6     | W 9/16  | Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  Assignment TBD 
+7     | R 9/17  | Grammar of graphics | TBD | None |  <!-- **Assigned:** "Grammar of graphics" due TBD --><!--Sunday 9/21/20 by 11:59 pm to Canvas-->
 8     | M 9/21  | Introduction to data `ggplot2` | TBD | None | None
-9     | W 9/23  | Introduction to data `ggplot2` | TBD | None | TBD | None
-10    | R 9/24  | Communicating clearly with figures | TBD | *Part II: Principles of Figure Design* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) <br> and <br> *Part I: Look at Data* from [Data Visualization: A practical Introduction](https://socviz.co/lookatdata.html) | **Assigned:** "Introduction to `ggplot2`" due TBD <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
+9     | W 9/23  | Introduction to data `ggplot2` | TBD | None | TBD | Assignment TBD <!-- **Assigned:** "Introduction to `ggplot2`" due TBD-->
+10    | R 9/24  | Communicating clearly with figures | TBD | *Part II: Principles of Figure Design* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) <br> and <br> *Part I: Look at Data* from [Data Visualization: A practical Introduction](https://socviz.co/lookatdata.html) | None <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
 
 
 
