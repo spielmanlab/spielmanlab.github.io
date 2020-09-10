@@ -62,13 +62,13 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 > Materials are subject to change up until the Monday of the EACH week. Below is a ROUGH OUTLINE of what we'll be doing. 
 
 
-| No. | Day/Date |<div style="width:250px">Topic</div> | <div style="width:100px">In-class materials</div>  | <div style="width:250px">Recommended Background Reading</div>  | <div style="width:400px">Assignment</div>  
+| <div style="width:25px">No.</div> | <div style="width:50px">Date</div> |<div style="width:200px">Topic</div> | <div style="width:250px">In-class materials</div>  | <div style="width:250px">Recommended Background</div>  | <div style="width:300px">Assignment</div>  
 ------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
 1     | W 9/2   | Introduction and logistics | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
-2     | R 9/3   | More class logistics and awkward introductions | None | None | None 
-3     | W 9/9   | Introduction to R | [Interactive Exercises](https://rowanbiosci.shinyapps.io/intro_R/) | [Introduction to R Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html) | **Assigned:** ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas <br> Copy/paste this SINGLE LINE (looks like 2 or 3 - it's only 1!!) into the **TERMINAL** tab in RStudio Cloud to get the assignment:<br> `wget https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R` <br> [Video: How to do the HW in RStudio Cloud](https://youtu.be/kvVqIlTlHN4)
-4     | R 9/10  | Introduction to R continued | TBD | None | None
-5     | M 9/14  | Introduction to R continued | None | None | None
+2     | R 9/3   | Student introductions | None | None | None 
+3     | W 9/9   | Introduction to R, Part I| [Interactive Exercises: Intro to R](https://rowanbiosci.shinyapps.io/intro_R/) | [Introduction to R Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html) | **ASSIGNED: ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas** <br> Copy/paste this SINGLE LINE (looks like 2 or 3 - it's only 1!!) into the **TERMINAL** tab in RStudio Cloud to get the assignment:<br> `wget https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R` <br> [Video: How to do the HW in RStudio Cloud](https://youtu.be/kvVqIlTlHN4)
+4     | R 9/10  | Introduction to R, Part II | *Same as W 9/9* | *Same as W 9/9* | None
+5     | M 9/14  | Types of data | [Interactive Exercises: Types of Data](https://rowanbiosci.shinyapps.io/intro_data_types/) | None | None
 6     | W 9/16  | Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  Assignment TBD 
 7     | R 9/17  | Grammar of graphics | TBD | None |  <!-- **Assigned:** "Grammar of graphics" due TBD --><!--Sunday 9/21/20 by 11:59 pm to Canvas-->
 8     | M 9/21  | Introduction to data `ggplot2` | TBD | None | None
