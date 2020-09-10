@@ -26,5 +26,9 @@ max-width: 250px;
 
 small,
 .small {
-  font-size: 18px;
+  font-size: 20px;
+}
+
+ul {
+    padding: 0 0 0 15px;
 }
