@@ -69,18 +69,22 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 3     | W 9/9   | Introduction to R, Part I| None | [Introduction to R Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html) | **ASSIGNED: ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas** <br> Copy/paste this SINGLE LINE (looks like 2 or 3 - it's only 1!!) into the **TERMINAL** tab in RStudio Cloud to get the assignment:<br> `wget https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R` <br> [Video: How to do the HW in RStudio Cloud](https://youtu.be/kvVqIlTlHN4)
 4     | R 9/10  | Introduction to R, Part II | [Interactive Exercises: Intro to R](https://rowanbiosci.shinyapps.io/intro_R/) | Same as W 9/9 | None
 5     | M 9/14  | Introduction to R, Part III | Finish Thursday 9/10 exercises| None | None
-6     | W 9/16  | Miscellaneous R'ing, and Introduction to the "grammar of graphics" | TBD | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  **[Assignment #2](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw2/hw2_instructions.html) due Wednesday 9/23/20 by 3:00 pm to Canvas**
-7     | R 9/17  | Grammar of graphics | TBD | None |  <!-- **Assigned:** "Grammar of graphics" due TBD --><!--Sunday 9/21/20 by 11:59 pm to Canvas-->
+6     | W 9/16  | Miscellaneous R'ing, and Introduction to the "grammar of graphics" | [Slides](https://github.com/sjspielman/datascience_for_biologists/raw/master/fall2020/slides/introduction_to_principles_dataviz.pdf) | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  **[Assignment #2](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw2/hw2_instructions.html) due Wednesday 9/23/20 by 3:00 pm to Canvas**
+7     | R 9/17  | Grammar of graphics | Slides from 9/16, continued | None | None <!-- **Assigned:** "Grammar of graphics" due TBD --><!--Sunday 9/21/20 by 11:59 pm to Canvas-->
 8     | M 9/21  | Introduction to data `ggplot2` | TBD | None | None
 9     | W 9/23  | Introduction to data `ggplot2` | TBD | None | TBD | Assignment TBD <!-- **Assigned:** "Introduction to `ggplot2`" due TBD-->
-10    | R 9/24  | Communicating clearly with figures | TBD | <ul> <li>*Part II: Principles of Figure Design* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz)</li><li> *Part I: Look at Data* from [Data Visualization: A practical Introduction](https://socviz.co/lookatdata.html)</li></ul> | None <!--Wednesday 9/30/20 by 11:59 pm to Canvas-->
+10    | R 9/24  | *Open work day* | | |  | |
+
+
 
 
 
 <!-- <li>[(Time pending) Interactive Exercises: Types of Data](https://rowanbiosci.shinyapps.io/intro_data_types/)</li></ul> 
 
+<ul> <li>*Part II: Principles of Figure Design* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz)</li><li> *Part I: Look at Data* from [Data Visualization: A practical Introduction](https://socviz.co/lookatdata.html)</li></ul> | None Wednesday 9/30/20 by 11:59 pm to Canvas
+
+
 [Understanding data types blogpost](https://blog.minitab.com/blog/understanding-statistics/understanding-qualitative-quantitative-attribute-discrete-and-continuous-data-types)
--->
 
 This one isn't so bad: https://rstudio.com/resources/webinars/getting-started-with-r-markdown/
 
