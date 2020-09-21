@@ -71,9 +71,13 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 5     | M 9/14  | Introduction to R, Part III | Finish Thursday 9/10 exercises| None | None
 6     | W 9/16  | Miscellaneous R'ing, and Introduction to the "grammar of graphics" | [Slides](https://github.com/sjspielman/datascience_for_biologists/raw/master/fall2020/slides/introduction_to_principles_dataviz.pdf) | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  **[Assignment #2](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw2/hw2_instructions.html) due Wednesday 9/23/20 by 3:00 pm to Canvas**
 7     | R 9/17  | Grammar of graphics | Slides from 9/16, continued | None | None <!-- **Assigned:** "Grammar of graphics" due TBD --><!--Sunday 9/21/20 by 11:59 pm to Canvas-->
-8     | M 9/21  | Introduction to data `ggplot2` | TBD | None | None
-9     | W 9/23  | Introduction to data `ggplot2` | TBD | None | TBD | Assignment TBD <!-- **Assigned:** "Introduction to `ggplot2`" due TBD-->
+8     | M 9/21  | Introduction to data visualization with `ggplot2` | None | None | None
+9     | W 9/23  | Introduction to data visualization with `ggplot2` | [Interactive Exercises: Intro to `ggplot2`](https://rowanbiosci.shinyapps.io/intro_ggplot/) <br> Website backup option is available in RStudio Cloud  | None | Assignment TBD <!-- **Assigned:** "Introduction to `ggplot2`" due TBD-->
 10    | R 9/24  | *Open work day* | | |  | |
+11    | M 9/30  | More data visualization with `ggplot2` | TBD | [Background: Customizing colors and fills](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/color_fill_scales.html) | None
+12    | W 9/23 |More data visualization with `ggplot2` | TBD | None  | Assignment TBD <!-- **Assigned:** "Introduction to `ggplot2`" due TBD-->
+13    | R 9/24  | *Open work day* | | |  | |
+
 
 
 
