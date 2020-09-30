@@ -76,7 +76,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 10    | R 9/24  | *Open work day* | None | None |  **Assignment #3 R script due Thursday 10/1/20 by 12:01 pm (noon) to Canvas.** [Link to instructions](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw3/hw3_plots_to_recreate.html)
 11    | M 9/28  | Reading and writing data files | Copy the RStudio Cloud `reading-writing-files` project, and follow along | ["Data Import" chapter from R4DS](https://r4ds.had.co.nz/data-import.html)| None
 12    | W 9/30  | More data visualization with `ggplot2` | TBD | [Background: Customizing colors and fills](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/color_fill_scales.html) <br> [Background: Customizing themes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/themes.html) <br> [Background: Customizing axes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/axes.html)  | None
-13    | R 10/1  | *Open work day* | None | None |  Assignment TBD
+13    | R 10/1  | *Open work day* | None | None | **Assignment #4 R script due Thursday 10/8/20 by 12:01 pm (noon) to Canvas.** [Link to instructions](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw4/hw4_instructions.html)
 
 
 
