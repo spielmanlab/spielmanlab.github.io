@@ -78,7 +78,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 12    | W 9/30  | More data visualization with `ggplot2` | None | [Background: Customizing colors and fills](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/color_fill_scales.html) <br> [Background: Customizing themes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/themes.html) <br> [Background: Customizing axes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/axes.html)  | None
 13    | R 10/1  | *Open work day* | None | None | **Assignment #4 R script due Thursday 10/8/20 by 12:01 pm (noon) to Canvas.** [Link to instructions](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw4/hw4_instructions.html)
 14 | M 10/5 | Introduction to data wrangling with `dplyr` | None | None | None
-15 | W 10/7 | Introduction to data wrangling with `dplyr` | [Interactive Exercises and Resource links](https://rowanbiosci.shinyapps.io/intro_ggplot/) | None | None
+15 | W 10/7 | Introduction to data wrangling with `dplyr` | [Interactive Exercises and Resource links](https://rowanbiosci.shinyapps.io/intro_dplyr/) | None | None
 16 | R 10/8 | *Open work day* (and introducing extra credit!) | None | None | Assignment TBD
 
 
