@@ -17,7 +17,7 @@
       <link>/courses/datascience_for_biologists/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/courses/datascience_for_biologists/</guid>
-      <description>&lt;p&gt;This website contains all materials used in BIOL 01301 Fall 2020 at Rowan University with Dr. Spielman. This course meets remotely Monday and Thursday 2-3:15 pm and Wednesday 3:30-6:15 pm. &lt;strong&gt;Zoom links can be found in &lt;a href=&#34;https://rowan.instructure.com/&#34;&gt;Canvas&lt;/a&gt;. All grading and assignment submissions (unless otherwise stated) will be hosted on &lt;a href=&#34;https://rowan.instructure.com/&#34;&gt;Canvas&lt;/a&gt;, but course materials will be posted on this site and/or within the &lt;a href=&#34;https://rstudio.cloud&#34;&gt;rstudio.cloud&lt;/a&gt; BIOL01301 workspace.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This website contains all materials used in BIOL 01301 Fall 2020 at Rowan University with Dr. Spielman (&lt;code&gt;spielman &amp;lt;at&amp;gt; rowan &amp;lt;dot&amp;gt; edu&lt;/code&gt;). This course meets remotely Monday and Thursday 2-3:15 pm and Wednesday 3:30-6:15 pm. &lt;strong&gt;Zoom links can be found in &lt;a href=&#34;https://rowan.instructure.com/&#34;&gt;Canvas&lt;/a&gt;. All grading and assignment submissions (unless otherwise stated) will be hosted on &lt;a href=&#34;https://rowan.instructure.com/&#34;&gt;Canvas&lt;/a&gt;, but course materials will be posted on this site and/or within the &lt;a href=&#34;https://rstudio.cloud&#34;&gt;rstudio.cloud&lt;/a&gt; BIOL01301 workspace.&lt;/strong&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;key-documents-and-links&#34;&gt;Key documents and links&lt;/h2&gt;
 &lt;ul&gt;
@@ -81,7 +81,7 @@
 &lt;td&gt;Introduction to R, Part I&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html&#34;&gt;Introduction to R Tutorial&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;ASSIGNED: &lt;a href=&#34;https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R&#34;&gt;&amp;ldquo;Introduction to R&amp;rdquo;&lt;/a&gt; due Wednesday 9/16/20 by 3:00 pm to Canvas&lt;/strong&gt; &lt;br&gt; Copy/paste this SINGLE LINE (looks like 2 or 3 - it&amp;rsquo;s only 1!!) into the &lt;strong&gt;TERMINAL&lt;/strong&gt; tab in RStudio Cloud to get the assignment:&lt;br&gt; &lt;code&gt;wget https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R&lt;/code&gt; &lt;br&gt; &lt;a href=&#34;https://youtu.be/kvVqIlTlHN4&#34;&gt;Video: How to do the HW in RStudio Cloud&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R&#34;&gt;&amp;ldquo;Assignment: Introduction to R&amp;rdquo;&lt;/a&gt; due Wednesday 9/16/20 by 3:00 pm to Canvas&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4&lt;/td&gt;
@@ -162,6 +162,30 @@
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Assignment #4 R script due Thursday 10/8/20 by 12:01 pm (noon) to Canvas.&lt;/strong&gt; &lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw4/hw4_instructions.html&#34;&gt;Link to instructions&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;M 10/5&lt;/td&gt;
+&lt;td&gt;Introduction to data wrangling with &lt;code&gt;dplyr&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;W 10/7&lt;/td&gt;
+&lt;td&gt;Introduction to data wrangling with &lt;code&gt;dplyr&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://rowanbiosci.shinyapps.io/intro_ggplot/&#34;&gt;Interactive Exercises and Resource links&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;R 10/8&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Open work day&lt;/em&gt; (and introducing extra credit!)&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Assignment TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
