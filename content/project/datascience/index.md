@@ -29,7 +29,7 @@ editable= false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 +++
 
-This website contains all materials used in BIOL 01301 Fall 2020 at Rowan University with Dr. Spielman. This course meets remotely Monday and Thursday 2-3:15 pm and Wednesday 3:30-6:15 pm. **Zoom links can be found in [Canvas](https://rowan.instructure.com/). All grading and assignment submissions (unless otherwise stated) will be hosted on [Canvas](https://rowan.instructure.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 workspace.**
+This website contains all materials used in BIOL 01301 Fall 2020 at Rowan University with Dr. Spielman (`spielman <at> rowan <dot> edu`). This course meets remotely Monday and Thursday 2-3:15 pm and Wednesday 3:30-6:15 pm. **Zoom links can be found in [Canvas](https://rowan.instructure.com/). All grading and assignment submissions (unless otherwise stated) will be hosted on [Canvas](https://rowan.instructure.com/), but course materials will be posted on this site and/or within the [rstudio.cloud](https://rstudio.cloud) BIOL01301 workspace.**
 
 <br>
 
@@ -66,7 +66,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 ------|----------|--------------------------------------------------|-----------------------------|---------------------|-----------------
 1     | W 9/2   | Introduction and logistics | None | None | **Assigned:** Fill out the class survey (link on Canvas) **TODAY** if you have not yet done so
 2     | R 9/3   | Student introductions | None | None | None 
-3     | W 9/9   | Introduction to R, Part I| None | [Introduction to R Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html) | **ASSIGNED: ["Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas** <br> Copy/paste this SINGLE LINE (looks like 2 or 3 - it's only 1!!) into the **TERMINAL** tab in RStudio Cloud to get the assignment:<br> `wget https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R` <br> [Video: How to do the HW in RStudio Cloud](https://youtu.be/kvVqIlTlHN4)
+3     | W 9/9   | Introduction to R, Part I| None | [Introduction to R Tutorial](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/introduction_to_R.html) | **["Assignment: Introduction to R"](https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/fall2020/assignments/hw1.R) due Wednesday 9/16/20 by 3:00 pm to Canvas** 
 4     | R 9/10  | Introduction to R, Part II | [Interactive Exercises: Intro to R](https://rowanbiosci.shinyapps.io/intro_R/) | Same as W 9/9 | None
 5     | M 9/14  | Introduction to R, Part III | Finish Thursday 9/10 exercises| None | None
 6     | W 9/16  | Miscellaneous R'ing, and Introduction to the "grammar of graphics" | [Slides](https://github.com/sjspielman/datascience_for_biologists/raw/master/fall2020/slides/introduction_to_principles_dataviz.pdf) | *Chapters 1-5* from [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) |  **[Assignment #2](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw2/hw2_instructions.html) due Wednesday 9/23/20 by 3:00 pm to Canvas**
@@ -77,8 +77,9 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 11    | M 9/28  | Reading and writing data files | Copy the RStudio Cloud `reading-writing-files` project, and follow along | ["Data Import" chapter from R4DS](https://r4ds.had.co.nz/data-import.html)| None
 12    | W 9/30  | More data visualization with `ggplot2` | None | [Background: Customizing colors and fills](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/color_fill_scales.html) <br> [Background: Customizing themes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/themes.html) <br> [Background: Customizing axes](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/axes.html)  | None
 13    | R 10/1  | *Open work day* | None | None | **Assignment #4 R script due Thursday 10/8/20 by 12:01 pm (noon) to Canvas.** [Link to instructions](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/assignments/hw4/hw4_instructions.html)
-
-
+14 | M 10/5 | Introduction to data wrangling with `dplyr` | None | None | None
+15 | W 10/7 | Introduction to data wrangling with `dplyr` | [Interactive Exercises and Resource links](https://rowanbiosci.shinyapps.io/intro_ggplot/) | None | None
+16 | R 10/8 | *Open work day* (and introducing extra credit!) | None | None | Assignment TBD
 
 
 
