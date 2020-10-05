@@ -41,19 +41,7 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 
 <br>
 
-## Online Books and Resources
-
-+ [Twitter for R programmers](https://www.t4rstats.com/)
-  + Geared towards programmers but serves as a great general "welcome to the Twitter #rstats community"! 
-+ [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by Claus O. Wilke
-+ [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
-+ [Data Visualization: A practical Introduction](https://socviz.co/) by Kieran Healy
-+ [`tidyverse` homepage, official documentation, and cheatsheets](https://www.tidyverse.org/)
-+ [STAT545 Resources (**EXCELLENT** background)](https://stat545.com/)
-+ [Introduction to Data Science e-book](https://rafalab.github.io/dsbook/)
-+ [RStudio Resources (all levels of videos/tutorials)](https://resources.rstudio.com/)
-+ [Calling Bullshit Course Website](https://callingbullshit.org/) by Carl Bergstrom and Jevin West
-
+## Class resources, all in one place: [Resources](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/resources.html)
 
 <br> 
 
