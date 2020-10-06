@@ -18,7 +18,6 @@ tags = ["All Courses", "Current Courses", "Rowan Courses"]
 # Optional external URL for project (replaces project detail page).
 external_link = "" # https://sjspielman.github.io/datascience_for_biologists/"
 
-<!--
 # Does the project detail page use math formatting?
 math = false
 
