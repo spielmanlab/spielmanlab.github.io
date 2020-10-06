@@ -43,6 +43,23 @@ This website contains all materials used in BIOL 01301 Fall 2020 at Rowan Univer
 
 ## Class resources, all in one place: [Resources](http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/resources.html)
 
+
++ [Twitter for R programmers](https://www.t4rstats.com/)
+  + Geared towards programmers but serves as a great general "welcome to the Twitter #rstats community"! 
++ [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by Claus O. Wilke
++ [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
++ [Data Visualization: A practical Introduction](https://socviz.co/) by Kieran Healy
++ [`tidyverse` homepage, official documentation, and cheatsheets](https://www.tidyverse.org/)
++ [Tidyverse style guide](https://style.tidyverse.org/)
++ [STAT545 Resources (**EXCELLENT** background)](https://stat545.com/)
++ [Introduction to Data Science e-book](https://rafalab.github.io/dsbook/)
++ [RStudio Resources (all levels of videos/tutorials)](https://resources.rstudio.com/)
++ [Calling Bullshit Course Website](https://callingbullshit.org/) by Carl Bergstrom and Jevin West
++ **PDFs of key resources until the websites are fully fixed:**
+    + [Customizing colors and fills](https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/color_fill_scales.pdf)
+    + [Customizing themes](https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/themes.pdf)
+    + [Customizing axes](https://github.com/sjspielman/datascience_for_biologists/blob/master/fall2020/tutorials/axes.pdf)
+
 <br> 
 
 ## Class Schedule and Materials
