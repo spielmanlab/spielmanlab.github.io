@@ -3,7 +3,7 @@
 date = "2016-10-27"
 
 # Project title.
-title = 'Jake Mihalecz (2021 -  Present)'
+title = 'Jake Mihalecz (Fall 2020 -  Present)'
 
 # Tags: can be used for filtering projects.
 tags = ["All Lab Members", "Current Lab Members"]
