@@ -27,7 +27,7 @@ organizations:
 
 
 interests:
-- Models of sequence evolution
+- DNA and protein evolution
 - Phylogenetic methods
 - Data science and bioinformatics
 - Open science and education
