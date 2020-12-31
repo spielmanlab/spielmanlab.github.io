@@ -75,7 +75,9 @@ social:
 
 
 ---
-Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve, with a particular interest in simulation-based studies to study and develop methods in molecular phylogenetics. We also work to develop usable and flexible resources for computational and data science education. Finally, we have an active collaboration with Dr. Eli K. Moore in Rowan University's [Department of Environmental Sciences](https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html) to develop and apply network analysis tools for interrogating geosphere-biosphere interactions in deep time.
+Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve, with a particular interest in simulation-based studies to study and develop methods in molecular phylogenetics. We also work to develop usable and flexible resources for computational and data science education. Finally, we have an active collaboration with Dr. Eli K. Moore in Rowan University's [Department of Environmental Sciences](https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html) to develop and apply network analysis tools for interrogating geosphere-biosphere interactions in deep time. 
+
+If you are interested in joining the lab, please see more information [here](https://spielmanlab.github.io/project/prospective-student.html).
 
 
 
