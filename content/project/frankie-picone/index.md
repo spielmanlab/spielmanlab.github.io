@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Frankie is a former undergraduate research student who graduated in May 2020 with his BS in Biological Sciences from the Department of Biological Sciences, with a minor in Chemistry. 
+Frankie is a former undergraduate research student who graduated in May 2020 with his BS in Biological Sciences from the Department of Biological Sciences, with a minor in Chemistry. He is now a Laboratory Assistant at [Salem Botanicals](https://www.salembotanicals.com/).

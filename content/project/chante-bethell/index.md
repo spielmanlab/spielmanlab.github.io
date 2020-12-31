@@ -21,7 +21,7 @@ math = false
 
 
 +++
-Chante is a former undergraduate research student who graduated in May 2019 with her BSc in Bioinformatics from the department of Molecular and Cellular Biosciences at Rowan University. She is now a Biological Data Analyst at the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) in Philadelphia, PA.
+Chante is a former undergraduate research student who graduated in May 2019 with her BS in Bioinformatics from the department of Molecular and Cellular Biosciences at Rowan University. She is now a Biological Data Analyst at the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) in Philadelphia, PA.
 
 
 
