@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Jake is an undergraduate student majoring in Biological Sciences Rowan University, and he is a member of the [Honors College](https://sites.rowan.edu/honors/index.html). He is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.
+Jake is an undergraduate student majoring in Biological Sciences at Rowan University, and he is a member of the [Honors College](https://sites.rowan.edu/honors/index.html). He is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.

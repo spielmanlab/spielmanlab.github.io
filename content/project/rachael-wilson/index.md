@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Rachael is an undergraduate student majoring in Biological Sciences Rowan University with a minor in Psychology. She is working on a collaborative project with [Dr. Andrea Hunt](https://cpa.rowan.edu/music/faculty/andrea-hunt---music-therapy.html), the Directory of Music Therapy at Rowan University, to develop a classroom-oriented tool for students to analyze EEG data.
+Rachael is an undergraduate student majoring in Biological Sciences at Rowan University with a minor in Psychology. She is working on a collaborative project with [Dr. Andrea Hunt](https://cpa.rowan.edu/music/faculty/andrea-hunt---music-therapy.html), the Directory of Music Therapy at Rowan University, to develop a classroom-oriented tool for students to analyze EEG data.

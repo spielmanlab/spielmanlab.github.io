@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Jake is an undergraduate student majoring in Biological Sciences Rowan University. He is working on a research project to study biases in protein models evolutionary divergence estimation.
+Jake is an undergraduate student majoring in Biological Sciences at Rowan University. He is working on a research project to study biases in protein models evolutionary divergence estimation.
