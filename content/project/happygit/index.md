@@ -11,7 +11,7 @@ summary = "Learn to interact with github, geared towards R users."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All Resources", "git", "R Resources"]
+tags = ["All Resources", "git Resources", "R Resources"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://happygitwithr.com/"
