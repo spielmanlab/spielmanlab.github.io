@@ -1,0 +1,167 @@
+---
+title: "Summarizing and visualizing data SOLUTIONS"
+date: BIOL01104 Spring 2020, Dr. Spielman
+output: pdf_document
+fontsize: 10pt
+geometry: margin=0.4in
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(dslabs)
+library(patchwork)
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.margin=T, fig.height=2.5, fig.width=4)
+theme_set(theme_classic() + theme(legend.position = "none"))
+```
+
+
+
+This worksheet uses a dataset of information about olives collected from Italy. The data contains information about the fatty acid content for 572 olives from Northern Italy, Southern Italy, and Sardenia (a Mediterranean island off the coast of Italy). Answer questions about each plot with your table. **For all plots, identify the type of data (quantitative/numeric or categorical) on each axis. If numeric, identify if it is discrete or continuous**
+
+# Histograms
+
+The histograms below show the **distribution of oleic acid percentages** for olives collected from the three regions.
+
+1. Describe the shape each distribution:
+    + Are they unimodal or bimodal? 
+      + \textcolor{red}{Northern Italy is unimodal, Sardinia and Southern Italy are bimodal.}
+    + Roughly symmetric or asymmetric?
+      + \textcolor{red}{All are asymmetric}
+    + Are there any outliers?
+      + \textcolor{red}{Northern Italy has an outlier around 84, and it looks like Southern Italy \emph{might} have some outliers at the right tail around 81.}
+
+
+2. What is (roughly) the minimum, maximum, and mode for each distribution?
+
+
+
+| Region | Minimum | Maximum | Mode  |
+|--------|------|------------|--------|
+| Northern Italy | ~73 | ~84 | ~79.5 | 
+| Sardenia | ~68  | ~75 | ~74.5 |
+| Southern Italy | ~63.5 | ~81 | ~70 |
+
+
+3. Rank the regions in terms of their *means*: Which region has the highest mean oleic acid percentage? The second highest? The lowest? 
+\textcolor{red}{(See next answer)}
+
+4. Rank the regions in terms of their *variation*: Which region has the most variation for oleic acid percentage? The second highest? The lowest? _Calculate each distribution's coefficient of variation (COV) to answer this question!_ Note: the _actual means_  and standard deviations are...
+
+| Region | Mean | Standard Deviation | COV|
+|--------|------|--------------------|----|
+| Northern Italy | 77.9 | 1.6 | 0.021 |
+| Sardenia | 72.7  | 1.4 | 0.019 | 
+| Southern Italy | 71.0 | 3.5 | 0.05|
+    
+5. Determine which distribution _most accurately reflects the TRUE POPULATION distribution of its regional olives._ To answer this question, you will need to calculate the *standard error*, which tells you how close the sample mean is to the population mean. Note: there are 151 olives from Northern Italy, 98 olives from Sardinia, and 323 olives from Southern Italy. 
+
+
+| Region | SE | 
+|--------|------|
+| Northern Italy | 0.13 |
+| Sardenia | 72.7  | 0.14 |
+| Southern Italy | 0.19 |
+
+
+\textcolor{red}{0.13 is the lowest, so the Northern Italy sample likely best approximates its true population mean.}
+
+<br><br><br>
+
+```{r, fig.height=2, fig.width=5}
+ggplot(olive, aes(x  = oleic)) + geom_histogram(aes(fill = region), color="black", binwidth = 0.5) + facet_grid(~region) + xlab("Oleic Acid Percentage") + ylab("Count")
+```
+
+
+# Boxplots
+
+The boxplots below again shown the **distribution of oleic acid percentages** for olives collected from the three regions. Answer questions 1, 2, and 3 (although consider the *median* rather than mean!) from the Histogram section again, but using the boxplots are your guide. Were boxplots or histograms more informative for answering these questions?
+
+```{r}
+ggplot(olive, aes(x = region, y = oleic)) + geom_boxplot(aes(fill=region)) + xlab("Region") + ylab("Oleic Acid Percentage")
+```
+
+\textcolor{red}{Median relationships the same as the mean. Much easier to see outliers (indeed Southern Italy DOES have a couple outliers above 80!), but impossible to tell if unimodal/bimodal, and very difficult to assess symmetry compared to histograms.}
+
+\vspace{0.5cm}
+
+The boxplots below shown the **distribution of linolenic acid percentages** for olives collected from the three regions. Answer the same questions (mean, standard deviation). Then, compare the trends you observed for the previous boxplots of oleic acid to these linolenic acid boxplots. What are the similarities and differences between these two types of acids in olives?
+
+```{r}
+ggplot(olive, aes(x = region, y = linolenic)) + geom_boxplot(aes(fill=region)) + xlab("Region") + ylab("Linolenic Acid Percentage")
+```
+
+\textcolor{red}{Relationship is opposite to oleic acid - Southern has highest median, Northeran has lowest median. It is probably fair to say Sardinia has least amount of variation, Nothern Italy the largest (although we'd have to confirm this with COV).}
+
+**Finally**, draw by hand (with your table!) a *bar plot* showing the mean oleic acid percentage for each region (refer to Histogram question #4 for the actual values). Include error bars for _standard deviation_ (draw roughly the entire error bar length to equal the standard deviation).
+
+```{r, include=FALSE}
+olive %>%
+  group_by(region) %>% 
+  summarize(m = mean(oleic),
+            s = sd(oleic)) %>%
+  ggplot(aes(x = region, y = m)) + 
+    geom_bar(stat = "identity", aes(fill=region), alpha=0.8) + 
+  geom_errorbar(aes(x = region, ymin = m-s/2, ymax = m+s/2), width=0.2) + ylab("Mean oleic acid percentage")+
+  theme_bw() + theme(legend.position = "none")
+```
+
+# Barplots
+
+The barplot below shows the _number of olives_ collected from each region. Roughly determine how many olives were collected from each region. What is the *mode* of the distribution of olive counts?
+
+
+```{r, fig.height=2, fig.width=3}
+ggplot(olive, aes(x = region)) + geom_bar(aes(fill=region), color="black") + scale_y_continuous(expand=c(0,0))
+```
+
+\textcolor{red}{Mode is Southern Italy. Roughly, 150 from Northern Italy, 100 from Sardinia, 310 from Southern Italy.}
+
+# Scatterplots, Part 1
+
+The scatterplot below shows the *relationship* between percentages of oleic aand linoleic acid in each olive. Thus, there are 572 points in this figure (1 point per olive).
+
+Is there a strong, moderate or weak correlation? Is the correlation positive or negative? Draw a rough estimate of the line-of-best-fit for these points.
+
+```{r}
+olive  %>% ggplot(aes(x = oleic, y = linoleic)) + geom_point(size=0.5) + xlab("Oleic Acid Percentage") + ylab("Linoleic Acid Percentage") + geom_smooth(color = "red", method = "lm", se =F)
+```
+\textcolor{red}{Moderate-to-strong negative relationship}
+
+\vspace{1cm}
+The scatterplot below is a modified version of the above scatterplot, where this time points are colored according to which region the olive comes from. 
+
+What differences and similarities do you observe among regions? Draw a rough estimate of the line-of-best-fit for each region SEPARATELY and compare their trends: Which region appears to have the highest correlation? The lowest? Are all correlations the same direction (positive or negative)?  
+
+```{r}
+olive  %>% ggplot(aes(x = oleic, y = linoleic, color=region)) + geom_point(size=0.5) + xlab("Oleic Acid Percentage") + ylab("Linoleic Acid Percentage") + geom_smooth(method = "lm", size=0.5, se =F)+ theme(legend.position = "right")
+```
+
+\textcolor{red}{All are negative. Sardinia has the strongest relationship, and Northern Italy likely has the weakest.}
+
+
+# Scatterplots, part 2
+
+Below are four different scatterplots each with a *line of best fit* showing the overall relationship between X and Y variables. Each plot shows the relationship between two different types of fatty acids, for Southern Italy olives only. 
+
+Characterize each plot as having a strong, moderate or weak correlation, as well as whether the correlation is positive or negative.
+
+```{r, fig.height=6, fig.width=8}
+olive %>% filter(region == "Southern Italy") -> southolive
+southolive  %>% ggplot(aes(x = oleic, y = linoleic))+ xlab("Oleic Acid Percentage") + ylab("Linoleic Acid Percentage") + geom_point(size=0.5) + geom_smooth(method = "lm", se=F) + ggtitle("STRONG NEGATIVE") + theme(plot.title = element_text(color="red"))-> scat.strongneg
+southolive %>% ggplot(aes(x = oleic, y = arachidic)) + xlab("Oleic Acid Percentage") + ylab("Arachidic Acid Percentage") + geom_point(size=0.5) + geom_smooth(method = "lm", se=F) + ggtitle("WEAK POSITIVE")+ theme(plot.title = element_text(color="red")) -> scat.weakpos
+southolive %>% ggplot(aes(x = oleic, y = eicosenoic)) +  xlab("Oleic Acid Percentage") + ylab("Eicosenoic Acid Percentage") + geom_point(size=0.5) + geom_smooth(method = "lm", se=F) + ggtitle("WEAK/MODERATE POSITIVE")+ theme(plot.title = element_text(color="red"))-> scat.medpos
+southolive %>% ggplot(aes(x = palmitic, y = palmitoleic)) +  xlab("Palmitic Acid Percentage") + ylab("Palmitoleic Acid Percentage") + geom_point(size=0.5) + geom_smooth(method = "lm", se=F) + ggtitle("MODERATE/STRONG POSITIVE") + theme(plot.title = element_text(color="red"))-> scat.strongpos
+(scat.strongneg  + scat.weakpos) / (scat.strongpos + scat.medpos)
+```
+
+
+
+
+
+
+
+
+
+
+
+

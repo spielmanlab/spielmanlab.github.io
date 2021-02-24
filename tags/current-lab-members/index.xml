@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Lab Members | Spielman Lab</title>
+    <link>/tags/current-lab-members.html</link>
+      <atom:link href="/tags/current-lab-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Lab Members</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Current Lab Members</title>
+      <link>/tags/current-lab-members.html</link>
+    </image>
+    
+    <item>
+      <title>Jake Mihalecz (Fall 2020 -  Present)</title>
+      <link>/project/jake-mihalecz.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/jake-mihalecz.html</guid>
+      <description>&lt;p&gt;Jake is an undergraduate student majoring in Biological Sciences at Rowan University. He is working on a research project to study biases in protein models evolutionary divergence estimation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John (&#34;Jake&#34;) Kovaleski (Fall 2020 -  Present)</title>
+      <link>/project/john-kovaleski.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/john-kovaleski.html</guid>
+      <description>&lt;p&gt;Jake is an undergraduate student majoring in Biological Sciences at Rowan University, and he is a member of the &lt;a href=&#34;https://sites.rowan.edu/honors/index.html&#34;&gt;Honors College&lt;/a&gt;. He is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Judith Evans (Spring 2021 -  Present)</title>
+      <link>/project/judith-evans.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/judith-evans.html</guid>
+      <description>&lt;p&gt;Judith is an undergraduate student majoring in Biological Sciences at Rowan University, with two minors in Spanish and Chemistry. She is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Madeline (&#34;Maddie&#34;) Greene (Fall 2020-Present)</title>
+      <link>/project/madeline-greene.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/madeline-greene.html</guid>
+      <description>&lt;p&gt;Maddie is an undergraduate student majoring in Biological Sciences at Rowan University, with two minors in Spanish and Sustainability Science, after which she will pursue her M.A. in STEM Education at Rowan University. She is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rachael Wilson (Fall 2020 -  Present)</title>
+      <link>/project/rachael-wilson.html</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/rachael-wilson.html</guid>
+      <description>&lt;p&gt;Rachael is an undergraduate student majoring in Biological Sciences at Rowan University with a minor in Psychology. She is working on a collaborative project with &lt;a href=&#34;https://cpa.rowan.edu/music/faculty/andrea-hunt---music-therapy.html&#34;&gt;Dr. Andrea Hunt&lt;/a&gt;, the Directory of Music Therapy at Rowan University, to develop a classroom-oriented tool for students to analyze EEG data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YOU?!</title>
+      <link>/project/prospective-student.html</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/project/prospective-student.html</guid>
+      <description>&lt;p&gt;We are always interested in recruiting motivated and enthusiastic new undergraduate students for research. Please note that, at this time, there are &lt;strong&gt;NO&lt;/strong&gt; graduate student opportunities in the Spielman Lab.&lt;/p&gt;
+&lt;h3 id=&#34;eligibility-requirements&#34;&gt;Eligibility Requirements&lt;/h3&gt;
+&lt;p&gt;To be &lt;em&gt;eligible&lt;/em&gt; for a position in the Spielman Lab, you must&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Have a demonstrated background in computer programming. In the vast majority of cases, Dr. Spielman recruits research students directly from her &lt;a href=&#34;https://sjspielman.github.io/datascience_for_biologists/&#34;&gt;Data Science for Biologists (BIOLO1301)&lt;/a&gt; class. However, if a student can demonstrate that they already have coding skills without having taken this class, they may be eligible for consideration. In this case, you will need to share examples of your past code with Dr. Spielman to determine whether your skills would make a good fit for the lab&amp;rsquo;s research projects&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Have a &lt;em&gt;specific and demonstrable interest&lt;/em&gt; in our research projects. To learn more about the type of research we do, see Dr. Spielman&amp;rsquo;s &lt;a href=&#34;https://spielmanlab.github.io/publication.html&#34;&gt;publications&lt;/a&gt;.  Currently, there are three general types of projects in the lab (briefly described below), but it is often possible to develop a personalized research project as long as it falls within the general &amp;ldquo;biological data analysis&amp;rdquo; domain.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing a flexible educational suite to teach R and &lt;code&gt;tidyverse&lt;/code&gt; to novices. &lt;em&gt;Eligibility for this project REQUIRES having taken BIOL01301.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Identifying links between proteins that use metal co-factors and geologic metal availability in deep time.&lt;/li&gt;
+&lt;li&gt;Studying how protein and DNA evolve using phylogenies and statistical models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-do-you-join-the-lab&#34;&gt;How do you join the lab?&lt;/h3&gt;
+&lt;p&gt;Please &lt;em&gt;email&lt;/em&gt; Dr. Spielman at &lt;code&gt;spielman@rowan.edu&lt;/code&gt; (make sure to spell &lt;strong&gt;i before e&lt;/strong&gt;!) to inquire about a possible research position. As part of your email, you should clearly explain why you want to join the Spielman Lab &lt;em&gt;specifically&lt;/em&gt;. These specific reasons might include, for example, why you want to learn more about computational biology, or why and how you became interested in a specific topic we work with. Any requests that do not specifically relate to activities in the Spielman Lab will not be considered. In addition, if you have NOT taken a programming class with Dr. Spielman, please attach 1-3 example programs or scripts you have written, in any language. If Dr. Spielman determines that there is a suitable position for you in the lab, a subsequent interview may be scheduled.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.vecteezy.com/free-vector/join&#34;&gt;&amp;ldquo;Join us&amp;rdquo; Image attribution.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
