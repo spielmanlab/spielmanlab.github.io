@@ -1,6 +1,6 @@
 +++
 title = "Geological factors impacted cadmium availability and use as an alternative cofactor for zinc in the carbon fixation pathways of marine diatoms"
-date = "2020-07-16"
+date = "2021-02-24"
 
 authors = ["Naman Srivastava", "**Stephanie J. Spielman**", "Shaunna M. Morrison", "Eli K. Moore"]
 
