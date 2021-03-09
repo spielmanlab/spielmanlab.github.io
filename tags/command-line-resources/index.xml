@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>Interactive UNIX Bootcamp</title>
-      <link>/project/unix_bootcamp.html</link>
+      <title>Command Line Bootcamp</title>
+      <link>/project/command_line_bootcamp.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/unix_bootcamp.html</guid>
+      <guid>/project/command_line_bootcamp.html</guid>
       <description></description>
     </item>
     
@@ -41,6 +41,22 @@
       <link>/project/software_carpentry.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/project/software_carpentry.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIX Bootcamp</title>
+      <link>/project/unix_bootcamp.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/unix_bootcamp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIX for the Beginning Mage (UFBM)</title>
+      <link>/project/ufbm.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/ufbm.html</guid>
       <description></description>
     </item>
     

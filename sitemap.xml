@@ -313,6 +313,11 @@
   </url>
   
   <url>
+    <loc>/project/command_line_bootcamp.html</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/command-line-resources.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -369,11 +374,6 @@
   
   <url>
     <loc>/project/happygit.html</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/unix_bootcamp.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -479,6 +479,16 @@
   
   <url>
     <loc>/tags/temple-courses.html</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/unix_bootcamp.html</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ufbm.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
