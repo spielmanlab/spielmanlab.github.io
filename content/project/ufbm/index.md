@@ -14,6 +14,6 @@ summary = "Canonical tutorial e-book for getting started with UNIX (command line
 tags = ["All Resources", "Command Line Resources"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "./ufbm.pdf"
+external_link = "files/ufbm.pdf"
 
 +++
