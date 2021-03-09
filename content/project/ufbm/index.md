@@ -4,16 +4,16 @@ date = "2017-01-01"
 
 
 # Project title.
-title = "UNIX Bootcamp"
+title = "UNIX for the Beginning Mage (UFBM)"
 
 # Project summary to display on homepage.
-summary = "One of many free tutorials for learning the basics of UNIX (command line)."
+summary = "Canonical tutorial e-book for getting started with UNIX (command line)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["All Resources", "Command Line Resources"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/griffithlab/rnaseq_tutorial/wiki/Unix-Bootcamp"
+external_link = "./ufbm.pdf"
 
 +++

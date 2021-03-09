@@ -4,7 +4,7 @@ date = "2017-01-01"
 
 
 # Project title.
-title = "UNIX Bootcamp"
+title = "Command Line Bootcamp"
 
 # Project summary to display on homepage.
 summary = "One of many free tutorials for learning the basics of UNIX (command line)."
@@ -14,6 +14,6 @@ summary = "One of many free tutorials for learning the basics of UNIX (command l
 tags = ["All Resources", "Command Line Resources"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/griffithlab/rnaseq_tutorial/wiki/Unix-Bootcamp"
+external_link = "http://korflab.ucdavis.edu/bootcamp.html"
 
 +++
