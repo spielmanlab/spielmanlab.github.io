@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Maddie is an undergraduate student majoring in Biological Sciences at Rowan University, with two minors in Spanish and Sustainability Science, after which she will pursue her M.A. in STEM Education at Rowan University. She is involved with a project to develop a flexible and modular R package to teach introductory data science skills to novices.
+Maddie is an undergraduate student majoring in Biological Sciences at Rowan University, with two minors in Spanish and Sustainability Science, after which she will pursue her M.A. in STEM Education at Rowan University. She is involved with development of the [`{introverse}` R package](https://github.com/spielmanlab/introverse).
