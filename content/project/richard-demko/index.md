@@ -3,10 +3,10 @@
 date = "2016-10-27"
 
 # Project title.
-title = 'Richard ("Rich") T. Demko (Summer 2021 -  Present)'
+title = 'Richard ("Rich") T. Demko (Summer 2021 -  Fall 2021)'
 
 # Tags: can be used for filtering projects.
-tags = ["All Lab Members", "Current Lab Members"]
+tags = ["All Lab Members", "Former Lab Members"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
