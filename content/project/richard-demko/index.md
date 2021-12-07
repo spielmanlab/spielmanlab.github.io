@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Rich is an undergraduate student majoring in Biological Sciences at Rowan University. He is working on a software development project to create an R package for visualizing large multiple sequence alignments.
+Rich is a former undergraduate research student who graduated in Fall 2021 with his BS in Biological Sciences from the Department of Biological Sciences, as well as a CUGS in Spanish and Italian. While in the Spielman lab, he worked on several software development projects in R and python to visualize and manipulate multiple sequence alignments.

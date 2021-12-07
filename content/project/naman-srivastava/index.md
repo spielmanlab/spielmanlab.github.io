@@ -16,6 +16,6 @@ math = false
 
 
 +++
-Naman is an undergraduate student majoring in Biological Sciences at Rowan University. Since 2019, he has been working on collaborative research projects with Dr. Eli K. Moore in the [Department of Environmental Sciences](https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html) to study the environmental the deep-time geological dynamics of metals commonly used as protein co-factors. 
+Naman is an undergraduate student majoring in Biological Sciences at Rowan University. Since 2019, he has been working on collaborative research projects with Dr. Eli K. Moore in the [Department of Environmental Sciences](https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html) to study the environmental the deep-time geological dynamics of metals commonly used as protein co-factors. His work has been published [here](https://spielmanlab.github.io/publication/2021_srivastavaetal_jgr.html).
 
 
