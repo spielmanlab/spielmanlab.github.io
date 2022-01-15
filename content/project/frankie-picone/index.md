@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Frankie is a former undergraduate research student who graduated in May 2020 with his BS in Biological Sciences from the Department of Biological Sciences, with a minor in Chemistry. He is now a Research Assistant in the [Gardini Laboratory at The Wistar Institute](https://wistar.org/our-scientists/alessandro-gardini) in Philadelphia, PA. While in the Spielman lab, he studied biases in protein model evolutionary divergence estimation.
+Frankie is a former undergraduate research student who graduated in May 2020 with his BS in Biological Sciences from the Department of Biological Sciences, with a minor in Chemistry. He is now a Laboratory Assistant at [Salem Botanicals](https://www.salembotanicals.com/).

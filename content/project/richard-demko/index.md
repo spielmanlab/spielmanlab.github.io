@@ -3,10 +3,10 @@
 date = "2016-10-27"
 
 # Project title.
-title = 'Richard ("Rich") T. Demko (Summer 2021 -  Fall 2021)'
+title = 'Richard ("Rich") T. Demko (Summer 2021 -  Present)'
 
 # Tags: can be used for filtering projects.
-tags = ["All Lab Members", "Former Lab Members"]
+tags = ["All Lab Members", "Current Lab Members"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -16,4 +16,4 @@ math = false
 
 
 +++
-Rich is a former undergraduate research student who graduated in Fall 2021 with his BS in Biological Sciences from the Department of Biological Sciences, as well as a CUGS in Spanish and Italian. While in the Spielman lab, he worked on several software development projects in R and python to visualize and manipulate multiple sequence alignments.
+Rich is an undergraduate student majoring in Biological Sciences at Rowan University. He is working on a software development project to create an R package for visualizing large multiple sequence alignments.

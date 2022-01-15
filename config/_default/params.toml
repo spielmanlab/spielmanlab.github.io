@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "spielman@rowan.edu"
-#phone = "856-256-4500 Ext. 53578"
-address = "*Please note: I am working fully remotely during COVID-19 and will not be in my office.* <br> 201D Science Hall, 201 Mullica Hill Road, Glassboro, NJ 08028 USA"
+email = "stephanie.spielman@gmail.com"
+##phone = "856-256-4500 Ext. 53578"
+#address = "*Please note: I am working fully remotely during COVID-19 and will not be in my office.* <br> 201D Science Hall, 201 Mullica Hill Road, Glassboro, NJ 08028 USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
