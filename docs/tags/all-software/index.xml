@@ -5,7 +5,7 @@
     <link>/tags/all-software.html</link>
       <atom:link href="/tags/all-software/index.xml" rel="self" type="application/rss+xml" />
     <description>All Software</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright>
     <image>
       <url>/img/icon-192.png</url>
       <title>All Software</title>
@@ -25,6 +25,14 @@
       <link>/project/evolforces.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/evolforces.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introverse</title>
+      <link>/project/introverse.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/introverse.html</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/project.html</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,40 +13,180 @@
     </image>
     
     <item>
+      <title>Data Science for Biologists</title>
+      <link>/courses/datascience_for_biologists/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/datascience_for_biologists/</guid>
+      <description>&lt;p&gt;THE CLASS WEBSITE HAS MOVED HERE:  &lt;a href=&#34;https://sjspielman.github.io/datascience_for_biologists/&#34;&gt;https://sjspielman.github.io/datascience_for_biologists/&lt;/a&gt;. PLEASE UDPATE YOUR BOOKMARKS!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Evolution and Scientific Inquiry</title>
       <link>/courses/introevol/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/courses/introevol/</guid>
-      <description>
-
-&lt;p&gt;This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at Rowan University with Dr. Spielman. This course meets Monday/Wednesday 11-12:15 and Friday 11:00 am-1:45 pm in Science Hall 239.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;All grading and assignments (unless otherwise stated) will be hosted on &lt;a href=&#34;https://rowan.blackboard.com/&#34; target=&#34;_blank&#34;&gt;Blackboard&lt;/a&gt;, but in-class materials and scheduling will be posted on this site.&lt;/strong&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;This website contains all materials used in BIOL 01104 Section 4, Spring 2020 at Rowan University with Dr. Spielman. This course now meets ~remotely~, but used to meet Monday/Wednesday 11-12:15 and Friday 11:00 am-1:45 pm in Science Hall 239.&lt;/p&gt;
 &lt;h2 id=&#34;key-documents-and-links&#34;&gt;Key documents and links&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./logistics/Spring2020_Spielman_Syllabus_Evolution.pdf&#34;&gt;&lt;strong&gt;Download the course syllabus&lt;/strong&gt;&lt;/a&gt;. This document contains all course policies. &lt;em&gt;When in doubt, check here first&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./logistics/regrade_policy.docx&#34;&gt;&lt;strong&gt;Download the regrade form&lt;/strong&gt;&lt;/a&gt;. This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://research.rowan.edu/officeofresearch/compliance/cititraining/index.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Link to required CITI Laboratory Safety Training Instructions&lt;/strong&gt;&lt;/a&gt;. You must complete &amp;ldquo;General Biological Laboratory Research&amp;rdquo; and &amp;ldquo;General Laboratory Safety Training.&amp;rdquo; If you already have an up-to-date certificate, don&amp;rsquo;t retake the trainings, and don&amp;rsquo;t do other trainings you don&amp;rsquo;t need!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Student Visiting Hours&lt;/strong&gt; will be held &lt;em&gt;Wednesday and Thursday in Science Hall 201D from 2:30 - 4 pm&lt;/em&gt;. You do not need to make an appointment. To speak with me one-on-one with a guarantee of privacy, please set up an appointment with me via &lt;a href=&#34;mailto:spielman@rowan.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Assigments&lt;/strong&gt; are always due &lt;strong&gt;one hour before class at 10 am, unless otherwise stated&lt;/strong&gt;. Assignments submitted within an hour of classtime will be deducted a 10% late penalty. &lt;em&gt;Late assignments will not be accepted without prior permission, which you can obtain by contacting me!&lt;/em&gt;. Note that the lowest assignment grade will be DROPPED at the end of the semester.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The Final Exam will be on Monday May 4th 10:15-12:15 PM in SCI 239 (our classroom)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;logistics/introevol_postcovid.pdf&#34;&gt;&lt;strong&gt;Download this ANNOUNCEMENT AND GENERAL INFO document&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calendar.google.com/calendar?cid=c3R1ZGVudHMucm93YW4uZWR1X3VwdTZ2Y3BqOWc4bTlra3ZkczhjaGE2bHNrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&#34;&gt;&lt;strong&gt;Join the class google calendar&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;logistics/google_calendar_instructions.pdf&#34;&gt;Instructions for using Google Calendar for appointments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;logistics/slack_google_instructions.pdf&#34;&gt;Instructions for integrating Google Calendar with Slack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;class-schedule-and-materials&#34;&gt;Class Schedule and Materials&lt;/h2&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://join.slack.com/t/intro-evolution/shared_invite/zt-cnpdin7o-cevlNjvGbuBjAC5JYY5DWQ&#34;&gt;&lt;strong&gt;Join the class Slack workspace&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./logistics/Spring2020_Spielman_Syllabus_Evolution_COVID.pdf&#34;&gt;&lt;strong&gt;Download the UDPATED course syllabus&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./logistics/regrade_policy.docx&#34;&gt;&lt;strong&gt;Download the regrade form&lt;/strong&gt;&lt;/a&gt;. This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;post-spring-break-class-schedule-and-materials&#34;&gt;Post-Spring Break Class Schedule and Materials&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: Assignments designated &amp;ldquo;embedded in Blackboard&amp;rdquo; can be reached under Blackboard &amp;ndash;&amp;gt; Content and completed within Blackboard. Rest assured they are NOT tests!&lt;/p&gt;
+&lt;p&gt;Materials are subject to change up until the Monday of the given week. Below is a ROUGH OUTLINE of what we&amp;rsquo;ll be doing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;week-of-33020&#34;&gt;Week of 3/30/20&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture videos and associated materials
+&lt;ul&gt;
+&lt;li&gt;Evolutionary Forces wrap-up live demo: Video&lt;/li&gt;
+&lt;li&gt;Phylogenetics I: &lt;a href=&#34;slides/slides_phylo_remote1.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;worksheets/treethinking_worksheet.pdf&#34;&gt;worksheet from video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Background reading and other videos:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://artic.network/how-to-read-a-tree.html&#34;&gt;&amp;ldquo;How to read a tree&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Khan Academy &lt;a href=&#34;https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees&#34;&gt;&amp;ldquo;Phylogenetic trees&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Patterns&amp;rdquo; section from &lt;a href=&#34;https://evolution.berkeley.edu/evolibrary/article/evo_03&#34;&gt;Understanding Evolution&lt;/a&gt; (relevant for the rest of the semester!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Assignments
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;assignments/evolforces_wrapup.docx&#34;&gt;Evolutionary Forces Wrap-Up&lt;/a&gt; due Thursday 4/2/20 at 11:59 pm&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Reading and interpreting phylogenies&amp;rdquo; (embedded in Blackboard) due Sunday 4/5/20 at 11:59 pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;week-of-4620&#34;&gt;Week of 4/6/20&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture videos and associated materials
+&lt;ul&gt;
+&lt;li&gt;Phylogenetics II: &lt;a href=&#34;slides/slides_phylo_remote2.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Phylogenetics &amp;ldquo;Lab&amp;rdquo;: &lt;a href=&#34;https://sjspielman.shinyapps.io/biol01104_phylo_lab/&#34;&gt;associated website&lt;/a&gt; (no assignment &lt;em&gt;specifically&lt;/em&gt; uses this, this video will help to further clarify and understand phylogenies building and mapping on phylogenies!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Background reading &lt;strong&gt;these are REALLY HELPFUL!!! Make sure to read/watch these too!&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Khan Academy &lt;a href=&#34;https://www.khanacademy.org/science/biology/her/tree-of-life/v/discovering-the-tree-of-life&#34;&gt;&amp;ldquo;Discovering the tree of life&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Khan Academy &lt;a href=&#34;https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree&#34;&gt;&amp;ldquo;Building a phylogenetic tree&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Assignments
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;assignments/mapping_assignment.pdf&#34;&gt;&amp;ldquo;Mapping evolutionary change to phylogenies&amp;rdquo;&lt;/a&gt; due Thursday 4/9/20 at 11:59 pm. This document should be done by hand and &lt;em&gt;LEGIBLY&lt;/em&gt; scanned or photographed to submit to Blackboard.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Homology and convergent evolution&amp;rdquo; (embedded in Blackboard) due Sunday 4/12/20 at 11:59 pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;week-of-41320&#34;&gt;Week of 4/13/20&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture videos and associated materials
+&lt;ul&gt;
+&lt;li&gt;Speciation: &lt;a href=&#34;slides/speciation_remoteversion.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Biogeography: &lt;a href=&#34;slides/biogeography_remoteversion.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Assignments
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Concepts in Speciation&amp;rdquo; (embedded in Blackboard) due Thursday 4/16/20 at 11:59 pm&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Concepts in Biogeography&amp;rdquo; (embedded in Blackboard) due Sunday 4/19/20 at 11:59 pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;week-of-42020-all-lectures-are-optionally-live&#34;&gt;Week of 4/20/20: All lectures are OPTIONALLY LIVE&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;To ensure timely classes without disruption, Zoom meetings will be LOCKED no later than 11:10 am, but possibly sooner.&lt;/em&gt; They will still be recorded and posted after class.&lt;/li&gt;
+&lt;li&gt;Lecture videos and associated materials
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MONDAY:&lt;/strong&gt; Pathogen evolution and phylodynamics: &lt;a href=&#34;slides/slides_pathogens.pdf&#34;&gt;slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FRIDAY:&lt;/strong&gt; Phylogenetics and evolutionary origins of SARS-CoV-2:  &lt;a href=&#34;slides/slides_sarscov2_evolution.pdf&#34;&gt;Slides&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1.abstract&#34;&gt;&amp;ldquo;Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41564-020-0695-z&#34;&gt;&amp;ldquo;The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2&amp;rdquo;&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41591-020-0820-9&#34;&gt;&amp;ldquo;The proximal origin of SARS-CoV-2&amp;rdquo;&amp;quot;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;This article was widely misinterpreted as evidence that pangolins are the source of SARS-CoV-2. This article does NOT make this conclusion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextstrain.org/&#34;&gt;nextstrain.org&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextstrain.org/help/coronavirus/human-CoV&#34;&gt;Background on coronaviruses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextstrain.org/help/general/how-to-read-a-tree&#34;&gt;How to read transmission trees and phylogenies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextstrain.org/help/coronavirus/FAQ&#34;&gt;COVID-19 FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41564-020-0690-4&#34;&gt;&amp;ldquo;We shouldn’t worry when a virus mutates during disease outbreaks&amp;rdquo;&amp;quot;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-mutations-vaccine-covid.html&#34;&gt;This NYT article is a VERY BAD TAKE&lt;/a&gt; - NOT ENDORSING THIS ARTICLE!!!!!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor&#34;&gt;&amp;ldquo;Mutations map holds the key to bringing coronavirus under control&amp;rdquo;&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://academic.oup.com/ve/article/1/1/vev006/2568689&#34;&gt;Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fivethirtyeight.com/features/why-did-the-world-shut-down-for-covid-19-but-not-ebola-sars-or-swine-flu/&#34;&gt;&amp;ldquo;Why Did The World Shut Down for COVID-19 but not Ebola, SARS or Swine Flu?&amp;quot;&lt;/a&gt;. Article from FiveThirtyEight, excellent explanation of COVID-19 context compared to other recent pandemics/epidemics.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/author/ed-yong/&#34;&gt;Articles by Ed Yong&lt;/a&gt;, science writer at The Atlantic. In my personal opinion, his coverage of coronavirus has been excellent.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html&#34;&gt;&amp;ldquo;Bad News Wrapped in Protein: Inside the Coronavirus Genome&amp;rdquo;&lt;/a&gt;, excellent New York Times article that gives a tour of the coronavirus genome.
+&lt;ul&gt;
+&lt;li&gt;NOTE: You will learn that we don&amp;rsquo;t know what the function of most proteins in the genome is. In fact, we don&amp;rsquo;t know how most proteins in most species work either! For even the best-studied organisms, we don&amp;rsquo;t know what as many as 20% of its proteins &amp;ldquo;do&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-antibody-test-santa-clara-los-angeles-stanford&#34;&gt;&amp;ldquo;Two Antibody Studies Say Coronavirus Infections Are More Common Than We Think. Scientists Are Mad.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Pathogen evolution assignment&amp;rdquo; (embedded in Blackboard) due &lt;strong&gt;Sunday 4/26/20 at 11:59 pm&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The WEDNESDAY Zoom session focuses on this HW&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;week-of-42820&#34;&gt;Week of 4/28/20&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture videos and associated materials
+&lt;ul&gt;
+&lt;li&gt;Origin of life and major evolutionary transitions:&lt;a href=&#34;slides/slides_origins_fossils.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The fossil record and macroevolutionary trends: (slides are the same as above)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPTIONALLY LIVE on MONDAY:&lt;/strong&gt; Human origins and evolution: &lt;a href=&#34;slides/slides_humanevolution.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Assignments (only 1 this week!!)
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;The fossil record and evolutionary transitions assignment&amp;rdquo; (embedded in Blackboard) due &lt;strong&gt;Thursday 4/30/20 at 11:59 pm&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;The Wednesday Zoom session will focus on this HW&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;final-assignment-due-tuesday-51220-at-1159-pm-or-early-5520-for-bonus-points&#34;&gt;FINAL ASSIGNMENT due Tuesday 5/12/20 at 11:59 pm (or early 5/5/20 for bonus points)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;assignments/final_assignment.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Counts as &lt;em&gt;double&lt;/em&gt; assignment grade&lt;/li&gt;
+&lt;li&gt;Absolutely NO extensions allowed due to university grading deadlines&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For a BONUS of 10%&lt;/strong&gt;, submit the assignment week early, Tuesday 5/5/20 at 11:59 pm.&lt;/li&gt;
+&lt;li&gt;During the final exam time slot (&lt;strong&gt;Monday 5/4/20 from 10:15 am - 12:15 pm&lt;/strong&gt;) there will be an office hours session to ask questions about the final assignment. &lt;strong&gt;We will NOT be doing this assignment together as a class like we have been doing, but I will answer any and all of your questions during this session!!&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;To guarantee there will be time to answer your questions, arrive on time!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pre-spring-break-class-schedule-and-materials&#34;&gt;Pre-Spring Break Class Schedule and Materials&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Materials are subject to change up until the day of class based on student progress. Note that many slides will pertain to several days of class. In-class worksheets are NOT graded.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -58,7 +198,6 @@
 &lt;th&gt;Notes&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;1&lt;/td&gt;
@@ -68,34 +207,30 @@
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;F 1/24&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_scientific_inquiry.pdf&#34; target=&#34;_blank&#34;&gt;Scientific Method: Hypotheses and Predictions&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/hyp_exp_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Hypotheses and Predictions Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/hyp_exp_worksheet_SOLUTIONS.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_scientific_inquiry.pdf&#34;&gt;Scientific Method: Hypotheses and Predictions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/hyp_exp_worksheet.pdf&#34;&gt;Hypotheses and Predictions Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/hyp_exp_worksheet_SOLUTIONS.pdf&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Read Chapter 1 of textbook&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;M 1/27&lt;/td&gt;
 &lt;td&gt;Scientific Method: Experimental design&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/hyp_exp_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Continue Friday&amp;rsquo;s worksheet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/hyp_exp_worksheet.pdf&#34;&gt;Continue Friday&amp;rsquo;s worksheet&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;Last day of regular course add/drop period&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;W 1/29&lt;/td&gt;
 &lt;td&gt;Scientific Method: Interpreting experimental results&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/exp_results_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Experimental Results Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/exp_results_worksheet_SOLUTIONS.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/exp_results_worksheet.pdf&#34;&gt;Experimental Results Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/exp_results_worksheet_SOLUTIONS.pdf&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;F 1/31&lt;/td&gt;
@@ -104,70 +239,62 @@
 &lt;td&gt;Submit &lt;em&gt;both&lt;/em&gt; CITI Lab Safety Training Certificates to Blackboard&lt;/td&gt;
 &lt;td&gt;Bring lab coat and lab goggles to class, and wear close-toed shoes.&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;M 2/3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_data.pdf&#34; target=&#34;_blank&#34;&gt;Scientific Method: Representing and Summarizing Data I&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://sjspielman.shinyapps.io/plot-iris&#34; target=&#34;_blank&#34;&gt;Quantitative Data Visualization Website&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_data.pdf&#34;&gt;Scientific Method: Representing and Summarizing Data I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://sjspielman.shinyapps.io/plot-iris&#34;&gt;Quantitative Data Visualization Website&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Read box on pages 37-38 of textbook, &amp;ldquo;A Closer Look: Correlation&amp;rdquo;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;Last day of late course add/drop period&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;7&lt;/td&gt;
 &lt;td&gt;W 2/5&lt;/td&gt;
 &lt;td&gt;Scientific Method: Representing and Summarizing Data II&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/dataviz.pdf&#34; target=&#34;_blank&#34;&gt;Data Visualization Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/dataviz_SOLUTIONS.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/dataviz.pdf&#34;&gt;Data Visualization Worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/solutions/dataviz_SOLUTIONS.pdf&#34;&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;8&lt;/td&gt;
 &lt;td&gt;F 2/7&lt;/td&gt;
 &lt;td&gt;Lab: Scientific Measurements (Stickleback) &lt;br&gt; &lt;a href=&#34;./assignments/stickleback_writeup_template.docx&#34;&gt;Associated assignment due 2/14/20 at 10 am&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;1. &lt;a href=&#34;assignments/stickleback_lab.pdf&#34; target=&#34;_blank&#34;&gt;Stickleback Lab Instructions&lt;/a&gt; &lt;br&gt;  2. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Bi0wHyvvXXywlZcBVisFbsH8pVCq9RnyT0reeeZiJBA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Class Google Sheet&lt;/a&gt; &lt;br&gt;  3. &lt;a href=&#34;https://sjspielman.shinyapps.io/plotstickleback&#34; target=&#34;_blank&#34;&gt;Plotting website (optional but HIGHLY recommended)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1. &lt;a href=&#34;assignments/stickleback_lab.pdf&#34;&gt;Stickleback Lab Instructions&lt;/a&gt; &lt;br&gt;  2. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Bi0wHyvvXXywlZcBVisFbsH8pVCq9RnyT0reeeZiJBA/edit?usp=sharing&#34;&gt;Class Google Sheet&lt;/a&gt; &lt;br&gt;  3. &lt;a href=&#34;https://sjspielman.shinyapps.io/plotstickleback&#34;&gt;Plotting website (optional but HIGHLY recommended)&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Termite Lab assignment due on Blackboard by 10 am&lt;/td&gt;
 &lt;td&gt;Bring lab coat and lab goggles to class, and wear close-toed shoes.&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9&lt;/td&gt;
 &lt;td&gt;M 2/10&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_genetics.pdf&#34; target=&#34;_blank&#34;&gt;Introduction to genetics and biological variation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_genetics.pdf&#34;&gt;Introduction to genetics and biological variation&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;Deadline to provide Exam 1 accommodations and/or athletic schedules &lt;!-- introduce mutation here --&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;W 2/12&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_introevol_natsel.pdf&#34; target=&#34;_blank&#34;&gt;Evolution by Natural Selection: Variation and heritability I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_introevol_natsel.pdf&#34;&gt;Evolution by Natural Selection: Variation and heritability I&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;Read Chapter 2 and Chapter 3 sections 3.1, 3.2, 3.3, 3.4&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11&lt;/td&gt;
 &lt;td&gt;F 2/14&lt;/td&gt;
 &lt;td&gt;Evolution by Natural Selection: Variation and heritability II&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/ns_herit_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Worksheet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/ns_herit_worksheet.pdf&#34;&gt;Worksheet&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Stickleback Lab assignment due on Blackboard&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;12&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;M 2/17&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam 1&lt;/strong&gt; &lt;br&gt; &lt;a href=&#34;practice_exams/practice_midterm1.pdf&#34; target=&#34;_blank&#34;&gt;Practice Exam&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;practice_exams/practice_midterm1_SOLUTIONS.pdf&#34; target=&#34;_blank&#34;&gt;Practice Exam Solutions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Exam 1&lt;/strong&gt; &lt;br&gt; &lt;a href=&#34;practice_exams/practice_midterm1.pdf&#34;&gt;Practice Exam&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;practice_exams/practice_midterm1_SOLUTIONS.pdf&#34;&gt;Practice Exam Solutions&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;Covers classes 1-11 &lt;!-- Can make this exam 1 review --&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;13&lt;/td&gt;
 &lt;td&gt;W 2/19&lt;/td&gt;
@@ -176,262 +303,103 @@
 &lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14&lt;/td&gt;
 &lt;td&gt;F 2/21&lt;/td&gt;
 &lt;td&gt;EvoDots activity&lt;/td&gt;
-&lt;td&gt;1. &lt;a href=&#34;http://faculty.washington.edu/herronjc/SoftwareFolder/EvoDots.html&#34; target=&#34;_blank&#34;&gt;EvoDots Download&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;assignments/evodots_instructions.pdf&#34; target=&#34;_blank&#34;&gt;EvoDots Instructions (incl. download instructions)&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;assignments/evodots_assignment.docx&#34; target=&#34;_blank&#34;&gt;EvoDots Assignment/Worksheet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1. &lt;a href=&#34;http://faculty.washington.edu/herronjc/SoftwareFolder/EvoDots.html&#34;&gt;EvoDots Download&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;assignments/evodots_instructions.pdf&#34;&gt;EvoDots Instructions (incl. download instructions)&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;assignments/evodots_assignment.docx&#34;&gt;EvoDots Assignment/Worksheet&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;DOWNLOAD EVODOTS BEFORE CLASS!&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;Bring your computer to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;M 2/24&lt;/td&gt;
-&lt;td&gt;Measuring variation populations&lt;/td&gt;
-&lt;td&gt;TBD &lt;!--**ALLELES AND GENOTYPES WORKSHEET**--&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_intro_popgen.pdf&#34;&gt;Measuring variation populations&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheet/alleles_worksheet.pdf&#34;&gt;Alleles and variation in populations worksheet&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring calculator to class         &lt;!-- alleles, p/q --&gt;&lt;/td&gt;
+&lt;td&gt;Bring calculator to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;16&lt;/td&gt;
 &lt;td&gt;W 2/26&lt;/td&gt;
-&lt;td&gt;Measuring selection in populations&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/coeff_fitness_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Selection coefficients and fitness worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/coeff_fitness_worksheet_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Measuring selection in populations (Same slides as Monday)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheet/selectionfitness_worksheet.pdf&#34;&gt;Selection coefficients and fitness worksheet&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring calculator to class     &lt;!-- measuring fitness --&gt;&lt;/td&gt;
+&lt;td&gt;Bring calculator to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;17&lt;/td&gt;
 &lt;td&gt;F 2/28&lt;/td&gt;
-&lt;td&gt;Modes of natural selection&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;td&gt;1. Read Chapter 4 sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.7 (not 4.6) &lt;br&gt; 2. EvoDots Assignment due on Blackboard&lt;/td&gt;
+&lt;td&gt;Modes of natural selection and &lt;a href=&#34;slides/slides_sexualselection.pdf&#34;&gt;sexual selection&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.nature.com/scitable/definition/evolution-78/&#34;&gt;Evolutionary concepts (specifically &amp;ldquo;microevolution&amp;rdquo;)&lt;/a&gt;  &lt;br&gt; 1. Read Chapter 3.5, and Chapter 4 sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.7 (not 4.6) &lt;br&gt; 2. EvoDots Assignment due on Blackboard&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Concepts in Selection Assignment due next Friday is WITHIN BLACKBOARD&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;18&lt;/td&gt;
 &lt;td&gt;M 3/2&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_sexualselection.pdf&#34; target=&#34;_blank&#34;&gt;Sexual Selection&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Read Section 3.5 of book&lt;/td&gt;
+&lt;td&gt;Natural selection in action&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/evolforces_selection.pdf&#34;&gt;Inclass-worksheet&lt;/a&gt; &lt;br&gt; 1. &lt;a href=&#34;http://10.33.168.74:3838/my-apps/evolfoRces/inst/evolfoRces/&#34;&gt;On-campus application link&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://sjspielman.shinyapps.io/evolfoRces/&#34;&gt;Off-campus application link&lt;/a&gt; &lt;br&gt; 3. evolfoRces natural selection worksheet&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Bring computer to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;W &amp;frac34;&lt;/td&gt;
-&lt;td&gt;Selection redux&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/selection_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Sexual selection and natural selection worksheet&lt;/a&gt; &lt;a href=&#34;worksheets/selection_worksheet_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;W 3/4&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;slides/slides_popgen2.pdf&#34;&gt;Other evolutionary forces&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;See &amp;ldquo;evolutionary concepts&amp;rdquo; readings from last Friday!!&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;F 3/6&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;slides/slides_otherforces.pdf&#34; target=&#34;_blank&#34;&gt;Beyond natural selection: Mutation, Drift, and Migration I&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Selection Assignment due on Blackboard&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Hardy Weinberg Equilibrium &lt;br&gt; &lt;a href=&#34;assignments/popgen_assignment.pdf&#34;&gt;&lt;strong&gt;Population genetics assignment due next Friday in class&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/hwe_worksheet.pdf&#34;&gt;HWE Worksheet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.khanacademy.org/science/biology/her/heredity-and-genetics/a/hardy-weinberg-mechanisms-of-evolution&#34;&gt;READ THIS!!&lt;/a&gt; &lt;br&gt; Concepts in Selection Assignment due &lt;strong&gt;WITHIN BLACKBOARD by 10 am&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bring calculator to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;21&lt;/td&gt;
 &lt;td&gt;M 3/9&lt;/td&gt;
-&lt;td&gt;Hardy Weinberg Equilibrium I&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;worksheets/evolforces_otherforces.pdf&#34;&gt;Evolutionary forces in action I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lesson link is worksheet&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring calculator to class&lt;/td&gt;
+&lt;td&gt;Bring computer to class&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;22&lt;/td&gt;
 &lt;td&gt;W 3/11&lt;/td&gt;
-&lt;td&gt;Hardy Weinberg Equilibrium II&lt;/td&gt;
-&lt;td&gt;Continue Monday&amp;rsquo;s worksheet&lt;/td&gt;
+&lt;td&gt;Evolutionary forces in action II (same worksheet)&lt;/td&gt;
+&lt;td&gt;Lesson link from Monday is worksheet&lt;/td&gt;
 &lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring calculator to class&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;F 3/13&lt;/td&gt;
-&lt;td&gt;Evolutionary forces in action I&lt;/td&gt;
-&lt;td&gt;1. &lt;a href=&#34;http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/&#34; target=&#34;_blank&#34;&gt;On-campus application link&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://sjspielman.shinyapps.io/evolfoRces/&#34; target=&#34;_blank&#34;&gt;Off-campus application link&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;./worksheets/evolforces_inclass.pdf&#34;&gt;In-class evolfoRces worksheet&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring laptop to class&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;ndash;&lt;/td&gt;
-&lt;td&gt;M 3/16 - F 3/20&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;SPRING BREAK!&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;M 3/23&lt;/td&gt;
-&lt;td&gt;Evolutionary forces in action II&lt;/td&gt;
-&lt;td&gt;Continue previous worksheet&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring laptop to class&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;W 3/25&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Overflow Day&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;F 3/27&lt;/td&gt;
-&lt;td&gt;Exam 2 Review Session&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;evolfoRces Assignment Due on Blackboard&lt;/td&gt;
-&lt;td&gt;Bring laptop to class&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;27&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;M 3/30&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;None&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;None&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam covers classes 14-26. Bring calculator to exam.&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;W 4/1&lt;/td&gt;
-&lt;td&gt;Speciation I&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Read Sections 6.1, 6.2, 6.3, 6.4, and 6.5 of textbook (skip content about phylogenetics/evolutionary trees)&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;29&lt;/td&gt;
-&lt;td&gt;F 4/3&lt;/td&gt;
-&lt;td&gt;Speciation II and Introduction to Phylogenetics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;worksheets/treethinking_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Worksheet&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Read the following resources:  &lt;br&gt; 1. &lt;a href=&#34;./readings/Understanding_Evolutionary_Trees.pdf&#34;&gt;Understanding Evolutionary Trees&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees&#34; target=&#34;_blank&#34;&gt;Phylogenetic trees (Khan Academy)&lt;/a&gt; &lt;br&gt;  3. &lt;a href=&#34;https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree&#34; target=&#34;_blank&#34;&gt;Building a phylogenetic tree (Khan Academy)&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;M 4/6&lt;/td&gt;
-&lt;td&gt;Phylogenetics II&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;W 4/8&lt;/td&gt;
-&lt;td&gt;Phylogenetics III&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;F 4/10&lt;/td&gt;
-&lt;td&gt;Phylogenetics Activity&lt;/td&gt;
-&lt;td&gt;1. &lt;a href=&#34;http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/&#34; target=&#34;_blank&#34;&gt;On-campus application link&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://sjspielman.shinyapps.io/biol01104_phylo_lab/&#34; target=&#34;_blank&#34;&gt;Off-campus application link&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;worksheets/phylo_activity_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Activity worksheet&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;Bring laptop to class&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;33&lt;/td&gt;
-&lt;td&gt;M 4/13&lt;/td&gt;
-&lt;td&gt;Biogeography&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;34&lt;/td&gt;
-&lt;td&gt;W 4/15&lt;/td&gt;
-&lt;td&gt;Phylogenetics of Speciation&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;35&lt;/td&gt;
-&lt;td&gt;F 4/17&lt;/td&gt;
-&lt;td&gt;Other Applications of Phylogenetics&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;36&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;M 4/20&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam 3&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;None&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;None&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam covers classes 28-35.&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;37&lt;/td&gt;
-&lt;td&gt;W 4/22&lt;/td&gt;
-&lt;td&gt;History of Life on Earth I&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;38&lt;/td&gt;
-&lt;td&gt;F 4/24&lt;/td&gt;
-&lt;td&gt;History of Life on Earth II&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;39&lt;/td&gt;
-&lt;td&gt;M 4/27&lt;/td&gt;
-&lt;td&gt;Human Origins and Evolution&lt;/td&gt;
-&lt;td&gt;Optional readings:  &lt;br&gt; 1. &lt;a href=&#34;http://ewanbirney.com/2019/10/race-genetics-and-pseudoscience-an-explainer.html&#34; target=&#34;_blank&#34;&gt;Fantastic blog-posted from world-renowned human geneticist Ewan Birney on &amp;ldquo;Race, Genetics, and Pseudoscience&amp;rdquo;&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://www.nytimes.com/2019/04/10/science/homo-luzonensis-philippines-evolution.html&#34; target=&#34;_blank&#34;&gt;NY Times article on one of the most recently discovered ancient human fossils&lt;/a&gt;  &lt;br&gt; 3. &lt;a href=&#34;https://www.nature.com/articles/d41586-018-06004-0&#34; target=&#34;_blank&#34;&gt;First discovery of Neanderthal-Denisovan hybrid&lt;/a&gt; &lt;br&gt; 4. &lt;a href=&#34;https://www.sciencenews.org/article/homo-erectus-last-known-appearance-roughly-117000-years-ago&#34; target=&#34;_blank&#34;&gt;Article about &lt;em&gt;Homo eretus&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;W 4/29&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;OPTIONAL&lt;/em&gt; Final Exam Review Session&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Bring computer to class&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
+&lt;p&gt;&lt;strong&gt;END OF IN-PERSON INSTRUCTION&lt;/strong&gt;&lt;/p&gt;
 &lt;!--
+23 | F 3/13  | Overflow day | None | Population genetics assignment due **beginning of class (11 am) on paper** OR **submitted to Blackboard APPROPRIATELY** | None
+-- | M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
+24 | M 3/23 | Exam 2 Review Session  | None | None |  None
+**25** | **W 3/25** | **Exam 2** | **None** | **None** | **Exam covers classes 14-24. Bring calculator to exam.**
+26 | F 3/27 | Speciation I | None | Read Sections 6.1, 6.2, 6.3, 6.4, and 6.5 of textbook (skip content about phylogenetics/evolutionary trees)   | None
+27 | M 3/30 | Speciation II | None | None | None
+28 | W 4/1  | Intruduction to Phylogenetics |  [Worksheet](worksheets/treethinking_worksheet.pdf) | Read the following resources:  &lt;br&gt; 1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf) &lt;br&gt; 2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees) &lt;br&gt;  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | TBD | None
+29 | F 4/3  | Phylogenetics II |  Character mapping worksheet | None | None
+30 | M 4/6  | Phylogenetics II |                              |       |
+31 | W 4/8  | Phylogenetics III|                              |       |
+32 | F 4/10 | Phylogenetics Activity | 1. [On-campus application link](http://10.33.168.74:3838/my-apps/biol01104_phylo_lab/) &lt;br&gt; 2. [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) &lt;br&gt; 3. [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | None | Bring laptop to class
+33 | M 4/13 | Biogeography|||
+34 | W 4/15 | Phylogenetics of Speciation|||
+35 | F 4/17 | Other Applications of Phylogenetics|||
+**36** | **M 4/20** | **Exam 3** | **None** | **None** | **Exam covers classes 28-35.**
+37 | W 4/22 | History of Life on Earth I |||
+38 | F 4/24 | History of Life on Earth II |||
+39 | M 4/27 | Human Origins and Evolution |Optional readings:  &lt;br&gt; 1. [Fantastic blog-posted from world-renowned human geneticist Ewan Birney on &#34;Race, Genetics, and Pseudoscience&#34;](http://ewanbirney.com/2019/10/race-genetics-and-pseudoscience-an-explainer.html) &lt;br&gt; 2. [NY Times article on one of the most recently discovered ancient human fossils](https://www.nytimes.com/2019/04/10/science/homo-luzonensis-philippines-evolution.html)  &lt;br&gt; 3. [First discovery of Neanderthal-Denisovan hybrid](https://www.nature.com/articles/d41586-018-06004-0) &lt;br&gt; 4. [Article about *Homo eretus*](https://www.sciencenews.org/article/homo-erectus-last-known-appearance-roughly-117000-years-ago)||
+40 | W 4/29 | *OPTIONAL* Final Exam Review Session ||| 
+
+
 
 
 No. | Day/Date | &lt;div style=&#34;width:200px&#34;&gt;Topic and Slides&lt;/div&gt;  | &lt;div style=&#34;width:300px&#34;&gt;In-class materials &lt;/div&gt;  | &lt;div style=&#34;width:250px&#34;&gt;Readings/Assignments DUE&lt;/div&gt;  | Notes 
@@ -458,7 +426,7 @@ No. | Day/Date | &lt;div style=&#34;width:200px&#34;&gt;Topic and Slides&lt;/div
 20 | F 3/6   | [Beyond natural selection: Mutation, Drift, and Migration I](slides/slides_otherforces.pdf)  | None |  Selection Assignment due on Blackboard | None
 21 | M 3/9   | Hardy Weinberg Equilibrium I | [Worksheet] 
 22 | W 3/11  | Hardy Weinberg Equilibrium II | Continue Monday&#39;s worksheet | None | None
-23 | F 3/13  | Evolutionary forces in action I | [On-campus application link](http://10.33.168.74:3838/biol01104-apps/evolfoRces/inst/evolfoRces/)  [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/)  [In-class evolfoRces worksheet](./worksheets/evolforces_inclass.pdf) | None | Bring laptop to class
+23 | F 3/13  | Evolutionary forces in action I |  [Off-campus application link](https://sjspielman.shinyapps.io/evolfoRces/)  [In-class evolfoRces worksheet](./worksheets/evolforces_inclass.pdf) | None | Bring laptop to class
 `-`| M 3/16 - F 3/20 | **SPRING BREAK!** | None | None | None
 24 | M 3/23 | Evolutionary forces in action II  | Continue previous worksheet | None |  Bring laptop to class
 25 | W 3/25 | _Overflow Day_ | None | Same worksheet continued  Submit &#34;Fitness, selection, and HWE Problem Set&#34; on PAPER at start of class (11am). | Bring laptop to class
@@ -469,7 +437,7 @@ Exam 2 Regroups  | None |  None | None
 [Phylogenetics I](slides/slides_phylogenetics.pdf)      | Read the following resources:  1. [Understanding Evolutionary Trees](./readings/Understanding_Evolutionary_Trees.pdf)  2. [Phylogenetic trees (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees)  3. [Building a phylogenetic tree (Khan Academy)](https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree)  | [Assignment due 11/20/19 on Blackboard (you have 2 weeks!)](assignments/species_phylo_assignment.docx)  [Worksheet](worksheets/treethinking_worksheet.pdf) | None
 Phylogenetics II      | None | [Worksheet](worksheets/charmapping_worksheet.pdf) [Solutions](worksheets/charmapping_worksheet_solutions.pdf) | None
 Phylogenetics III     | None| [Worksheet](worksheets/monoparapoly_worksheet.pdf)  [Solutions](worksheets/monoparapoly_worksheet_solutions.pdf)| None
-Phylogenetics Activity     | [On-campus application link](http://10.33.168.74:3838/biol01104-apps/biol01104_phylo_lab/)  [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) | [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | Bring laptop to class
+Phylogenetics Activity     | [Off-campus application link](https://sjspielman.shinyapps.io/biol01104_phylo_lab/) | [Activity worksheet](worksheets/phylo_activity_worksheet.pdf) | Bring laptop to class
 *No class today (BUT!!)*      | None | **You must complete an online (Blackboard) assignment anytime during TODAY. The assignment will be available from 12:01 am - 11:59 pm today ONLY.** | None
 [The phylogenetics of speciation](slides/slides_phylomore.pdf) | Read Section 6.6  | [Worksheet](worksheets/phylo_applied_worksheet.pdf) | None
 [Biogeography](slides/slides_biogeography.pdf)      | Speciation/Phylogenetics assignment due to Blackboard by 11:00 am | [Worksheet](worksheets/biogeo_worksheet.pdf) | None
@@ -485,411 +453,11 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
-      <title>Data Science for Biologists</title>
-      <link>/courses/datascience_for_biologists/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/courses/datascience_for_biologists/</guid>
-      <description>
-
-&lt;p&gt;This website contains all materials used in BIOL 01301 Spring 2020 at Rowan University with Dr. Spielman. This course meets Monday 12:30-1:45 in SCI 239, Wednesday 12:30-1:45 in SCI 226, and Thursday 11-1:45 in SCI 239.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;All grading and assignment submissions (unless otherwise stated) will be hosted on &lt;a href=&#34;https://rowan.blackboard.com/&#34; target=&#34;_blank&#34;&gt;Blackboard&lt;/a&gt;, but course materials will be posted on this site and/or within the &lt;a href=&#34;https://rstudio.cloud&#34; target=&#34;_blank&#34;&gt;rstudio.cloud&lt;/a&gt; BIOL01301 space.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;key-documents-and-links&#34;&gt;Key documents and links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./Spring2020_Spielman_Syllabus_DataScience.pdf&#34;&gt;&lt;strong&gt;Download the course syllabus&lt;/strong&gt;&lt;/a&gt;. This document contains all course policies. &lt;em&gt;When in doubt, check here first&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./regrade_policy.docx&#34;&gt;&lt;strong&gt;Download the regrade form&lt;/strong&gt;&lt;/a&gt;. This form may be used to request a formal regrade on an assignment or exam. Please consult this document for instructions.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Student Visiting Hours&lt;/strong&gt; will be held &lt;em&gt;Wednesday and Thursday in Science Hall 201D from 2:30 - 4 pm&lt;/em&gt;. You do not need to make an appointment. To speak with me one-on-one with a guarantee of privacy, please set up an appointment with me via &lt;a href=&#34;mailto:spielman@rowan.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Assigments&lt;/strong&gt; are always due &lt;strong&gt;one hour before class at 10 am, unless otherwise stated&lt;/strong&gt; (most assignments are due on lab days). If you submit your assignment within an hour of class, you will automatically be deducted 10%.  &lt;em&gt;Late assignments will not be accepted without prior permission, which you can get by contacting me as needed!!&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;You are expected to bring your laptop to every class.&lt;/strong&gt; If you do not have a laptop or tablet with external keyboard/mouse, one will be provided for you.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./tidytuesday_instructions.pdf&#34;&gt;&lt;strong&gt;#TidyTuesday Extra Credit Instructions&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--
-+ **Join the class RStudio Cloud BIOL01301 Space [here](https://rstudio.cloud/spaces/44379/join?access_code=W5xszVLeEv3YK05165JOaapp5N6cLuzuoWqwj30a)** 
---&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;online-books-and-resources&#34;&gt;Online Books and Resources&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://serialmentor.com/dataviz/&#34; target=&#34;_blank&#34;&gt;Fundamentals of Data Visualization&lt;/a&gt; by Claus O. Wilke&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34;&gt;Data Visualization: A practical Introduction&lt;/a&gt; by Kieran Healy&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;tidyverse&lt;/code&gt; homepage, official documentation, and cheatsheets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stat545.com/&#34; target=&#34;_blank&#34;&gt;STAT545 Resources (&lt;strong&gt;EXCELLENT&lt;/strong&gt; background)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rafalab.github.io/dsbook/&#34; target=&#34;_blank&#34;&gt;Introduction to Data Science e-book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://resources.rstudio.com/&#34; target=&#34;_blank&#34;&gt;RStudio Resources (all levels of videos/tutorials)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://callingbullshit.org/&#34; target=&#34;_blank&#34;&gt;Calling Bullshit Course Website&lt;/a&gt; by Carl Bergstrom and Jevin West&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;class-schedule-and-materials&#34;&gt;Class Schedule and Materials&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Materials are subject to change up until the day of class based on student progress. Any change in deadlines will only be to &lt;em&gt;postpone&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;No.&lt;/th&gt;
-&lt;th&gt;Day/Date&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:250px&#34;&gt;Topic and materials&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;Background Reading&lt;/th&gt;
-&lt;th&gt;Assignment DUE&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;W 1/22&lt;/td&gt;
-&lt;td&gt;Introduction/Syllabus Day&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;R 1/23&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/01-introduction-base-R.html&#34; target=&#34;_blank&#34;&gt;Introduction to R and RStudio&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;M 1/27&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;./slides/slides_introdata.pdf&#34;&gt;Types of data and visualizations, I&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Two blog posts on types of data: &lt;br&gt; 1. &lt;a href=&#34;https://towardsdatascience.com/data-types-in-statistics-347e152e8bee&#34; target=&#34;_blank&#34;&gt;Towards Data Science&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;http://scaryscientist.blogspot.com/2015/02/classification-of-data-types.html&#34; target=&#34;_blank&#34;&gt;Scary Scientist&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;W 1/29&lt;/td&gt;
-&lt;td&gt;Types of data and visualizations, II&lt;/td&gt;
-&lt;td&gt;1. Read chapters 5, 6, 7, and 10 from &amp;ldquo;Fundamentals of Data Visualization&amp;rdquo; &lt;br&gt; 2. &lt;a href=&#34;https://rpubs.com/crazyhottommy/sina-plot&#34; target=&#34;_blank&#34;&gt;Blog post on comparing plot types&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;R 1/30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/02-introduction-ggplot2.html&#34; target=&#34;_blank&#34;&gt;Introduction to &lt;code&gt;ggplot2&lt;/code&gt;&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/rmd_lessons/02-introduction-ggplot2-script-template.R&#34; target=&#34;_blank&#34;&gt;R script template&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;M 2/3&lt;/td&gt;
-&lt;td&gt;Communicating with (in)effective visualizations&lt;/td&gt;
-&lt;td&gt;Watch &lt;a href=&#34;https://callingbullshit.org/videos.html&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Lecture 6: Data Visualization&amp;rdquo; Videos&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;./assignments/viz_critique_assignment.pdf&#34;&gt;Evaluating Data Visualization Assignment&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;W 2/5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/03-introduction-rmarkdown.html&#34; target=&#34;_blank&#34;&gt;Introduction to RMarkdown&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;R 2/6&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/04-more-ggplot2.html&#34; target=&#34;_blank&#34;&gt;More practice with &lt;code&gt;ggplot2&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Read chapter 21 from &amp;ldquo;Fundamentals of Data Visualization&amp;rdquo;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;Introduction to ggplot2&lt;/code&gt; assignment due on Blackboard as an R script.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;M 2/10&lt;/td&gt;
-&lt;td&gt;Reading, writing, and creating datasets&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;W 2/12&lt;/td&gt;
-&lt;td&gt;Manipulating data with &lt;code&gt;dplyr&lt;/code&gt; I&lt;/td&gt;
-&lt;td&gt;Background resources: &lt;br&gt; 1. &lt;a href=&#34;https://dplyr.tidyverse.org/articles/dplyr.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;dplyr&lt;/code&gt; vignette&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://stat545.com/dplyr-intro.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;dplyr&lt;/code&gt; Intro from STAT545&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;https://rgup.gitlab.io/research_cycle/04_dplyr.html&#34; target=&#34;_blank&#34;&gt;GET MORE PRACTICE HERE!&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;R 2/13&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/05-introduction-dplyr.html&#34; target=&#34;_blank&#34;&gt;Data manipulation with &lt;code&gt;dplyr&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;More practice with ggplot2&lt;/code&gt; assignment due on Blackboard as an Rmarkdown file (NOT the knitted HTML and/or PDF!!)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;M 2/17&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/sjspielman/datascience_for_biologists/raw/master/slides/slides_statgeom_bestpractices.pdf&#34; target=&#34;_blank&#34;&gt;Best practices and other miscellany&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan&#34; target=&#34;_blank&#34;&gt;Watch rstudio::conf 2020 talk on debugging&lt;/a&gt; with &lt;a href=&#34;https://github.com/sjspielman/datascience_for_biologists/raw/master/materials/jenny_bryan_talk2020.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;cheatsheet&amp;rdquo;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;W 2/19&lt;/td&gt;
-&lt;td&gt;Manipulating data with &lt;code&gt;dplyr&lt;/code&gt; II&lt;/td&gt;
-&lt;td&gt;Background resources &lt;br&gt; 1. &lt;a href=&#34;https://dplyr.tidyverse.org/articles/two-table.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;dplyr&lt;/code&gt; two-table vignette&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://stat545.com/multiple-tibbles.html&#34; target=&#34;_blank&#34;&gt;Ch 14-15 from STAT545&lt;/a&gt; &lt;br&gt; 3. &lt;a href=&#34;https://rgup.gitlab.io/research_cycle/05_joins.html&#34; target=&#34;_blank&#34;&gt;GET MORE PRACTICE HERE&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;R 2/20&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/sjspielman/datascience_for_biologists/blob/master/rmd_lessons/06-more-wrangling.html&#34; target=&#34;_blank&#34;&gt;Data manipulation with &lt;code&gt;dplyr&lt;/code&gt; II&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://raw.githubusercontent.com/sjspielman/datascience_for_biologists/master/data/dplyr_lab2/algae_hightide.csv&#34; target=&#34;_blank&#34;&gt;correct high tide data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;Data manipulation with dplyr&lt;/code&gt; assignment due on Blackboard as an Rmd file.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;M 2/24&lt;/td&gt;
-&lt;td&gt;Introduction to Tidy data principles&lt;/td&gt;
-&lt;td&gt;Read &lt;a href=&#34;https://vita.had.co.nz/papers/tidy-data.pdf&#34; target=&#34;_blank&#34;&gt;Tidy Data Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;W 2/26&lt;/td&gt;
-&lt;td&gt;Tidying data with &lt;code&gt;tidyr&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;Look over &lt;a href=&#34;https://tidyr.tidyverse.org/articles/tidy-data.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;tidyr&lt;/code&gt; vignette&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;R 2/27&lt;/td&gt;
-&lt;td&gt;[From untidy to tidy: Tidying, manipulating, and visualizing]&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;Data manipulation with dplyr II&lt;/code&gt; assignment due on Blackboard&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;M 3/2&lt;/td&gt;
-&lt;td&gt;Introduction to Version Control with GitHub&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;W &amp;frac34;&lt;/td&gt;
-&lt;td&gt;Practice with GitHub&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;R 3/5&lt;/td&gt;
-&lt;td&gt;[Conducting reproducible analyses]&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;From untidy to tidy&lt;/code&gt; assignment due on Blackboard&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;M 3/9&lt;/td&gt;
-&lt;td&gt;Regular expressions&lt;/td&gt;
-&lt;td&gt;1. &lt;a href=&#34;https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;stringr&lt;/code&gt; vignette&lt;/a&gt; &lt;br&gt; 2. &lt;a href=&#34;https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html&#34; target=&#34;_blank&#34;&gt;Regular expressions with &lt;code&gt;stringr&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;td&gt;W 3/11&lt;/td&gt;
-&lt;td&gt;Working with strings/regex with &lt;code&gt;stringr&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;R 3/12&lt;/td&gt;
-&lt;td&gt;Midterm project &amp;ldquo;study hall&amp;rdquo;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;ndash;&lt;/td&gt;
-&lt;td&gt;M 3/16 - F 3/20&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;SPRING BREAK!&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;None&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Midterm Project due by SUNDAY 3/15 at 11:59 pm as PULL REQUEST&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;M 3/23&lt;/td&gt;
-&lt;td&gt;Introduction to hypothesis tests and modeling&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;W 3/25&lt;/td&gt;
-&lt;td&gt;Permutation and randomization testing&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;R 3/26&lt;/td&gt;
-&lt;td&gt;[Analyzing data with permutation tests]&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;M 3/29&lt;/td&gt;
-&lt;td&gt;Linear modeling I&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;W 4/1&lt;/td&gt;
-&lt;td&gt;Linear modeling II&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;29&lt;/td&gt;
-&lt;td&gt;R 4/2&lt;/td&gt;
-&lt;td&gt;[Analyzing data with linear models]&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;M 4/6&lt;/td&gt;
-&lt;td&gt;Binary classification and logistic regression&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;W 4/8&lt;/td&gt;
-&lt;td&gt;Strategies for model evaluation&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;R 4/9&lt;/td&gt;
-&lt;td&gt;[Analyzing data with logistic regression]&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;33&lt;/td&gt;
-&lt;td&gt;M 4/13&lt;/td&gt;
-&lt;td&gt;Classification: Approaches to clustering data&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;34&lt;/td&gt;
-&lt;td&gt;W 4/15&lt;/td&gt;
-&lt;td&gt;Classification: Approaches to dimension reduction&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;35&lt;/td&gt;
-&lt;td&gt;R 4/16&lt;/td&gt;
-&lt;td&gt;[Clustering and dimension reduction Lab]&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;36&lt;/td&gt;
-&lt;td&gt;M 4/20&lt;/td&gt;
-&lt;td&gt;Communication and reproducibility with R packages&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;37&lt;/td&gt;
-&lt;td&gt;W 4/22&lt;/td&gt;
-&lt;td&gt;Communication with blogposts&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;38&lt;/td&gt;
-&lt;td&gt;R 4/23&lt;/td&gt;
-&lt;td&gt;[Communication with shiny]&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;39&lt;/td&gt;
-&lt;td&gt;M 4/27&lt;/td&gt;
-&lt;td&gt;Grab bag!&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;W 4/29&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Open day to work on final project&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;ndash;&lt;/td&gt;
-&lt;td&gt;W 5/6&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Final project due and &amp;ldquo;presentations&amp;rdquo; party&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <title>A collection of materials to learn bioinformatics at home</title>
+      <link>/project/bioinf_at_home.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bioinf_at_home.html</guid>
+      <description></description>
     </item>
     
     <item>
@@ -901,10 +469,26 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
+      <title>Big Book of R</title>
+      <link>/project/bigbookofr.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bigbookofr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biostatistics</title>
       <link>/project/biostatistics_temple.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/project/biostatistics_temple.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Line Bootcamp</title>
+      <link>/project/command_line_bootcamp.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/command_line_bootcamp.html</guid>
       <description></description>
     </item>
     
@@ -933,10 +517,10 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
-      <title>Interactive UNIX Bootcamp</title>
-      <link>/project/unix_bootcamp.html</link>
+      <title>Happy Git and GitHub for the R user</title>
+      <link>/project/happygit.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/unix_bootcamp.html</guid>
+      <guid>/project/happygit.html</guid>
       <description></description>
     </item>
     
@@ -973,6 +557,30 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
+      <title>Learning R resources</title>
+      <link>/project/r_resources.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/r_resources.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learnlatex.org</title>
+      <link>/project/learn_latex.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/learn_latex.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Statistics for Modern Biology</title>
+      <link>/project/msmb.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/msmb.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Practical Computing for Biologists</title>
       <link>/project/pcfb.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -997,6 +605,14 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
+      <title>R for Data Science</title>
+      <link>/project/rstudio_edu.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/rstudio_edu.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RStudio Primers</title>
       <link>/project/rstudio_primers.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -1013,47 +629,27 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
     </item>
     
     <item>
+      <title>UNIX Bootcamp</title>
+      <link>/project/unix_bootcamp.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/unix_bootcamp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIX for the Beginning Mage (UFBM)</title>
+      <link>/project/ufbm.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/ufbm.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UNIX Tutorial for Beginners</title>
       <link>/project/unix_beginners.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/project/unix_beginners.html</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Chante Bethell (2018 - 2019)</title>
-      <link>/project/chante-bethell.html</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/project/chante-bethell.html</guid>
-      <description>&lt;p&gt;Chante is a former undergraduate research student who graduated in May 2019 with her BSc in Bioinformatics from the department of Molecular and Cellular Biosciences at Rowan University. She is now a Biological Data Analyst at the &lt;a href=&#34;https://www.ccdatalab.org/&#34; target=&#34;_blank&#34;&gt;Childhood Cancer Data Lab&lt;/a&gt; in Philadelphia, PA.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Francis K. Picone (2019 - Present)</title>
-      <link>/project/frankie-picone.html</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/project/frankie-picone.html</guid>
-      <description>&lt;p&gt;Frankie is an undergraduate student majoring in Biology in the department of Biological Sciences at Rowan University. He is researching how different models of protein evolution affect and/or bias estimates of phylogenetic divergence.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Molly Miraglia (2019 - Present)</title>
-      <link>/project/molly-miraglia.html</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/project/molly-miraglia.html</guid>
-      <description>&lt;p&gt;Molly is an undergraduate student majoring in Bioinformatics in the department of Molecular and Cellular Biosciences at Rowan University. She is researching how multiple sequence alignment quality affects relative model selection in phylogenetics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Naman Srivastava (2019 - Present)</title>
-      <link>/project/naman-srivastava.html</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/project/naman-srivastava.html</guid>
-      <description>&lt;p&gt;Naman is an undergraduate student majoring in Biological Sciences Rowan University. He is researching the deep-time geological dynamics of metals commonly used as protein co-factors and is co-advised by Dr. Eli Moore in Rowan&amp;rsquo;s &lt;a href=&#34;https://earth.rowan.edu/departments/Environmental%20Science/faculty/index.html&#34; target=&#34;_blank&#34;&gt;Department of Environmental Sciences&lt;/a&gt; in the School of Earth and Environment.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1069,6 +665,14 @@ Exam 3 Review and Discussion      | None | Submit **1-2** review questions to Bl
       <link>/project/evolforces.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/evolforces.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introverse</title>
+      <link>/project/introverse.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/introverse.html</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/publication.html</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,17 +13,54 @@
     </image>
     
     <item>
+      <title>Relative model selection can be sensitive to multiple sequence alignment uncertainty</title>
+      <link>/publication/2021_spielmanmiraglia_biorxiv.html</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_spielmanmiraglia_biorxiv.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative model selection of evolutionary substitution models can be sensitive to multiple sequence alignment uncertainty</title>
+      <link>/publication/2021_spielmanmiraglia_bmc.html</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_spielmanmiraglia_bmc.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geological factors impacted cadmium availability and use as an alternative cofactor for zinc in the carbon fixation pathways of marine diatoms</title>
+      <link>/publication/2021_srivastavaetal_jgr.html</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_srivastavaetal_jgr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dragon: A New Tool for Exploring Redox Evolution Preserved in the Mineral Record</title>
+      <link>/publication/2020_spielmanmoore_fes.html</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_spielmanmoore_fes.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Model Fit Does Not Predict Topological Accuracy in Single-Gene Protein Phylogenetics</title>
+      <link>/publication/2020_spielman_mbe.html</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_spielman_mbe.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The evolving redox chemistry and bioavailability of vanadium in deep time</title>
       <link>/publication/2020_mooreetal_geobiology.html</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_mooreetal_geobiology.html</guid>
-      <description>&lt;!-- 
-
-publication = &#34;*Geobiology* In Press.&#34;
---&gt;
-
-&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -31,15 +68,6 @@ publication = &#34;*Geobiology* In Press.&#34;
       <link>/publication/2019_kosakovskyetal_mbe.html</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019_kosakovskyetal_mbe.html</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[PREPRINT] Relative model fit does not predict accuracy in single-gene protein phylogenetics</title>
-      <link>/publication/2019_spielman_biorxiv.html</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_spielman_biorxiv.html</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>

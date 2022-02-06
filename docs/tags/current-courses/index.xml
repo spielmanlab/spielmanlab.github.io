@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Courses | Spielman Lab</title>
+    <link>/tags/current-courses.html</link>
+      <atom:link href="/tags/current-courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Current Courses</title>
+      <link>/tags/current-courses.html</link>
+    </image>
+    
+    <item>
+      <title>Data Science for Biologists</title>
+      <link>/courses/datascience_for_biologists/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/datascience_for_biologists/</guid>
+      <description>&lt;p&gt;THE CLASS WEBSITE HAS MOVED HERE:  &lt;a href=&#34;https://sjspielman.github.io/datascience_for_biologists/&#34;&gt;https://sjspielman.github.io/datascience_for_biologists/&lt;/a&gt;. PLEASE UDPATE YOUR BOOKMARKS!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

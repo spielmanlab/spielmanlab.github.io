@@ -5,7 +5,7 @@
     <link>/authors.html</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,16 +15,40 @@
     <item>
       <title>**Stephanie J. Spielman**</title>
       <link>/authors/stephanie-j.-spielman.html</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/authors/stephanie-j.-spielman.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molly Miraglia</title>
+      <link>/authors/molly-miraglia.html</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/molly-miraglia.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eli K. Moore</title>
       <link>/authors/eli-k.-moore.html</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/authors/eli-k.-moore.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naman Srivastava</title>
+      <link>/authors/naman-srivastava.html</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/naman-srivastava.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaunna M. Morrison</title>
+      <link>/authors/shaunna-m.-morrison.html</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/shaunna-m.-morrison.html</guid>
       <description></description>
     </item>
     
@@ -337,7 +361,7 @@
       <link>/authors/admin.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin.html</guid>
-      <description>&lt;p&gt;Welcome to the Spielman Lab! We conduct research broadly within the fields of computational molecular evolution and evolutionary genomics. We use scientific computing, bioinformatics techniques, and biostatistics to study how DNA and protein sequences evolve. In particular, we are interested in the phylogenetic modeling frameworks used to describe sequence evolution.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;this-website-is-no-longer-maintained-and-will-be-moving-soon-to-sjspielmangithubio&#34;&gt;&lt;strong&gt;This website is NO LONGER MAINTAINED and will be moving soon to sjspielman.github.io.&lt;/strong&gt;&lt;/h1&gt;
 </description>
     </item>
     

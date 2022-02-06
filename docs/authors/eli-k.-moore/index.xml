@@ -5,7 +5,7 @@
     <link>/authors/eli-k.-moore.html</link>
       <atom:link href="/authors/eli-k.-moore/index.xml" rel="self" type="application/rss+xml" />
     <description>Eli K. Moore</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Eli K. Moore</title>
@@ -13,17 +13,27 @@
     </image>
     
     <item>
+      <title>Geological factors impacted cadmium availability and use as an alternative cofactor for zinc in the carbon fixation pathways of marine diatoms</title>
+      <link>/publication/2021_srivastavaetal_jgr.html</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_srivastavaetal_jgr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dragon: A New Tool for Exploring Redox Evolution Preserved in the Mineral Record</title>
+      <link>/publication/2020_spielmanmoore_fes.html</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_spielmanmoore_fes.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The evolving redox chemistry and bioavailability of vanadium in deep time</title>
       <link>/publication/2020_mooreetal_geobiology.html</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_mooreetal_geobiology.html</guid>
-      <description>&lt;!-- 
-
-publication = &#34;*Geobiology* In Press.&#34;
---&gt;
-
-&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

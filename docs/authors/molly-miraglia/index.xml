@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molly Miraglia | Spielman Lab</title>
+    <link>/authors/molly-miraglia.html</link>
+      <atom:link href="/authors/molly-miraglia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molly Miraglia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Molly Miraglia</title>
+      <link>/authors/molly-miraglia.html</link>
+    </image>
+    
+    <item>
+      <title>Relative model selection can be sensitive to multiple sequence alignment uncertainty</title>
+      <link>/publication/2021_spielmanmiraglia_biorxiv.html</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_spielmanmiraglia_biorxiv.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative model selection of evolutionary substitution models can be sensitive to multiple sequence alignment uncertainty</title>
+      <link>/publication/2021_spielmanmiraglia_bmc.html</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_spielmanmiraglia_bmc.html</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
